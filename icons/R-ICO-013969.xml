@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed TCR-CD3</name>
+	<description>Graphic representation of TCR and CD3 in detail</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0042101</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P09693</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04234</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P07766</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

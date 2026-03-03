@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Polyunsaturated fatty acid</name>
+	<description>Any fatty acid containing more than one double bond. Acids in this group are reported to have cardioprotective effects; and levels are lowered in chronic fatigue syndrome</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:26208</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PUFA</synonym>
+		<synonym>PUFAs</synonym>
+	</synonyms>
+</metadata>

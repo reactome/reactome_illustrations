@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>WDR5</name>
+	<description>WD repeat-containing protein 5.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P61964</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BIG3</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5766-1702" role="curator">Marc Gillespie</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>COPII vesicle</name>
+    <description>COPII is a coatomer, a type of vesicle coat protein that transports proteins from the rough endoplasmic reticulum to the Golgi apparatus</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>GO</db>
+            <id>GO:0030127</id>
+        </reference>
+    </references>
+</metadata>

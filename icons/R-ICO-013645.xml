@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ESTROGEN</name>
+    <description>A hormone that stimulates or controls the development and maintenance of female sex characteristics in mammals by binding to oestrogen receptors</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:50114</id>
+        </reference>
+    </references>
+</metadata>

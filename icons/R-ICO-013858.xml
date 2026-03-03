@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>1-acyl-sn-glycero-3-phospho-D-myo-inositol</name>
+	<description>A 1-acylglycerophosphoinositol in which sn-glycerol, acylated at O1, is linked through a phospho group at O3 to O1 of D-myo-inositol</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:28914</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>LPI</synonym>
+		<synonym>1-Acyl-sn-glycero-3-phosphoinositol</synonym>
+	</synonyms>
+</metadata>

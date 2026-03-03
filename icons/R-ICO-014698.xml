@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SWI/SNF complex</name>
+	<description>A SWI/SNF-type complex that contains 8 to 14 proteins, including both conserved (core) and nonconserved components; contains the ATPase product of the yeast SNF2 or mammalian SMARCA4/BAF190A/BRG1 gene, or an ortholog thereof.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0016514</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>SWI-SNF complex</synonym>
+	</synonyms>
+</metadata>

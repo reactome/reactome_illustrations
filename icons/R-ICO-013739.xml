@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MT-CYB</name>
+	<description>Mitochondrially encoded cytochrome b</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>ENSEMBL</db>
+			<id>ENSG00000198727</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P00156</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>COB</synonym>
+		<synonym>CYTB</synonym>
+		<synonym>MTCYB</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

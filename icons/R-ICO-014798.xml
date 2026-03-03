@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PEP</name>
+	<description>	An organophosphate oxoanion obtained by deprotonation of the carboxy and phosphate groups of phosphoenolpyruvic acid.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:58702</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>phosphoenolpyruvate</synonym>
+		<synonym>phosphonatoenolpyruvate(3−)</synonym>
+	</synonyms>
+</metadata>

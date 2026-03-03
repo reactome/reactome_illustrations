@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PLASMIN</name>
+    <description>Plasmin is an important enzyme present in blood that degrades many blood plasma proteins, including fibrin clots. The degradation of fibrin is termed fibrinolysis. In humans, the plasmin protein is encoded by the PLG gene</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P00747</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>PLG</synonym>
+    </synonyms>
+</metadata>

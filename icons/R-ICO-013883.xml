@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Phosphatidylcholine</name>
+	<description>A glycerophosphocholine that is glycero-3-phosphocholine bearing two acyl substituents at positions 1 and 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:64482</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PC</synonym>
+		<synonym>1,2-diacyl-glycero-3-phosphocholine</synonym>
+		<synonym>2,3-bis(acyloxy)propyl 2-(trimethylammonio)ethyl phosphate</synonym>
+	</synonyms>
+</metadata>

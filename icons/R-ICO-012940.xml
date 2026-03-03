@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>D-erythro-7,8-dihydrobiopterin</name>
+	<description>A 7,8-dihydrobiopterin in which the 1,2-dihydroxypropyl group has (1S,2R)-configuration</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15375</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BH2</synonym>
+		<synonym>7,8-Dihydrobiopterin</synonym>
+	</synonyms>
+</metadata>

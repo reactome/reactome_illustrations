@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>FMN</name>
+	<description>A flavin mononucleotide that is riboflavin (vitamin B2) in which the primary hydroxy group has been converted to its dihydrogen phosphate ester</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17621</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Flavin mononucleotide</synonym>
+		<synonym>riboflavin 5'-(dihydrogen phosphate)</synonym>
+		<synonym>riboflavin 5'-monophosphate</synonym>
+	</synonyms>
+</metadata>

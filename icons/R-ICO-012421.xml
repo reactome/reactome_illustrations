@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Amyloid fiber</name>
+    <description>Amyloids are aggregates of proteins that become folded into a shape that allows many copies of that protein to stick together forming fibrils</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0106003</id>
+        </reference>
+    </references>
+</metadata>

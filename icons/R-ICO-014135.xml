@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Multivesicular body</name>
+	<description>A type of endosome in which regions of the limiting endosomal membrane invaginate to form internal vesicles; membrane proteins that enter the internal vesicles are sequestered from the cytoplasm</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0005771</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MVB</synonym>
+		<synonym>MVE</synonym>
+		<synonym>Multivesicular endosome</synonym>
+	</synonyms>
+</metadata>

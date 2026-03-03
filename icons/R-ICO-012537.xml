@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CDC42</name>
+    <description>Cell division control protein 42 homolog</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P60953</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DPM2</name>
+	<description>Dolichol phosphate-mannose biosynthesis regulatory protein.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O94777</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Dolichol-phosphate mannose synthase subunit 2</synonym>
+		<synonym>DPM synthase subunit 2</synonym>
+		<synonym>My026</synonym>
+	</synonyms>
+</metadata>

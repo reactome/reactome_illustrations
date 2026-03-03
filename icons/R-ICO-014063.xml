@@ -1,0 +1,37 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed MAC</name>
+	<description>The membrane attack complex (MAC) or terminal complement complex (TCC) is a structure typically formed on the surface of pathogen cell membranes as a result of the activation of the host's complement system, and as such is one of the effector proteins of the immune system. MAC forms transmembrane channels that disrupt the cell membrane of target cells, leading to cell lysis and death. Active MAC is composed of the subunits C5b, C6, C7, C8 and several C9 molecules</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0005579</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P01031</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P13671</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P10643</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P07357</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P02748</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

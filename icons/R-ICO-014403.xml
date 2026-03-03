@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>F10</name>
+	<description>Coagulation factor X.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P00742</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Stuart factor</synonym>
+		<synonym>Stuart-Prower factor</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Biocytin</name>
+	<description>A monocarboxylic acid amide that results from the formal condensation of the carboxylic acid group of biotin with the N6-amino group of L-lysine</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:27870</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BCTN</synonym>
+		<synonym>(3aS-(3aα,4β,6aα))-N6-(5-(hexahydro-2-oxo-1H-thieno(3,4-d)imidazol-4-yl)-1-oxopentyl)-L-lysine</synonym>
+		<synonym>biotinyl-L-lysine</synonym>
+		<synonym>epsilon-N-Biotinyl-L-lysine</synonym>
+		<synonym>N(ε)-biotinyl-L-lysine</synonym>
+		<synonym>N-biotinyl-L-lysine</synonym>
+		<synonym>N6-D-Biotinyl-L-lysine</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>lef</name>
+	<description>Lethal factor</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P15917</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>LF</synonym>
+		<synonym>Anthrax lethal toxin endopeptidase component</synonym>
+		<synonym>pXO1-107</synonym>
+		<synonym>BXA0172</synonym>
+		<synonym>GBAA_pXO1_0172</synonym>
+	</synonyms>
+</metadata>

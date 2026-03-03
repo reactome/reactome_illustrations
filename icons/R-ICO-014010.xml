@@ -1,0 +1,33 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>BCL10</name>
+	<description>B-cell lymphoma/leukemia 10</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O95999</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>B-cell CLL/lymphoma 10</synonym>
+		<synonym>Bcl-10</synonym>
+		<synonym>CARD-containing molecule enhancing NF-kappa-B</synonym>
+		<synonym>CARD-like apoptotic protein</synonym>
+		<synonym>hCLAP</synonym>
+		<synonym>CED-3/ICH-1 prodomain homologous E10-like regulator</synonym>
+		<synonym>CIPER</synonym>
+		<synonym>vCARMEN</synonym>
+		<synonym>cCARMEN</synonym>
+		<synonym>Cellular-E10</synonym>
+		<synonym>c-E10</synonym>
+		<synonym>Mammalian CARD-containing adapter molecule E10</synonym>
+		<synonym>mE10</synonym>
+		<synonym>CLAP</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PDGFRA</name>
+	<description>Detailed graphic representation of Platelet-derived growth factor receptor alpha</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P16234</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PDGF-R-alpha</synonym>
+		<synonym>PDGFR-alpha</synonym>
+		<synonym>Alpha platelet-derived growth factor receptor</synonym>
+		<synonym>Alpha-type platelet-derived growth factor receptor</synonym>
+		<synonym>CD140 antigen-like family member A</synonym>
+		<synonym>CD140a antigen</synonym>
+		<synonym>Platelet-derived growth factor alpha receptor</synonym>
+		<synonym>Platelet-derived growth factor receptor 2</synonym>
+		<synonym>PDGFR-2</synonym>
+		<synonym>CD140a</synonym>
+		<synonym>RHEPDGFRA</synonym>
+	</synonyms>
+</metadata>

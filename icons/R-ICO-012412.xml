@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Allose</name>
+    <description>Allose is an aldohexose sugar. It is a rare monosaccharide that occurs as a 6-O-cinnamyl glycoside in the leaves of the African shrub Protea rubropilosa</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:37690</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5494-626X" role="curator">Peter D'Eustachio</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CHOLECALCIFEROL</name>
+    <description>Cholecalciferol, also known as vitamin D3, is a type of vitamin D which is made by the skin, found in some foods, and taken as a dietary supplement</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:28940</id>
+        </reference>
+    </references>
+</metadata>

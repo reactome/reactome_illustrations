@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+        <category>receptor</category>
+        <category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ITGB1</name>
+	<description>Integrin beta-1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P05556</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Fibronectin receptor subunit beta</synonym>
+		<synonym>Glycoprotein IIa (GPIIA)</synonym>
+		<synonym>VLA-4 subunit beta</synonym>
+		<synonym>CD29</synonym>
+		<synonym>FNRB</synonym>
+		<synonym>MDF2</synonym>
+		<synonym>MSK12</synonym>
+	</synonyms>
+</metadata>

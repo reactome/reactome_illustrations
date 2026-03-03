@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SRD5A3</name>
+	<description>Polyprenol reductase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9H8P0</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>3-oxo-5-alpha-steroid 4-dehydrogenase 3</synonym>
+		<synonym>Steroid 5-alpha-reductase 2-like</synonym>
+		<synonym>Steroid 5-alpha-reductase 3</synonym>
+		<synonym>S5AR 3</synonym>
+		<synonym>SR type 3</synonym>
+		<synonym>SRD5A2L</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>C4b</name>
+	<description>C4b is derived from native C4 upon cleavage and release of C4a. It is prepared by cleavage of purified C4 with the classical pathway activated protease C1s enzyme</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P0C0L5</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

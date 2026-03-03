@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MutSalpha</name>
+	<description>A heterodimer involved in the recognition and repair of base-base and small insertion/deletion mismatches. In human the complex consists of two subunits, MSH2 and MSH6.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0032301</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MSH2/MSH6 complex</synonym>
+		<synonym>MMR complex</synonym>
+	</synonyms>
+</metadata>

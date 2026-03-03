@@ -1,0 +1,39 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Laminin-111</name>
+	<description>Laminin–111 (also Laminin–1) is a protein of the type known as laminin isoforms. The "111" identifies the isoform's chain composition of alpha1beta1gamma1. This protein plays an important role in embryonic development.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q16787</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q13751</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q13753</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Laminin subunit alpha-3</synonym>
+		<synonym>Laminin subunit beta-3</synonym>
+		<synonym>Laminin subunit gamma-2</synonym>
+		<synonym>LAMNA</synonym>
+		<synonym>LAMNB1</synonym>
+		<synonym>LAMB2T</synonym>
+		<synonym>LAMNB2</synonym>
+		<synonym>Epiligrin subunit alpha</synonym>
+		<synonym>Epiligrin subunit beta</synonym>
+		<synonym>Epiligrin subunit gamma</synonym>
+		<synonym>Kalinin subunit alpha</synonym>
+		<synonym>Kalinin subunit beta</synonym>
+		<synonym>Kalinin subunit gamma</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>OTC</name>
+	<description>Ornithine transcarbamylase, mitochondrial.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P00480</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>OTCase</synonym>
+		<synonym>Ornithine carbamoyltransferase, mitochondrial</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GNB1,3</name>
+	<description>Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1 and 3</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P62873</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P16520</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Transducin beta chain 1</synonym>
+		<synonym>Transducin beta chain 3</synonym>
+	</synonyms>
+</metadata>

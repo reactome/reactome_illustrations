@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Alpha-linoleic acid</name>
+	<description>A linolenic acid with cis-double bonds at positions 9, 12 and 15. Shown to have an antithrombotic effect</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:27432</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ALA</synonym>
+		<synonym>all-cis-9,12,15-octadecatrienoic acid</synonym>
+		<synonym>9,12,15-Octadecatrienoic acid</synonym>
+		<synonym>(9,12,15)-linolenic acid</synonym>
+	</synonyms>
+</metadata>

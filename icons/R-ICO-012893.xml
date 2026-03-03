@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-5494-626X" role="curator">Peter D'Eustachio</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>INSIG</name>
+    <description>Insulin-induced gene 1 protein member</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O15503</id>
+        </reference>
+    </references>
+</metadata>

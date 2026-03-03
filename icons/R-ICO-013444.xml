@@ -1,0 +1,37 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>TNFRSF10</name>
+    <description>Representation of Tumor necrosis factor receptor superfamily member 10 A or B</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O00220</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O14763</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>TNFRSF10A</synonym>
+        <synonym>APO2</synonym>
+        <synonym>DR4</synonym>
+        <synonym>TRAILR1</synonym>
+        <synonym>CD261</synonym>
+        <synonym>TNFRSF10B</synonym>
+        <synonym>DR5</synonym>
+        <synonym>KILLER</synonym>
+        <synonym>TRAILR2</synonym>
+        <synonym>TRICK2</synonym>
+        <synonym>ZTNFR9</synonym>
+        <synonym>CD262</synonym>
+        <synonym>UNQ160</synonym>
+        <synonym>PRO186</synonym>
+    </synonyms>
+</metadata>

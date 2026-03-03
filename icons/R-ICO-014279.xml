@@ -1,0 +1,44 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ESCRT-III spiral structure</name>
+	<description>Spiral structure formed by the ESCRT-III subunits Vps20, Snf7, Vps24, Vps2, and CHMP7</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-329</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q96FZ7</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9BY43</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y3E7</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O43633</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8WUX9</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ESCRT-III</synonym>
+		<synonym>Vps20</synonym>
+		<synonym>Snf7</synonym>
+		<synonym>Vps24</synonym>
+		<synonym>Vps2</synonym>
+		<synonym>CHMP7</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Diglyceride</name>
+    <description>Diglyceride or diacylglycerol</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:18035</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>DAG</synonym>
+    </synonyms>
+</metadata>

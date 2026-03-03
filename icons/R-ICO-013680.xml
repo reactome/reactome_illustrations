@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>human_tissue</category>
+    </categories>
+	<person orcid="0000-0002-0826-9069" role="curator">Nicholas Norwitz</person>
+	<person orcid="0000-0002-8803-6475" role="designer">Sam Norwitz</person>
+    <name>Brain section</name>
+    <description>A cortical cross-section of a human brain</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UBERON</db>
+            <id>UBERON:0000955</id>
+        </reference>
+    </references>
+</metadata>

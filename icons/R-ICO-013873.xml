@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>L-Ascorbate</name>
+	<description>The L-enantiomer of ascorbate and conjugate base of L-ascorbic acid, arising from selective deprotonation of the 3-hydroxy group. Required for a range of essential metabolic reactions in all animals and plants</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:38290</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AscH-</synonym>
+		<synonym>Ascorbate</synonym>
+		<synonym>Vitamin C</synonym>
+	</synonyms>
+</metadata>

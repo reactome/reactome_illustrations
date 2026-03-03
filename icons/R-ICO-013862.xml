@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CDP-choline</name>
+	<description>A member of the class of phosphocholines that is the chloine ester of CDP. It is an intermediate obtained in the biosynthetic pathway of structural phospholipids in cell membranes</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16436</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CDP-Cho</synonym>
+		<synonym>Citicoline</synonym>
+		<synonym>Cytidine 5'-diphosphocholine</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>FKBP5</name>
+	<description>Peptidyl-prolyl cis-trans isomerase FKBP5.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q13451</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AIG6</synonym>
+		<synonym>FKBP51</synonym>
+		<synonym>51 kDa FK506-binding protein (51 kDa FKBP; FKBP-51)</synonym>
+		<synonym>54 kDa progesterone receptor-associated immunophilin</synonym>
+		<synonym>Androgen-regulated protein 6</synonym>
+		<synonym>FF1 antigen</synonym>
+		<synonym>FK506-binding protein 5 (FKBP-5)</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Tunnel of Corti</name>
+	<description>A triangular, fluid-filled space normally found between the inner and outer rows of supporting pillar cells in the organ of Corti</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0005972</id>
+		</reference>
+	</references>
+</metadata>

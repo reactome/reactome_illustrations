@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ESCRT-I</name>
+	<description>Endosomal Sorting Complex Required for Transport I</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0000813</id>
+		</reference>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-940</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

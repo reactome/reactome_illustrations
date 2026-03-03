@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TLR5</name>
+	<description>Toll-like receptor 5.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60602</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Toll/interleukin-1 receptor-like protein 3</synonym>
+		<synonym>TIL3</synonym>
+	</synonyms>
+</metadata>

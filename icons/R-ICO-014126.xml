@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TGFBR2</name>
+	<description>TGF-beta receptor type-2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P37173</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>TGFR-2</synonym>
+		<synonym>TGF-beta type II receptor</synonym>
+		<synonym>Transforming growth factor-beta receptor type II</synonym>
+		<synonym>TGF-beta receptor type II</synonym>
+		<synonym>TbetaR-II</synonym>
+	</synonyms>
+</metadata>

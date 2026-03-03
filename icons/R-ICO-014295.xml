@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Sedoheptulose 7-phosphate</name>
+	<description>A ketoheptose phosphate consisting of sedoheptulose having a phosphate group at the 7-position. It is an intermediate metabolite in the pentose phosphate pathway.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15721</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>D-altro-hept-2-ulose 7-phosphate</synonym>
+		<synonym>altro-Heptulose 7-phosphate</synonym>
+		<synonym>D-altro-Heptulose 7-phosphate</synonym>
+		<synonym>SH7P</synonym>
+	</synonyms>
+</metadata>

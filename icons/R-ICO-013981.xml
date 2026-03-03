@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PTPN22</name>
+	<description>Tyrosine-protein phosphatase non-receptor type 22</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y2R2</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Hematopoietic cell protein-tyrosine phosphatase 70Z-PEP</synonym>
+		<synonym>Lymphoid phosphatase</synonym>
+		<synonym>LyP</synonym>
+		<synonym>PEST-domain phosphatase</synonym>
+		<synonym>PEP</synonym>
+		<synonym>PTPN8</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

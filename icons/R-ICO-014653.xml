@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>bHIBA</name>
+	<description>3-hydroxyisobutyrate.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:11805</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>3-hydroxy-2-methylpropanoate</synonym>
+		<synonym>3-hydroxy-2-isobutyrate</synonym>
+		<synonym>3-hydroxy-2-methylpropionate</synonym>
+	</synonyms>
+</metadata>

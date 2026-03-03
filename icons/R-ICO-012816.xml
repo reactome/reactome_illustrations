@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Heparan sulfate</name>
+    <description>Heparan sulfate (HS) is a linear polysaccharide found in all animal tissues. It occurs as a proteoglycan (HSPG) in which two or three HS chains are attached in close proximity to cell surface or extracellular matrix proteins</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:28815</id>
+        </reference>
+    </references>
+</metadata>

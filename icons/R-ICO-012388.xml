@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ACVR</name>
+    <description>Family of Activin receptors</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>INTERPRO</db>
+            <id>IPR000472</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>ACVR1B</synonym>
+    </synonyms>
+</metadata>

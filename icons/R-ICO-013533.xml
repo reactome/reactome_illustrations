@@ -1,0 +1,40 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>WAVE complex</name>
+    <description>The WAVE regulatory complex is a five-subunit protein complex in the Wiskott-Aldrich syndrome protein, WASP, family involved in the formation of the actin cytoskeleton</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0031209</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q9Y6W5</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q9Y2A7</id>
+        </reference>
+           <reference>
+            <db>UNIPROT</db>
+            <id>Q8WUW1</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q7L576</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q96F07</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P55160</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HIV</name>
+	<description>Graphic representation of the Human Immunodeficiency Virus</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0007824</id>
+		</reference>
+	</references>
+</metadata>

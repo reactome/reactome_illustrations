@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>L-phenylalanine</name>
+	<description>L-phenylalanine zwitterion</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:58095</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>(2S)-2-ammonio-3-phenylpropanoate</synonym>
+		<synonym>phenylalanine</synonym>
+	</synonyms>
+</metadata>

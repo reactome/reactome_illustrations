@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Naive CD4+ T cell</name>
+	<description>An antigen inexperienced CD4-positive, alpha-beta T cell with the phenotype CCR7-positive, CD127-positive and CD62L-positive. This cell type develops in the thymus. This cell type is also described as being CD25-negative, CD62L-high, and CD44-low.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000895</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>naive thymus-derived CD4-positive, alpha-beta T lymphocyte</synonym>
+		<synonym>naive thymus-derived CD4-positive, alpha-beta T-cell</synonym>
+		<synonym>naive thymus-derived CD4-positive, alpha-beta T-lymphocyte</synonym>
+		<synonym>T.4Nve.Sp</synonym>
+		<synonym>Th0</synonym>
+		<synonym>naive CD4+ T cell</synonym>
+	</synonyms>
+</metadata>

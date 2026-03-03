@@ -1,0 +1,41 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>BAX/BAK pore</name>
+	<description>Graphic representation of a BAX/BAK mitochondrial pore</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0097144</id>
+		</reference>
+		<reference>
+			<db>GO</db>
+			<id>GO:0097145</id>
+		</reference>
+		<reference>
+			<db>GO</db>
+			<id>GO:0097136</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q07812</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q5ZPJ0</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q16611</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BCL2L4</synonym>
+		<synonym>BCL2L7</synonym>
+		<synonym>CDN1</synonym>
+	</synonyms>
+</metadata>

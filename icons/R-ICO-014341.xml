@@ -1,0 +1,43 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DLL/JAG ligand</name>
+	<description>Generic representation of DLL and JAG ligands</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O00548</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NR61</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P78504</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y219</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Drosophila Delta homolog 1</synonym>
+		<synonym>Delta1</synonym>
+		<synonym>H-Delta-1</synonym>
+		<synonym>UNQ146/PRO172</synonym>
+		<synonym>Drosophila Delta homolog 4</synonym>
+		<synonym>Delta4</synonym>
+		<synonym>UNQ1895/PRO4341</synonym>
+		<synonym>Jagged1</synonym>
+		<synonym>hJ1</synonym>
+		<synonym>CD339</synonym>
+		<synonym>JAGL1</synonym>
+		<synonym>Jagged2</synonym>
+		<synonym>hJ2</synonym>
+	</synonyms>
+</metadata>

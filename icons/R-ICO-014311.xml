@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ALG3</name>
+	<description>Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q92685</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Asparagine-linked glycosylation protein 3 homolog</synonym>
+		<synonym>Dol-P-Man-dependent alpha(1-3)-mannosyltransferase</synonym>
+		<synonym>Dolichyl-P-Man:Man(5)GlcNAc(2)-PP-dolichyl mannosyltransferase</synonym>
+		<synonym>Dolichyl-phosphate-mannose--glycolipid alpha-mannosyltransferase</synonym>
+		<synonym>Not56-like protein</synonym>
+		<synonym>NOT</synonym>
+		<synonym>NOT56L</synonym>
+	</synonyms>
+</metadata>

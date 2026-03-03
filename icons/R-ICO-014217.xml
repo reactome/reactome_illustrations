@@ -1,0 +1,71 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Dynein complex</name>
+	<description>Dynein is a family of cytoskeletal motor proteins that move along microtubules in cells</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0030286</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q14204</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O14576</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q13409</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P63167</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q96FJ2</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O43237</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y6G9</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DYNC1H1</synonym>
+		<synonym>DHC1</synonym>
+		<synonym>DNCH1</synonym>
+		<synonym>DNCL</synonym>
+		<synonym>DNECL</synonym>
+		<synonym>DYHC</synonym>
+		<synonym>KIAA0325</synonym>
+		<synonym>DYNC1I1</synonym>
+		<synonym>DNCI1</synonym>
+		<synonym>DNCIC1</synonym>
+		<synonym>DYNC1I2</synonym>
+		<synonym>DNCI2</synonym>
+		<synonym>DNCIC2</synonym>
+		<synonym>DYNLL1</synonym>
+		<synonym>DLC1</synonym>
+		<synonym>DNCL1</synonym>
+		<synonym>DNCLC1</synonym>
+		<synonym>HDLC1</synonym>
+		<synonym>DYNLL2</synonym>
+		<synonym>DLC2</synonym>
+		<synonym>DYNC1LI2</synonym>
+		<synonym>DNCLI2</synonym>
+		<synonym>LIC2</synonym>
+		<synonym>DYNC1LI1</synonym>
+		<synonym>DNCLI1</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,31 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>AMPK</name>
+	<description>Generic representation for AMP-activated protein kinase</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P54646</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O43741</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UGJ0</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PRKAA2</synonym>
+		<synonym>AMPK2</synonym>
+		<synonym>PRKAB2</synonym>
+		<synonym>PRKAG2</synonym>
+		<synonym>H91620p</synonym>
+	</synonyms>
+</metadata>

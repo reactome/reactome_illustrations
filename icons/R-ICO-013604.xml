@@ -1,0 +1,18 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5038-1185" role="curator">Kaiqiang You</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Paraspeckle</name>
+    <description>Discrete subnuclear bodies in the interchromatin nucleoplasmic space, often located adjacent to nuclear specks. 10-20 paraspeckles are typically found in human cell nuclei</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0042382</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>
+

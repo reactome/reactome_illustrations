@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GNE</name>
+	<description>Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y223</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>UDP-GlcNAc-2-epimerase/ManAc kinase</synonym>
+		<synonym>UDP-N-acetylglucosamine 2-epimerase (hydrolyzing)</synonym>
+		<synonym>UDP-GlcNAc-2-epimerase</synonym>
+		<synonym>Uridine diphosphate-N-acetylglucosamine-2-epimerase</synonym>
+		<synonym>N-acetylmannosamine kinase</synonym>
+		<synonym>ManAc kinase</synonym>
+		<synonym>GLCNE</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DPAGT1</name>
+	<description>UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9H3H5</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>GlcNAc-1-P transferase</synonym>
+		<synonym>G1PT</synonym>
+		<synonym>GPT</synonym>
+		<synonym>N-acetylglucosamine-1-phosphate transferase</synonym>
+		<synonym>DPAGT2</synonym>
+	</synonyms>
+</metadata>

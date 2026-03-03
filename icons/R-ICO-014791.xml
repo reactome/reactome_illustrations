@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Sweat gland</name>
+	<description>Any of the coil glands of the skin that secrete sweat.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0001820</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>glandula sudorifera</synonym>
+		<synonym>sudoriferous gland</synonym>
+		<synonym>sudoriparous gland</synonym>
+	</synonyms>
+</metadata>

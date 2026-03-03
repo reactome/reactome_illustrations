@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Maltose</name>
+    <description>Maltose, also known as maltobiose or malt sugar, is a disaccharide formed from two units of glucose joined with an alpha bond. Maltose is the two-unit member of the amylose homologous series, the key structural motif of starch</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:17306</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Electrophilic omega 3 oxo-derivatives</name>
+	<description>Electrophilic oxo-derivatives of ω-3 polyunsaturated fatty acids (ω-3 PUFAs) are generated in macrophages and neutrophils in response to inflammation and oxidative stress to promote the resolution of inflammation. Being electrophilic, these derivatives reversibly bind to nucleophilic residues on target proteins, triggering the activation of cytoprotective pathways. These electrophilic derivatives transduce anti-inflammatory actions rather than suppress the production of pro-inflammatory arachidonic acid metabolites</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:140399</id>
+		</reference>
+	</references>
+</metadata>

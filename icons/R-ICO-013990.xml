@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PTEN</name>
+	<description>Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P60484</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Mutated in multiple advanced cancers 1</synonym>
+		<synonym>Phosphatase and tensin homolog</synonym>
+		<synonym>MMAC1</synonym>
+		<synonym>TEP1</synonym>
+	</synonyms>
+</metadata>

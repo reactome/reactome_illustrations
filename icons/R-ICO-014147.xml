@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>vpr</name>
+	<description>Viral protein R. During virus entry, plays a role in the transport of the viral pre-integration (PIC) complex to the host nucleus</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P69726</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Protein Vpr</synonym>
+		<synonym>R ORF protein</synonym>
+		<synonym>Viral protein R</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,44 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>KMT2 </name>
+	<description>Histone-lysine N-methyltransferase subclass 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q03164</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UMN6</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8NEZ4</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O14686</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O15047</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UPS6</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>KMT2A</synonym>
+		<synonym>KMT2B</synonym>
+		<synonym>KMT2C</synonym>
+		<synonym>KMT2D</synonym>
+		<synonym>SETD1A</synonym>
+		<synonym>SETD1B</synonym>
+	</synonyms>
+</metadata>

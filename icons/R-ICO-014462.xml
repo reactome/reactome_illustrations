@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GYS2</name>
+	<description>Glycogen [starch] synthase, liver.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P54840</id>
+		</reference>
+	</references>
+</metadata>

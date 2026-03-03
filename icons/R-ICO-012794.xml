@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>GPR161</name>
+    <description>G-protein coupled receptor 161</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q8N6U8</id>
+        </reference>
+    </references>
+</metadata>

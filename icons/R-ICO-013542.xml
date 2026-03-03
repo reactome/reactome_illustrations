@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Zinc</name>
+    <description>Zinc</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:29105</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Zn2+</synonym>
+    </synonyms>
+</metadata>

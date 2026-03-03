@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Stem Cell</name>
+	<description>Relatively undifferentiated cells that retain the ability to divide and proliferate throughout postnatal life to provide progenitor cells that can differentiate into specialized cells</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>MESH</db>
+			<id>D013234</id>
+		</reference>
+	</references>
+</metadata>

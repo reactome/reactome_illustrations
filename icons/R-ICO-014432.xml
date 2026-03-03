@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCC1</name>
+	<description>Multidrug resistance-associated protein 1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P33527</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ATP-binding cassette sub-family C member 1</synonym>
+		<synonym>Glutathione-S-conjugate-translocating ATPase ABCC1</synonym>
+		<synonym>Leukotriene C(4) transporter</synonym>
+		<synonym>LTC4 transporter</synonym>
+		<synonym>MRP</synonym>
+		<synonym>MRP1</synonym>
+	</synonyms>
+</metadata>

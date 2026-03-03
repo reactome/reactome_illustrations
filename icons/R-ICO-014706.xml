@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NS2A</name>
+	<description>The Non-structural protein 2A is a component of the viral RNA replication complex that functions in virion assembly and antagonizes the host immune response.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P29990</id>
+		</reference>
+	</references>
+</metadata>

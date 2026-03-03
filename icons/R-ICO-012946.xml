@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Late endosome</name>
+    <description>Late endosomes, also known as MVBs, are mainly spherical, lack tubules, and contain many close-packed lumenal vesicles</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0005770</id>
+        </reference>
+    </references>
+</metadata>

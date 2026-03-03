@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ITGB3BP</name>
+    <description>Centromere protein R</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q13352</id>
+        </reference>
+    </references>
+</metadata>

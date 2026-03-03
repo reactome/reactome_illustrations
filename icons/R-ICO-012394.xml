@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ADAT2</name>
+    <description>tRNA-specific adenosine deaminase 2</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q7Z6V5</id>
+        </reference>
+    </references>
+</metadata>

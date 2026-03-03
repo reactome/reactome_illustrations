@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DPM1</name>
+	<description>Dolichol-phosphate mannosyltransferase subunit 1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60762</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Dolichol-phosphate mannose synthase subunit 1</synonym>
+		<synonym>DPM synthase subunit 1</synonym>
+		<synonym>Dolichyl-phosphate beta-D-mannosyltransferase subunit 1</synonym>
+		<synonym>Mannose-P-dolichol synthase subunit 1</synonym>
+		<synonym>MPD synthase subunit 1</synonym>
+	</synonyms>
+</metadata>

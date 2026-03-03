@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>EXT1</name>
+	<description>Exostosin-1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q16394</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Glucuronosyl-N-acetylglucosaminyl-proteoglycan/N-acetylglucosaminyl-proteoglycan 4-alpha-N-acetylglucosaminyltransferase</synonym>
+		<synonym>Multiple exostoses protein 1</synonym>
+		<synonym>Putative tumor suppressor protein EXT1</synonym>
+	</synonyms>
+</metadata>

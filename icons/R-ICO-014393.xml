@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GALT</name>
+	<description>Galactose-1-phosphate uridylyltransferase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P07902</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Gal-1-P uridylyltransferase</synonym>
+		<synonym>UDP-glucose--hexose-1-phosphate uridylyltransferase</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IRF3</name>
+	<description>Key transcriptional regulator of type I interferon (IFN)-dependent immune responses which plays a critical role in the innate immune response against DNA and RNA viruses</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q14653</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>IRF-3</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

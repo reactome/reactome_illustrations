@@ -1,0 +1,26 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>TICAM1</name>
+    <description>TIR domain-containing adapter molecule 1</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q8IUC6</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>TICAM-1</synonym>
+        <synonym>Proline-rich, vinculin and TIR domain-containing protein B</synonym>
+        <synonym>Putative NF-kappa-B-activating protein 502H</synonym>
+        <synonym>Toll-interleukin-1 receptor domain-containing adapter protein inducing interferon beta</synonym>
+        <synonym>MyD88-3</synonym>
+        <synonym>TIR domain-containing adapter protein inducing IFN-beta</synonym>
+        <synonym>PRVTIRB</synonym>
+        <synonym>TRIF</synonym>
+    </synonyms>
+</metadata>

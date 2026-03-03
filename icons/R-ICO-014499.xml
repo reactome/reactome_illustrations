@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ASPIRIN</name>
+	<description>A benzoate that is the conjugate base of acetylsalicylic acid, arising from deprotonation of the carboxy group.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>4139</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15365</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>acetylsalicylic acid</synonym>
+		<synonym>Aspirin®</synonym>
+		<synonym>Acetophen</synonym>
+		<synonym>Acetophen®</synonym>
+		<synonym>ASA</synonym>
+	</synonyms>
+</metadata>

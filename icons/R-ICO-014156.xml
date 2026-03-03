@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Destruction complex</name>
+	<description>A cytoplasmic protein complex containing glycogen synthase kinase-3-beta (GSK-3-beta), the adenomatous polyposis coli protein (APC), and the scaffolding protein axin, among others; phosphorylates beta-catenin, targets it for degradation by the proteasome</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0030877</id>
+		</reference>
+	</references>
+</metadata>

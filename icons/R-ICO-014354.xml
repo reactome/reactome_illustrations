@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GALE</name>
+	<description>UDP-glucose 4-epimerase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q14376</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Galactowaldenase</synonym>
+		<synonym>UDP-N-acetylgalactosamine 4-epimerase</synonym>
+		<synonym>UDP-GalNAc 4-epimerase</synonym>
+		<synonym>UDP-N-acetylglucosamine 4-epimerase</synonym>
+		<synonym>UDP-GlcNAc 4-epimerase</synonym>
+		<synonym>UDP-galactose 4-epimerase</synonym>
+	</synonyms>
+</metadata>

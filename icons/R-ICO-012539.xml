@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5707-3065" role="curator">Lisa Matthews</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CDC6</name>
+    <description>Cell division control protein 6 homolog</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q99741</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Pseudouridine</name>
+    <description>An isomer of the nucleoside uridine in which the uracil is attached via a carbon-carbon instead of a nitrogen-carbon glycosidic bond</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:17802</id>
+        </reference>
+    </references>
+</metadata>

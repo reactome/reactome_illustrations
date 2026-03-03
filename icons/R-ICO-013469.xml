@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>TRM112</name>
+    <description>Multifunctional methyltransferase subunit TRM112-like protein</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q9UI30</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>TRMT112</synonym>
+    </synonyms>
+</metadata>

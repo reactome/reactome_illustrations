@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Sulfate</name>
+	<description>A sulfur oxoanion obtained by deprotonation of both OH groups of sulfuric acid</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16189</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>[SO4]2−</synonym>
+		<synonym>SO42−</synonym>
+		<synonym>Sulfate anion(2-)</synonym>
+		<synonym>Sulfate dianion</synonym>
+		<synonym>SULFATE ION</synonym>
+		<synonym>Sulfate(2-)</synonym>
+		<synonym>Sulfuric acid ion(2-)</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>L-Dehydroascorbate</name>
+	<description>An organic anion and the conjugate base of L-dehydroascorbic acid, arising from deprotonation of the acidic C2-position</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:58539</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DeHA</synonym>
+		<synonym>dehydroascorbate</synonym>
+		<synonym>dehydro-L-ascorbate</synonym>
+	</synonyms>
+</metadata>

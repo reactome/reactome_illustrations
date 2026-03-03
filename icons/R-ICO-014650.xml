@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+        <category>receptor</category>
+        <category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>P2RY2</name>
+	<description>P2Y purinoceptor 2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P41231</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>P2Y2</synonym>
+		<synonym>ATP receptor</synonym>
+		<synonym>P2U purinoceptor 1 (P2U1)</synonym>
+		<synonym>P2U receptor 1</synonym>
+		<synonym>Purinergic receptor</synonym>
+		<synonym>P2RU1</synonym>
+	</synonyms>
+</metadata>

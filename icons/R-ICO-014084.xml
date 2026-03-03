@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GYG</name>
+	<description>Graphic representation of Glycogenin-1 and/or Glycogenin-2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P46976</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O15488</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>GN1</synonym>
+		<synonym>GN2</synonym>
+		<synonym>GYG1</synonym>
+		<synonym>GYG2</synonym>
+	</synonyms>
+</metadata>

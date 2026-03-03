@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>5,6,7,8-tetrahydrobiopterin</name>
+	<description>Tetrahydrobiopterin (BH4), also known as sapropterin, is a cofactor of the three aromatic amino acid hydroxylase enzymes, used in the degradation of amino acid phenylalanine and in the biosynthesis of the neurotransmitters serotonin (5-hydroxytryptamine, 5-HT), melatonin, dopamine, norepinephrine (noradrenaline), epinephrine (adrenaline), and is a cofactor for the production of nitric oxide (NO) by the nitric oxide synthases</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15372</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BH4</synonym>
+		<synonym>Tetrahydrobiopterin</synonym>
+		<synonym>5,6,7,8-tetrahydrobiopterin</synonym>
+	</synonyms>
+</metadata>

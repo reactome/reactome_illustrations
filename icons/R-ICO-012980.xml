@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>MAP2K1,2</name>
+    <description>Dual specificity mitogen-activated protein kinase kinase 1 and 2, also known as MEKs</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q02750</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P36507</id>
+        </reference>
+    </references>
+</metadata>

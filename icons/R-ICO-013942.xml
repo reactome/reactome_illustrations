@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Reticular lamina</name>
+	<description>A reticular lamina of epithelium that is part of a spiral organ of cochlea</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0007825</id>
+		</reference>
+	</references>
+</metadata>

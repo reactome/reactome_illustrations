@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CALCITRIOL</name>
+    <description>Calcitriol increases the level of calcium (Ca2+) in the blood by increasing the uptake of calcium from the gut into the blood, increasing reabsorption of calcium by the kidneys, and possibly increasing the release of calcium into the blood from bone</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:17823</id>
+        </reference>
+    </references>
+</metadata>

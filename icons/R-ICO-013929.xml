@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Papillomavirus</name>
+	<description>Human papillomavirus (HPV) is a viral infection that’s passed between people through skin-to-skin contact. There are over 100 varieties of HPV, more than 40 of which are passed through sexual contact and can affect your genitals, mouth, or throat</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0025087</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

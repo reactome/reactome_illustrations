@@ -1,0 +1,23 @@
+<metadata>
+    <categories>
+        <category>human_tissue</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Kidneys and Adrenal glands</name>
+    <description>Representation of the kidneys and adrenal glands</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UBERON</db>
+            <id>UBERON:0002113</id>
+        </reference>
+        <reference>
+            <db>UBERON</db>
+            <id>UBERON:0002369</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>kidney_adrenal_glands</synonym>
+    </synonyms>
+</metadata>

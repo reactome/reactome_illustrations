@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0003-4634-4995" role="curator">David Eccles</person>
+    <person orcid="0000-0003-4634-4995" role="designer">David Eccles</person>
+    <name>DNA 3D</name>
+    <description>Strand model of a linear double-stranded DNA sequence, 30nt long. Colours represent different bases; A:green, C:blue, G:yellow, T:red</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:4705</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

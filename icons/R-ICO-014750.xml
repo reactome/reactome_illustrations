@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>INO80 complex</name>
+	<description>A multisubunit protein complex that contains the Ino80p ATPase; exhibits chromatin remodeling activity.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0031011</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>INO80 chromatin remodeling complex</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed CD28</name>
+	<description>T-cell-specific surface glycoprotein CD28</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P10747</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>TP44</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

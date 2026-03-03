@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>transporter</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Uniporter 01</name>
+    <description>Uniporter carrier proteins work by binding to one molecule of substrate at a time and transporting it with its concentration gradient</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0015292</id>
+        </reference>
+    </references>
+</metadata>

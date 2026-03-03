@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Electron Transport Chain</name>
+	<description>The electron transport chain (Figure 1) is the last component of aerobic respiration and is the only part of glucose metabolism that uses atmospheric oxygen</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0022900</id>
+		</reference>
+	</references>
+</metadata>

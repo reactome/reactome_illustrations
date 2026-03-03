@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk/">Cristoffer Sevilla</person>
+	<name>MITF</name>
+	<description>Microphthalmia-associated transcription factor.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75030</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BHLHE32</synonym>
+	</synonyms>
+</metadata>

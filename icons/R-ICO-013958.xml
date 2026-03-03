@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Disease neuron</name>
+	<description>Graphic representation of a disease affected neuron</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000540</id>
+		</reference>
+	</references>
+</metadata>

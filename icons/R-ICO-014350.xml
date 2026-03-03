@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>F8a</name>
+	<description>Coagulation factor VIIIa complex.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-929</id>
+		</reference>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-6235</id>
+		</reference>
+	</references>
+</metadata>

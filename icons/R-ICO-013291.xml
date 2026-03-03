@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>RFX6</name>
+    <description>DNA-binding protein RFX6</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q8HWS3</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

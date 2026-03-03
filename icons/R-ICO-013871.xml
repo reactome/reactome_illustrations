@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Ceramides</name>
+	<description>Ceramides (N-acyl-sphingoid bases) are a major subclass of sphingoid base derivatives with an amide-linked fatty acid. The fatty acids are typically saturated or monounsaturated with chain lengths from 14 to 26 carbon atoms; the presence of a hydroxyl group on carbon 2 is fairly common. Ceramides are generally precursors of more complex sphingolipids. In the illustrated generalised structure, R1 = OH, OX (where X = acyl, glycosyl, phosphate, phosphonate, etc.), or H</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17761</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Cer</synonym>
+		<synonym>Ceramide</synonym>
+		<synonym>N-acylated sphingoid</synonym>
+	</synonyms>
+</metadata>

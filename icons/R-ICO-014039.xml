@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>JUN</name>
+	<description>Transcription factor AP-1 recognizes and binds to the enhancer heptamer motif 5'-TGA[CG]TCA-3'</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P05412</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Activator protein 1</synonym>
+		<synonym>AP1</synonym>
+		<synonym>c-Jun</synonym>
+		<synonym>V-jun avian sarcoma virus 17 oncogene homolog</synonym>
+		<synonym>p39</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

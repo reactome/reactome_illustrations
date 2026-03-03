@@ -1,0 +1,23 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ROR2/RYK</name>
+    <description>Representation of Tyrosine-protein kinase transmembrane receptor ROR2 and/or Tyrosine-protein kinase RYK</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q01974</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P34925</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>RYK</synonym>
+    </synonyms>
+</metadata>

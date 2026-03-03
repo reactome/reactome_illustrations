@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MACR-CoA</name>
+	<description>Tetraanion of methacrylyl-CoA arising from deprotonation of the phosphate and diphosphate functions; principal microspecies at pH 7.3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:62500</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>methacrylyl-CoA(4−)</synonym>
+		<synonym>3'-phosphonatoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-{[3-({2-[(2-methylprop-2-enoyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-4-oxobutyl] diphosphate}</synonym>
+		<synonym>(2E)-2-methylpropenoyl-CoA</synonym>
+		<synonym>2-methylprop-2-enoyl-CoA(4−)</synonym>
+	</synonyms>
+</metadata>

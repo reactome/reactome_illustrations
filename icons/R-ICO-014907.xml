@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Platelet_active</name>
+	<description>Graphic representation of an activated platelet.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000233</id>
+		</reference>
+	</references>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>T cell progenitor</name>
+	<description>A lymphoid progenitor cell of the T cell lineage, with some lineage specific marker expression, but not yet fully committed to the T cell lineage.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000827</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>pro-T lymphocyte</synonym>
+		<synonym>progenitor T cell</synonym>
+		<synonym>DN1 cell</synonym>
+		<synonym>DN1 thymocyte</synonym>
+		<synonym>TN1 cell</synonym>
+	</synonyms>
+</metadata>

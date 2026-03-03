@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ATF2</name>
+	<description>Cyclic AMP-dependent transcription factor ATF-2 regulates the transcription of various genes, including those involved in anti-apoptosis, cell growth, and DNA damage response</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P15336</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>cAMP-dependent transcription factor ATF-2</synonym>
+		<synonym>Activating transcription factor 2</synonym>
+		<synonym>Cyclic AMP-responsive element-binding protein 2</synonym>
+		<synonym>CREB-2</synonym>
+		<synonym>cAMP-responsive element-binding protein 2</synonym>
+		<synonym>HB16</synonym>
+		<synonym>Histone acetyltransferase ATF2</synonym>
+		<synonym>cAMP response element-binding protein CRE-BP1</synonym>
+		<synonym>CREB2</synonym>
+		<synonym>CREBP1</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

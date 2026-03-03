@@ -1,0 +1,32 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PAPSS2</name>
+	<description>Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O95340</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PAPS synthase 2</synonym>
+		<synonym>PAPSS 2</synonym>
+		<synonym>Sulfurylase kinase 2</synonym>
+		<synonym>SK 2</synonym>
+		<synonym>SK2</synonym>
+		<synonym>Sulfate adenylyltransferase</synonym>
+		<synonym>ATP-sulfurylase</synonym>
+		<synonym>Sulfate adenylate transferase</synonym>
+		<synonym>SAT</synonym>
+		<synonym>3'-phosphoadenosine-5'-phosphosulfate synthase</synonym>
+		<synonym>APS kinase</synonym>
+		<synonym>Adenosine-5'-phosphosulfate 3'-phosphotransferase</synonym>
+		<synonym>Adenylylsulfate 3'-phosphotransferase</synonym>
+		<synonym>ATPSK2</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Guanine</name>
+	<description>A 2-aminopurine carrying a 6-oxo substituent.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16235</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Gua</synonym>
+		<synonym>G</synonym>
+		<synonym>2-Amino-6-hydroxypurine</synonym>
+		<synonym>2-amino-6-oxopurine</synonym>
+	</synonyms>
+</metadata>

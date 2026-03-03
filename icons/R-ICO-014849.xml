@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Naive CD8+ T cell</name>
+	<description>A CD8-positive, alpha-beta T cell that has not experienced activation via antigen contact and has the phenotype CD45RA-positive, CCR7-positive and CD127-positive. This cell type is also described as being CD25-negative, CD62L-high and CD44-low.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000900</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>naive thymus-dervied CD8-positive, alpha-beta T lymphocyte</synonym>
+		<synonym>naive thymus-dervied CD8-positive, alpha-beta T-cell</synonym>
+		<synonym>naive thymus-dervied CD8-positive, alpha-beta T-lymphocyte</synonym>
+	</synonyms>
+</metadata>

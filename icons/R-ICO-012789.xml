@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>GPCR CLASS B 2</name>
+    <description>The secretin-receptor family GPCRs include vasoactive intestinal peptide receptors and receptors for secretin, calcitonin and parathyroid hormone/parathyroid hormone-related peptides</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>INTERPRO</db>
+            <id>IPR000832</id>
+        </reference>
+    </references>
+</metadata>

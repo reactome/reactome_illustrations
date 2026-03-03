@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DKK1</name>
+	<description>Dickkopf-related protein 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O94907</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Dickkopf-1</synonym>
+		<synonym>Dkk-1</synonym>
+		<synonym>hDkk-1</synonym>
+		<synonym>SK</synonym>
+		<synonym>UNQ492</synonym>
+		<synonym>PRO1008</synonym>
+	</synonyms>
+</metadata>

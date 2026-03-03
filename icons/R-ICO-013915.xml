@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Molybdopterin</name>
+	<description>A molybdopterin that is the O-phospho derivative of [(5aR,8R,9aR)-2-amino-4-oxo-6,7-disulfanyl-3,5,5a,8,9a,10-hexahydro-4H-pyrano[3,2-g]pteridin-8-yl]methanol</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:44074</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>S-MoCo</synonym>
+		<synonym>Pyranopterin</synonym>
+		<synonym>dtpp</synonym>
+		<synonym>H2Dtpp-mP</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>L-Proline</name>
+	<description>The zwitterion formed from L-proline by proton transfer from the carboxy group to the ring nitrogen. It is the predominant species at physiological pH.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:60039</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>(2S)-pyrrolidinium-2-carboxylate</synonym>
+	</synonyms>
+</metadata>

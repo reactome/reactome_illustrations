@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>cya</name>
+	<description>Calmodulin-sensitive adenylate cyclase</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P40136</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ATP pyrophosphate-lyase</synonym>
+		<synonym>Adenylyl cyclase</synonym>
+		<synonym>Anthrax edema toxin adenylate cyclase component</synonym>
+		<synonym>Edema factor</synonym>
+		<synonym>EF</synonym>
+		<synonym>pXO1-122</synonym>
+		<synonym>BXA0141</synonym>
+		<synonym>GBAA_pXO1_0142</synonym>
+	</synonyms>
+</metadata>

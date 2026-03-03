@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ANTXR1-2</name>
+	<description>Graphic representation of Anthrax toxin receptor 1 and 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9H6X2</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P58335-1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ANTXR1</synonym>
+		<synonym>ANTXR2</synonym>
+		<synonym>Tumor endothelial marker 8</synonym>
+		<synonym>ATR</synonym>
+		<synonym>TEM8</synonym>
+		<synonym>Capillary morphogenesis gene 2 protein</synonym>
+		<synonym>CMG-2</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,30 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>INPP5D</name>
+	<description>Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q92835</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Inositol polyphosphate-5-phosphatase D</synonym>
+		<synonym>Inositol polyphosphate-5-phosphatase of 145 kDa</synonym>
+		<synonym>SIP-145</synonym>
+		<synonym>Phosphatidylinositol 4,5-bisphosphate 5-phosphatase</synonym>
+		<synonym>SH2 domain-containing inositol 5'-phosphatase 1</synonym>
+		<synonym>SH2 domain-containing inositol phosphatase 1</synonym>
+		<synonym>SHIP-1</synonym>
+		<synonym>p150Ship</synonym>
+		<synonym>hp51CN</synonym>
+		<synonym>SHIP1</synonym>
+		<synonym>SHIP</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

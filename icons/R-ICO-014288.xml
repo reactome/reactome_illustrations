@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MPDU1</name>
+	<description>Mannose-P-dolichol utilization defect 1 protein.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75352</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Suppressor of Lec15 and Lec35 glycosylation mutation homolog</synonym>
+		<synonym>SL15</synonym>
+	</synonyms>
+</metadata>

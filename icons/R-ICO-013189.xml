@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PLASMINOGEN</name>
+    <description>Plasmin is released as a zymogen called plasminogen (PLG) from the liver into the systemic circulation</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P00747</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>PLG</synonym>
+    </synonyms>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HIBCH</name>
+	<description>3-hydroxyisobutyryl-CoA hydrolase, mitochondrial.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q6NVY1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>3-hydroxyisobutyryl-coenzyme A hydrolase (HIB-CoA hydrolase; HIBYL-CoA-H)</synonym>
+	</synonyms>
+</metadata>

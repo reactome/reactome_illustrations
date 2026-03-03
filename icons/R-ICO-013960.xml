@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed MHC II</name>
+	<description>A transmembrane protein complex composed of an MHC class II alpha and MHC class II beta chain, and with or without a bound peptide or polysaccharide antigen</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0042613</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>bMG-CoA</name>
+	<description>Pentaanion of trans-3-methylglutaconyl-CoA arising from deprotonation of phosphate, diphosphate and carboxylic acid functions.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:57346</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>trans-3-methylglutaconyl-CoA(5−)</synonym>
+		<synonym>(E)-3-methylglutaconyl-1-CoA(5−)</synonym>
+		<synonym>3-methyl-(2E)-glutaconyl-CoA</synonym>
+	</synonyms>
+</metadata>

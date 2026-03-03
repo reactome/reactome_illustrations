@@ -1,0 +1,25 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PLCG1</name>
+    <description>1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P19174</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>PLC-148</synonym>
+        <synonym>Phosphoinositide phospholipase C-gamma-1</synonym>
+        <synonym>Phospholipase C-II</synonym>
+        <synonym>PLC-II</synonym>
+        <synonym>Phospholipase C-gamma-1</synonym>
+        <synonym>PLC-gamma-1</synonym>
+        <synonym>PLC1</synonym>
+    </synonyms>
+</metadata>

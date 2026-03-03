@@ -1,0 +1,23 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>SEMA4D/PLXNB1</name>
+    <description>Semaphorin-4D and Plexin-B1</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q92854</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O43157</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>SEMA4D_PLEXIN-BI</synonym>
+    </synonyms>
+</metadata>

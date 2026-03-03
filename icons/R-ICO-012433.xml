@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>APC/C complex</name>
+    <description>Also known as Anaphase-promoting complex is an E3 ubiquitin ligase that marks target cell cycle proteins for degradation by the 26S proteasome</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0005680</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>C_complex</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

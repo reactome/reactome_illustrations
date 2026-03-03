@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>aKMV</name>
+	<description>A 2-oxo monocarboxylic acid anion that is the conjugate base of 3-methyl-2-oxovaleric acid, arising from deprotonation of the carboxy group; major species at pH 7.3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:28654</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>3-methyl-2-oxovalerate</synonym>
+		<synonym>2-keto-3-methylvalerate</synonym>
+		<synonym>2-Oxo-3-methylpentanoate</synonym>
+		<synonym>2-Oxo-3-methylvalerate</synonym>
+		<synonym>3-Methyl-2-oxopentanoate</synonym>
+		<synonym>3-Methyl-2-oxovalerate</synonym>
+	</synonyms>
+</metadata>

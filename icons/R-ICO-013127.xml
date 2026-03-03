@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Oncogenic RAS</name>
+    <description>The 3 Ras genes in humans (HRas, KRas, and NRas) are the most common oncogenes in human cancer</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>INTERPRO</db>
+            <id>IPR020849</id>
+        </reference>
+    </references>
+</metadata>

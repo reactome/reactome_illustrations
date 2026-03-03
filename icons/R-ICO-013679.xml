@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person orcid="0000-0002-0826-9069" role="curator">Nicholas Norwitz</person>
+	<person orcid="0000-0002-8803-6475" role="designer">Sam Norwitz</person>
+	<name>Amyloid Beta Plaque</name>
+	<description>Amyloid Precursor Protein is an integral membrane protein that can be processed into amyloid beta, which forms plaques in Alzheimer disease</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P05067</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AB Plaque</synonym>
+		<synonym>Alzheimer disease amyloid protein</synonym>
+	</synonyms>
+</metadata>

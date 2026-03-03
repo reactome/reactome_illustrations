@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>all-trans-retinol</name>
+	<description>A retinol in which all four exocyclic double bonds have E- (trans-) geometry</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17336</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>all-trans-retinyl alcohol</synonym>
+		<synonym>all-trans-vitamin A alcohol</synonym>
+		<synonym>Alphalin</synonym>
+		<synonym>Chocola A</synonym>
+		<synonym>Vitamin A</synonym>
+		<synonym>Vitamin A1</synonym>
+	</synonyms>
+</metadata>

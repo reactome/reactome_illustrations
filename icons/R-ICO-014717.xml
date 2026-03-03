@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MMP2</name>
+	<description>72 kDa type IV collagenase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P08253</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>72 kDa gelatinase</synonym>
+		<synonym>Gelatinase A</synonym>
+		<synonym>Matrix metalloproteinase-2 (MMP-2)</synonym>
+		<synonym>TBE-1</synonym>
+		<synonym>CLG4A</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>STRA6</name>
+	<description>Receptor for retinol uptake STRA6</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9BX79</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Retinol-binding protein receptor STRA6</synonym>
+		<synonym>Stimulated by retinoic acid gene 6 protein homolog</synonym>
+		<synonym>PP14296</synonym>
+		<synonym>UNQ3126</synonym>
+		<synonym>PRO10282</synonym>
+		<synonym>PRO19578</synonym>
+	</synonyms>
+</metadata>

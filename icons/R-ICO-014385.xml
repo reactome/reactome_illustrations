@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>QUIZARTINIB</name>
+	<description>Quizartinib (AC220) is a small molecule receptor tyrosine kinase inhibitor, originally from Ambit Biosciences and later acquired by Daiichi Sankyo, that is currently under development for the treatment of acute myeloid leukaemia. Quizartinib is sold under the brand name Vanflyta in Japan. Its molecular target is FLT3, also known as CD135 which is a proto-oncogene.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5658</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AC 010220</synonym>
+		<synonym>AC 220</synonym>
+		<synonym>AC220</synonym>
+	</synonyms>
+</metadata>

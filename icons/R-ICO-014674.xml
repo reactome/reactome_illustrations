@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PIEZO1</name>
+	<description>Piezo-type mechanosensitive ion channel component 1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q92508</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Membrane protein induced by beta-amyloid treatment (Mib)</synonym>
+		<synonym>Protein FAM38A</synonym>
+		<synonym>FAM38A</synonym>
+		<synonym>KIAA0233</synonym>
+	</synonyms>
+</metadata>

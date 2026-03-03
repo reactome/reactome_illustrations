@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>RIBAVIRIN</name>
+	<description>Inhibits inosine-5'-monophosphate dehydrogenase 1 and RNA and also inhibits hepatitis C virus RNA-dependent RNA polymerase (NS5B).</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>6842</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Copegus</synonym>
+		<synonym>Rebetol</synonym>
+		<synonym>ribofluranosyl carboxamide</synonym>
+		<synonym>Virazole</synonym>
+		<synonym>RBV</synonym>
+	</synonyms>
+</metadata>

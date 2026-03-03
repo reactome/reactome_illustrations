@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Nicotinamide adenine dinucleotide phosphate</name>
+    <description>Nicotinamide adenine dinucleotide phosphate is a cofactor used in anabolic reactions, such as lipid and nucleic acid synthesis, which require NADPH as a reducing agent</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:75967</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>NADPH</synonym>
+    </synonyms>
+</metadata>

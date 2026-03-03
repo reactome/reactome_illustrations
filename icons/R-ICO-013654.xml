@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-7864-5971" role="curator">Thawfeek Varusai</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Phagophore</name>
+    <description>A disk-like structure that expands, rounds up into a cup-shaped structure, and eventually closes around its cargo (for example cytoplasmic components) to become an autophagosome</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0061908</id>
+        </reference>
+    </references>
+</metadata>

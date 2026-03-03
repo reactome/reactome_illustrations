@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GNAT1</name>
+	<description>Guanine nucleotide-binding protein G(t) subunit alpha-1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P11488</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Transducin alpha-1 chain</synonym>
+		<synonym>GNATR</synonym>
+	</synonyms>
+</metadata>

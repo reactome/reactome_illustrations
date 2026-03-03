@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>EGFR homodimer</name>
+    <description>Epidermal growth factor receptor</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P00533</id>
+        </reference>
+    </references>
+</metadata>

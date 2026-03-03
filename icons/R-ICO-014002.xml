@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Myelinated periferal nerve</name>
+	<description>Axons of neurons encased in a lipoproteinaceous material called myelin</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0006135</id>
+		</reference>
+	</references>
+</metadata>

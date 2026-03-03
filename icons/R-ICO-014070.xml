@@ -1,0 +1,30 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>C8</name>
+	<description>Constituent of the membrane attack complex (MAC) that plays a key role in the innate and adaptive immune response by forming pores in the plasma membrane of target cells</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P07357</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P07358</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P07360</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>C8A</synonym>
+		<synonym>C8B</synonym>
+		<synonym>C8G</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

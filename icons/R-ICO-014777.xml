@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Finger tip section</name>
+	<description>A segment of a digit containing the distal phalanx, and overlapping the distal interphalangeal joint.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0009551</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>digit tip</synonym>
+		<synonym>distal digit segment</synonym>
+		<synonym>tip of digit</synonym>
+	</synonyms>
+</metadata>

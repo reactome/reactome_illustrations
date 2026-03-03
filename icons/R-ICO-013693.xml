@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CSF2</name>
+    <description>Granulocyte-macrophage colony-stimulating factor</description>
+   	<info>http://rebrand.ly/ehldinfo</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P04141</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>GMCSF</synonym>
+    </synonyms>
+</metadata>

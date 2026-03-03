@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Tight junction</name>
+    <description>Tight junctions, also known as occluding junctions or zonulae occludentes, are the closely associated areas of two cells whose membranes join together forming a virtually impermeable barrier to fluid</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0070160</id>
+        </reference>
+    </references>
+</metadata>

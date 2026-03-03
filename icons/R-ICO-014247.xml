@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0003-0705-9809">Rahuman Sheriff</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Regulatory B cell</name>
+	<description>This cell type has been associated with suppression of chronic inflammatory responses and T cell responses</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000969</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Breg</synonym>
+		<synonym>Regulatory B-cell</synonym>
+		<synonym>regulatory B lymphocyte</synonym>
+		<synonym>B10 cell</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Guanosine</name>
+	<description>A purine nucleoside in which guanine is attached to ribofuranose via a β-N9-glycosidic bond.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16750</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>G</synonym>
+		<synonym>Guo</synonym>
+		<synonym>Guanosin</synonym>
+		<synonym>Guanine riboside</synonym>
+		<synonym>2-amino-9-β-D-ribofuranosyl-1,9-dihydro-6H-purin-6-one</synonym>
+	</synonyms>
+</metadata>

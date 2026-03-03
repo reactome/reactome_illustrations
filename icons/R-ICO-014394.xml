@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CHST3</name>
+	<description>Carbohydrate sulfotransferase 3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q7LGC8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Chondroitin 6-O-sulfotransferase 1</synonym>
+		<synonym>C6ST-1</synonym>
+		<synonym>Chondroitin 6-sulfotransferase</synonym>
+		<synonym>Galactose/N-acetylglucosamine/N-acetylglucosamine 6-O-sulfotransferase 0</synonym>
+		<synonym>GST-0</synonym>
+	</synonyms>
+</metadata>

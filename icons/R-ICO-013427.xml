@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>TCR/MHC II</name>
+    <description>The T-cell receptor is a molecule found on the surface of T cells that is responsible for recognizing fragments of antigen as peptides bound to MHC class II in this case (major histocompatibility complex) molecules</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0042101</id>
+        </reference>
+        <reference>
+            <db>GO</db>
+            <id>GO:0042613</id>
+        </reference>
+    </references>
+</metadata>

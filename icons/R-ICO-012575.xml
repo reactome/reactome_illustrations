@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5494-626X" role="curator">Peter D'Eustachio</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>COACTIVATORS</name>
+    <description>A coactivator is a type of transcriptional coregulator that binds to an activator (a transcription factor) to increase the rate of transcription of a gene or set of genes</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0003713</id>
+        </reference>
+    </references>
+</metadata>

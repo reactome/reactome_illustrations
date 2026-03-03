@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HGSNAT</name>
+	<description>Heparan-alpha-glucosaminide N-acetyltransferase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q68CP4</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Transmembrane protein 76</synonym>
+		<synonym>TMEM76</synonym>
+	</synonyms>
+</metadata>

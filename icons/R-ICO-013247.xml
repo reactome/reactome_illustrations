@@ -1,0 +1,13 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Protein aggregated</name>
+    <description>Protein aggregation is a biological phenomenon in which mis-folded proteins aggregate (accumulate and clump together) either intra- or extracellularly. These protein aggregates are often correlated with diseases</description>
+    <info>https://reactome.org/icon-info</info>
+    <synonyms>
+        <synonym>aggregated_protein</synonym>
+    </synonyms>
+</metadata>

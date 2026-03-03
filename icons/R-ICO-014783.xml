@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Lobule</name>
+	<description>Organ component of the mammary gland which consists of an aggregate of mammary alveoli that communicate with a lobular lactiferous duct.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0001912</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>acinus of mammary gland</synonym>
+		<synonym>lactiferous acinus</synonym>
+		<synonym>lactiferous gland lobule</synonym>
+		<synonym>lactiferous lobule</synonym>
+		<synonym>lobule of lactiferous gland</synonym>
+		<synonym>lobule of mammary gland</synonym>
+		<synonym>mammary acinus</synonym>
+		<synonym>mammary gland lobule</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>APAP-Cys</name>
+	<description>A cysteine derivative in which the thiol hydrogen of cysteine is replaced by a 5-acetamido-2-hydroxyphenyl group.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:133066</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>S-(5-acetamido-2-hydroxyphenyl)cysteine</synonym>
+		<synonym>3-(cystein-S-yl)acetaminophen</synonym>
+		<synonym>3-(cystein-S-yl)paracetamol</synonym>
+		<synonym>acetaminophen cysteine conjugate</synonym>
+		<synonym>cysteine S-acetaminophen conjugate</synonym>
+	</synonyms>
+</metadata>

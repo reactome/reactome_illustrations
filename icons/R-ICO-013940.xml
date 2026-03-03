@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Mycobacterium tuberculosis</name>
+	<description>Mycobacterium tuberculosis (M. tb) is a species of pathogenic bacteria in the family Mycobacteriaceae and the causative agent of tuberculosis</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0010207</id>
+		</reference>
+	</references>
+</metadata>

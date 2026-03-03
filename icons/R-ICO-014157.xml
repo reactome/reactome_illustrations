@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CCR5</name>
+	<description>Acts as a coreceptor (CD4 being the primary receptor) of human immunodeficiency virus-1/HIV-1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P51681</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>C-C chemokine receptor type 5</synonym>
+		<synonym>C-C CKR-5</synonym>
+		<synonym>CC-CKR-5</synonym>
+		<synonym>CCR-5</synonym>
+		<synonym>CHEMR13</synonym>
+		<synonym>HIV-1 fusion coreceptor</synonym>
+		<synonym>CD195</synonym>
+		<synonym>CMKBR5</synonym>
+	</synonyms>
+</metadata>

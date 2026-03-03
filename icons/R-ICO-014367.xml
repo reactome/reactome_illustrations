@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>OGG1</name>
+	<description>N-glycosylase/DNA lyase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O15527</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>8-oxoguanine DNA glycosylase</synonym>
+		<synonym>DNA-(apurinic or apyrimidinic site) lyase</synonym>
+		<synonym>AP lyase</synonym>
+		<synonym>MMH</synonym>
+		<synonym>MUTM</synonym>
+		<synonym>OGH1</synonym>
+	</synonyms>
+</metadata>

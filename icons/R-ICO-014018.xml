@@ -1,0 +1,28 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed TNFSF14</name>
+	<description>Tumor necrosis factor ligand superfamily member 14</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O43557</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Herpes virus entry mediator ligand</synonym>
+		<synonym>HVEM-L</synonym>
+		<synonym>Herpesvirus entry mediator ligand</synonym>
+		<synonym>CD258</synonym>
+		<synonym>HVEML</synonym>
+		<synonym>LIGHT</synonym>
+		<synonym>UNQ391</synonym>
+		<synonym>PRO726</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

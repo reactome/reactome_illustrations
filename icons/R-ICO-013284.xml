@@ -1,0 +1,13 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Receptor generic</name>
+    <description>Representation of a generic receptor</description>
+    <info>https://reactome.org/icon-info</info>
+    <synonyms>
+        <synonym>generic_receptor</synonym>
+    </synonyms>
+</metadata>

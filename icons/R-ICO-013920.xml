@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Isopentenyl diphosphate</name>
+	<description>A prenol phosphate comprising 3-methylbut-3-en-1-ol having an O-diphosphate substituent</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16584</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>IPPP</synonym>
+		<synonym>IPP</synonym>
+		<synonym>Isopentenyl pyrophosphate</synonym>
+		<synonym>delta3-isopentenyl diphosphate</synonym>
+		<synonym>3-Methyl-3-butenyl pyrophosphate</synonym>
+		<synonym>Diphosphoric acid mono(3-methyl-3-butenyl) ester</synonym>
+	</synonyms>
+</metadata>

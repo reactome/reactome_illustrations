@@ -1,0 +1,30 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PARACETAMOL</name>
+	<description>Paracetamol is approved by the US FDA as acetaminophen. Paracetamol is a widely used analgesic and antipyretic drug. It is a member of the class of phenols that is 4-aminophenol in which one of the hydrogens attached to the amino group has been replaced by an acetyl group.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5239</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:46195</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>APAP</synonym>
+		<synonym>Acenol</synonym>
+		<synonym>Acetaminofen</synonym>
+		<synonym>Acetaminophen</synonym>
+		<synonym>Panadol</synonym>
+		<synonym>Panadol®</synonym>
+		<synonym>Tylenol</synonym>
+		<synonym>Tylenol®</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>NPHS1</name>
+    <description>Nephrins seems to play a role in the development or function of the kidney glomerular filtration barrier</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O60500</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>NEPHS1</synonym>
+    </synonyms>
+</metadata>

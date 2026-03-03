@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Linoleoyl-CoA</name>
+	<description>An octadecadienoyl-CoA that results from the formal condensation of the thiol group of coenzyme A with the carboxy group of linoleic acid</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15530</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>LA-CoA</synonym>
+		<synonym>(9Z,12Z)-Octadecadienoyl-CoA</synonym>
+	</synonyms>
+</metadata>

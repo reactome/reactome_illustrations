@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>EIF2AK4</name>
+	<description>eIF-2-alpha kinase GCN2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9P2K8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>GCN2</synonym>
+		<synonym>KIAA1338</synonym>
+	</synonyms>
+</metadata>

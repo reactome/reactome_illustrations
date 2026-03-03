@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CBL</name>
+	<description>E3 ubiquitin-protein ligase CBL</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P22681</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Casitas B-lineage lymphoma proto-oncogene</synonym>
+		<synonym>Proto-oncogene c-Cbl</synonym>
+		<synonym>RING finger protein 55</synonym>
+		<synonym>RING-type E3 ubiquitin transferase CBL</synonym>
+		<synonym>Signal transduction protein CBL</synonym>
+		<synonym>CBL2</synonym>
+		<synonym>RNF55</synonym>
+	</synonyms>
+</metadata>

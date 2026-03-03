@@ -1,0 +1,33 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SMURF</name>
+	<description>Generic representation of E3 ubiquitin-protein ligase SMURF1 or SMURF2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9HCE7</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9HAU4</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>SMURF1</synonym>
+		<synonym>SMURF2</synonym>
+		<synonym>KIAA1625</synonym>
+		<synonym>hSMURF1</synonym>
+		<synonym>hSMURF2</synonym>
+		<synonym>HECT-type E3 ubiquitin transferase SMURF1</synonym>
+		<synonym>HECT-type E3 ubiquitin transferase SMURF2</synonym>
+		<synonym>SMAD ubiquitination regulatory factor 1</synonym>
+		<synonym>SMAD ubiquitination regulatory factor 2</synonym>
+		<synonym>SMAD-specific E3 ubiquitin-protein ligase 1</synonym>
+		<synonym>SMAD-specific E3 ubiquitin-protein ligase 2</synonym>
+	</synonyms>
+</metadata>

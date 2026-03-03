@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NCOR1/NCOR2</name>
+	<description>Graphic representation of Nuclear receptor corepressor 1 and 2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75376</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y618</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>KIAA1047</synonym>
+		<synonym>CTG26</synonym>
+		<synonym>CTG repeat protein 26</synonym>
+		<synonym>SMAP270</synonym>
+		<synonym>Silencing mediator of retinoic acid and thyroid hormone receptor</synonym>
+		<synonym>T3 receptor-associating factor (TRAC)</synonym>
+		<synonym>Thyroid-, retinoic-acid-receptor-associated corepressor</synonym>
+	</synonyms>
+</metadata>

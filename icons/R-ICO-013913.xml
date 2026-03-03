@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Biotin</name>
+	<description>An organic heterobicyclic compound that consists of 2-oxohexahydro-1H-thieno[3,4-d]imidazole having a valeric acid substituent attached to the tetrahydrothiophene ring. The parent of the class of biotins</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15956</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Btn</synonym>
+		<synonym>vitamin B7</synonym>
+		<synonym>Vitamin H</synonym>
+		<synonym>Coenzyme R</synonym>
+		<synonym>cis-Hexahydro-2-oxo-1H-thieno(3,4)imidazole-4-valeric acid</synonym>
+	</synonyms>
+</metadata>

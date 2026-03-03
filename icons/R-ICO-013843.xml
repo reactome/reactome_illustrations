@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SLC25A20</name>
+	<description>Mitochondrial carnitine/acylcarnitine carrier protein</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O43772</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CAC</synonym>
+		<synonym>CACT</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Carnitine</name>
+	<description>An amino-acid betaine that is butanoate substituted with a hydroxy group at position C-3 and a trimethylammonium group at C-4</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17126</id>
+		</reference>
+	</references>
+</metadata>

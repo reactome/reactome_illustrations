@@ -1,0 +1,25 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PPARD</name>
+    <description>Peroxisome proliferator-activated receptor delta</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q03181</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>PPAR-delta</synonym>
+        <synonym>NUCI</synonym>
+        <synonym>NUC1</synonym>
+        <synonym>Nuclear receptor subfamily 1 group C member 2</synonym>
+        <synonym>Peroxisome proliferator-activated receptor beta</synonym>
+        <synonym>NR1C2</synonym>
+        <synonym>PPARB</synonym>
+    </synonyms>
+</metadata>

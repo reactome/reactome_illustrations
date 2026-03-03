@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>POMGNT1</name>
+	<description>Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8WZA1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>POMGnT1</synonym>
+		<synonym>UDP-GlcNAc:alpha-D-mannoside beta-1,2-N-acetylglucosaminyltransferase I.2</synonym>
+		<synonym>GnT I.2</synonym>
+		<synonym>MGAT1.2</synonym>
+		<synonym>UNQ746/PRO1475</synonym>
+	</synonyms>
+</metadata>

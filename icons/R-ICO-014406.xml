@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>UNC93B1</name>
+	<description>Protein unc-93 homolog B1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9H1C4</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Unc-93B1</synonym>
+		<synonym>hUNC93B1</synonym>
+		<synonym>UNC93</synonym>
+		<synonym>UNC93B</synonym>
+	</synonyms>
+</metadata>

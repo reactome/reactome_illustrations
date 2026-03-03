@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Ganglioside</name>
+	<description>A molecule composed of a glycosphingolipid (ceramide and oligosaccharide) with one or more sialic acids linked on the sugar chain</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:28892</id>
+		</reference>
+	</references>
+</metadata>

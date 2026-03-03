@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Ribavirin diphosphate</name>
+	<description>An organophosphate oxoanion resulting from the removal of the three diphosphate OH groups of ribavirin 5'-diphosphate. It is the major species at pH 7.3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:189092</id>
+		</reference>
+	</references>
+</metadata>

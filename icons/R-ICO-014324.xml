@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GPX4</name>
+	<description>Phospholipid hydroperoxide glutathione peroxidase</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P36969</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PHGPx</synonym>
+		<synonym>Glutathione peroxidase 4</synonym>
+		<synonym>GPx-4</synonym>
+		<synonym>GSHPx-4</synonym>
+	</synonyms>
+</metadata>

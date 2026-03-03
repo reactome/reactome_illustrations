@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>2'-o-Methyluridine</name>
+    <description>Nucleoside modification in which a methyl grupo is added to the 2' hydroxyl of the ribose moiety of uridine</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:74478</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Um</synonym>
+    </synonyms>
+</metadata>

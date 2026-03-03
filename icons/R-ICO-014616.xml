@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk/">Cristoffer Sevilla</person>
+	<name>White adipocyte</name>
+	<description>White fat cells contain a single large lipid droplet surrounded by a layer of cytoplasm, and are known as unilocular.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0025135</id>
+		</reference>
+	</references>
+</metadata>

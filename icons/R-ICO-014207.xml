@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>all-trans-retinal</name>
+	<description>A retinal in which all four exocyclic double bonds have E- (trans-) geometry</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17898</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>all-trans-retinaldehyde</synonym>
+		<synonym>all-trans-Retinene</synonym>
+		<synonym>all-trans-Vitamin A aldehyde</synonym>
+		<synonym>Retinal</synonym>
+		<synonym>retinaldehyde</synonym>
+		<synonym>Retinene</synonym>
+		<synonym>Vitamin A aldehyde</synonym>
+	</synonyms>
+</metadata>

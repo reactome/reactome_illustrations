@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>L-Argininosuccinate</name>
+	<description>Conjugate base of (Nω-L-arginino)succinic acid.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:57472</id>
+		</reference>
+	</references>
+</metadata>

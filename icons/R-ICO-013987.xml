@@ -1,0 +1,32 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GRAP2</name>
+	<description>GRB2-related adapter protein 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75791</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Adapter protein GRID</synonym>
+		<synonym>GRB-2-like protein</synonym>
+		<synonym>GRB2L</synonym>
+		<synonym>GRBLG</synonym>
+		<synonym>GRBX</synonym>
+		<synonym>Grf40 adapter protein</synonym>
+		<synonym>Grf-40</synonym>
+		<synonym>Growth factor receptor-binding protein</synonym>
+		<synonym>Hematopoietic cell-associated adapter protein GrpL</synonym>
+		<synonym>P38</synonym>
+		<synonym>GADS</synonym>
+		<synonym>GRID</synonym>
+		<synonym>SH3-SH2-SH3 adapter Mona</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

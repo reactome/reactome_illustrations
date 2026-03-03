@@ -1,0 +1,37 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SLIT1-3</name>
+	<description>Representation of Slit homolog 1, 2 and 3 proteins</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75093</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O94813</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75094</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>SLIT1</synonym>
+		<synonym>SLIT2</synonym>
+		<synonym>SLIT3</synonym>
+		<synonym>KIAA0813</synonym>
+		<synonym>MEGF4</synonym>
+		<synonym>SLIL1</synonym>
+		<synonym>SLIL2</synonym>
+		<synonym>SLIL3</synonym>
+		<synonym>KIAA0814</synonym>
+		<synonym>MEGF5</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

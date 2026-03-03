@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>MHC II</name>
+    <description>Simplified graphic representation of MHC II. MHC class II molecules are a class of major histocompatibility complex (MHC) molecules normally found only on antigen-presenting cells such as dendritic cells, mononuclear phagocytes, some endothelial cells, thymic epithelial cells, and B cells</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0042613</id>
+        </reference>
+    </references>
+</metadata>

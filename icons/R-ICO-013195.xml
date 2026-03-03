@@ -1,0 +1,39 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PLCB1,2,3</name>
+    <description>Set of Phospholipase C beta 1,2 and 3</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q9NQ66</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q00722</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q01970</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>PLC-154</synonym>
+        <synonym>Phosphoinositide phospholipase C-beta-1</synonym>
+        <synonym>Phospholipase C-I</synonym>
+        <synonym>PLC-I</synonym>
+        <synonym>Phospholipase C-beta-1</synonym>
+        <synonym>PLC-beta-1</synonym>
+        <synonym>KIAA0581</synonym>
+        <synonym>Phosphoinositide phospholipase C-beta-2</synonym>
+        <synonym>Phospholipase C-beta-2</synonym>
+        <synonym>PLC-beta-2</synonym>
+        <synonym>Phosphoinositide phospholipase C-beta-3</synonym>
+        <synonym>Phospholipase C-beta-3</synonym>
+        <synonym>PLC-beta-3</synonym>
+    </synonyms>
+</metadata>

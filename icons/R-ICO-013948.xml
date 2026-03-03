@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Inner hair cell</name>
+	<description>Inner hair cells (IHCs), the sensory cells of the cochlea, are responsible for signal transduction. Lying in a single row along the internal side of the tunnel of Corti</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>FMA</db>
+			<id>FMA:62365</id>
+		</reference>
+	</references>
+</metadata>

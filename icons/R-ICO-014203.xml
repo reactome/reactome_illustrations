@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HDAC6</name>
+	<description>Histone deacetylase 6</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UBN7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>HD6</synonym>
+		<synonym>KIAA0901</synonym>
+		<synonym>JM21</synonym>
+	</synonyms>
+</metadata>

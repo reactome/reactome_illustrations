@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Phosphatidic acid</name>
+	<description>A derivative of glycerol in which one hydroxy group, commonly but not necessarily primary, is esterified with phosphoric acid and the other two are esterified with fatty acids</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16337</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PA</synonym>
+		<synonym>1,2-Diacyl-sn-glycerol 3-phosphate</synonym>
+		<synonym>3-sn-Phosphatidate</synonym>
+		<synonym>Phosphatidate</synonym>
+	</synonyms>
+</metadata>

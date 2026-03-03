@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NEU1</name>
+	<description>Sialidase-1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q99519</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Acetylneuraminyl hydrolase</synonym>
+		<synonym>G9 sialidase</synonym>
+		<synonym>Lysosomal sialidase</synonym>
+		<synonym>N-acetyl-alpha-neuraminidase 1</synonym>
+		<synonym>NANH</synonym>
+	</synonyms>
+</metadata>

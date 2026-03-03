@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Phosphatidylethanolamine</name>
+	<description>A class of glycerophospholipids in which a phosphatidyl group is esterified to the hydroxy group of ethanolamine</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16038</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PE</synonym>
+		<synonym>PtdEtn</synonym>
+		<synonym>(3-Phosphatidyl)-ethanolamine</synonym>
+		<synonym>1,2-diacyl-sn-glycero-3-phosphoethanolamine</synonym>
+		<synonym>Cephalin</synonym>
+	</synonyms>
+</metadata>

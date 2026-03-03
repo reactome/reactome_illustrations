@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SAPITINIB</name>
+	<description>Sapitinib is an inhibitor of all members of the epidermal growth factor receptor (EGFR) receptor tyrosine kinase family and was investigated as a potential oncology therapeutic.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7717</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AZD-8931</synonym>
+		<synonym>AZD8931</synonym>
+	</synonyms>
+</metadata>

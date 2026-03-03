@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Nicotinic acid D-ribonucleotide</name>
+	<description>A D-ribonucleotide having nicotinic acid as the nucleobase</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15763</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>NAMN</synonym>
+		<synonym>beta-Nicotinate D-ribonucleotide</synonym>
+		<synonym>Nicotinate D-ribonucleotide</synonym>
+	</synonyms>
+</metadata>

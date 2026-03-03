@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SUNITINIB</name>
+	<description>Sunitinib is a Type-1 kinase inhibitor and was first approved by the US FDA and EMA in 2006.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5713</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>SU11248</synonym>
+		<synonym>Sutent</synonym>
+		<synonym>Sutent®</synonym>
+	</synonyms>
+</metadata>

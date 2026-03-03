@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PP1</name>
+	<description>Graphic representation of Serine/threonine-protein phosphatase PP1-beta and gamma catalytic subunits</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P62140</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P36873</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PP-1B</synonym>
+		<synonym>PPP1CD</synonym>
+		<synonym>PP-1G</synonym>
+		<synonym>Protein phosphatase 1C catalytic subunit</synonym>
+	</synonyms>
+</metadata>

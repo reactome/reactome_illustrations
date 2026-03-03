@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CD28</name>
+    <description>T-cell-specific surface glycoprotein CD28</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P10747</id>
+        </reference>
+    </references>
+</metadata>

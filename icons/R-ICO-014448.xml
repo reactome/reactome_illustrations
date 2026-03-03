@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>3'-phospho-5'-adenylyl sulfate</name>
+	<description>An adenosine bisphosphate having monophosphate groups at the 3'- and 5'-positions and a sulfo group attached to the phosphate at position 5'.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17980</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PAPS</synonym>
+		<synonym>3'-Phosphoadenosine 5'-phosphosulfate</synonym>
+		<synonym>3'-Phosphoadenylyl sulfate</synonym>
+	</synonyms>
+</metadata>

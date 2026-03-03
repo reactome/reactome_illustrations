@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>L-methylmalonyl-CoA</name>
+	<description>A member of the class of malonyl-CoAs that is malonyl-CoA carrying a methyl group on the malony side chain</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16625</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>L-MM-CoA</synonym>
+		<synonym>2-methyl-3-oxopropanoyl-CoAs</synonym>
+		<synonym>2-Methylmalonyl-CoA</synonym>
+		<synonym>Methylmalonyl coemzyme A</synonym>
+		<synonym>Methylmalonyl-CoA</synonym>
+	</synonyms>
+</metadata>

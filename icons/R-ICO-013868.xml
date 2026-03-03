@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Lysophosphatidylcholine</name>
+	<description>An acylglycerophosphocholine resulting from partial hydrolysis of a phosphatidylcholine, which removes one of the fatty acyl groups. The structure is depicted in the image where R1 = acyl, R2 = H or where R1 = H, R2 = acyl</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:60479</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>LPC</synonym>
+		<synonym>monoacylglycero-3-phosphocholine</synonym>
+	</synonyms>
+</metadata>

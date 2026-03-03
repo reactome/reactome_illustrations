@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Outer hair cell</name>
+	<description>The function of the outer hair cell in hearing is now perceived as that of a cochlear amplifier that refines the sensitivity and frequency selectivity of the mechanical vibrations of the cochlea</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>FMA</db>
+			<id>FMA:62366</id>
+		</reference>
+	</references>
+</metadata>

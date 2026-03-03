@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CX3CR1</name>
+	<description>CX3C chemokine receptor 1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P49238</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CMKBRL1</synonym>
+		<synonym>GPR13</synonym>
+	</synonyms>
+</metadata>

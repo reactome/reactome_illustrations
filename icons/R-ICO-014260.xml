@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>nef</name>
+	<description>Protein Nef</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04601</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>3'ORF</synonym>
+		<synonym>Negative factor</synonym>
+		<synonym>F-protein</synonym>
+	</synonyms>
+</metadata>

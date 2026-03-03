@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>N-retinylidene-N-retinylethanolamine</name>
+	<description>A pyridinium ion obtained by formal condensation between two molecules of retinol and one the amino group of ethanolamine. A major constituent of retinal pigment epithelium lipofuscin</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:71980</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>A2E</synonym>
+		<synonym>di-retinoid-pyridinium-ethanolamine</synonym>
+	</synonyms>
+</metadata>

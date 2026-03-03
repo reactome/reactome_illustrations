@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5707-3065" role="curator">Lisa Matthews</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>GINS complex</name>
+    <description>DNA replication complex GINS participates in the initiation and elongation stages of replication. The name GINS is an acronym created from the first letters of the Japanese numbers 5-1-2-3 (go-ichi-ni-san) in a reference to the 4 protein subunits of the complex: SLD5, PSF1, PSF2, and PSF3</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0000811</id>
+        </reference>
+    </references>
+</metadata>

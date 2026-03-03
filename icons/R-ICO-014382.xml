@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>RELA</name>
+	<description>Transcription factor p65.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q04206</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Nuclear factor NF-kappa-B p65 subunit</synonym>
+		<synonym>Nuclear factor of kappa light polypeptide gene enhancer in B-cells 3</synonym>
+		<synonym>NFKB3</synonym>
+	</synonyms>
+</metadata>

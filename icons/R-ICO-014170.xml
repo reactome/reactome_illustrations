@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NRTI</name>
+	<description>Graphic representation of nucleoside reverse transcriptase inhibitors</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>11244</id>
+		</reference>
+		<reference>
+			<db>IUPHAR</db>
+			<id>10948</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>emtricitabine</synonym>
+		<synonym>tenofovir</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,11 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5038-1185" role="curator">Kaiqiang You</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Membrane clusters</name>
+    <description>Membrane-mediated clustering forces contribute to biological processes on cellular membranes, such as intracellular trafficking and signaling; they have their origin in a protein’s ability to physically perturb the membrane’s relaxed state</description>
+    <info>https://reactome.org/icon-info</info>
+    <skip>true</skip>
+</metadata>

@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ALG1</name>
+	<description>Chitobiosyldiphosphodolichol beta-mannosyltransferase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9BT22</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Asparagine-linked glycosylation protein 1 homolog</synonym>
+		<synonym>Beta-1,4-mannosyltransferase</synonym>
+		<synonym>GDP-Man:GlcNAc2-PP-dolichol mannosyltransferase</synonym>
+		<synonym>GDP-mannose-dolichol diphosphochitobiose mannosyltransferase</synonym>
+		<synonym>Mannosyltransferase-1</synonym>
+		<synonym>MT-1</synonym>
+		<synonym>hMat-1</synonym>
+		<synonym>HMAT1</synonym>
+		<synonym>HMT1</synonym>
+		<synonym>PSEC0061</synonym>
+		<synonym>UNQ861/PRO1870</synonym>
+	</synonyms>
+</metadata>

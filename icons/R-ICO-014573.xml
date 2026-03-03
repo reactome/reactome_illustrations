@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>G glycoprotein</name>
+	<description>Major surface glycoprotein G.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P03423</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Attachment glycoprotein G</synonym>
+		<synonym>Membrane-bound glycoprotein (mG)</synonym>
+	</synonyms>
+</metadata>

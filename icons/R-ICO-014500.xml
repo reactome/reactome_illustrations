@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ATORVASTATIN</name>
+	<description>A dihydroxy monocarboxylic acid that is a member of the drug class known as statins, used primarily for lowering blood cholesterol and for preventing cardiovascular diseases.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>2949</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:39548</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Lipitor</synonym>
+	</synonyms>
+</metadata>

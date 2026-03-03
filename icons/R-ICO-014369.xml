@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>KW-2449</name>
+	<description>KW-2449 is a multi-targeted kinase inhibitor that was investigated as a treatment for leukemias with FLT3 mutations or T315I-mutated BCR/ABL translocation.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5691</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:91441</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>KW 2449</synonym>
+		<synonym>[4-[2-(1H-indazol-3-yl)ethenyl]phenyl]-(1-piperazinyl)methanone</synonym>
+	</synonyms>
+</metadata>

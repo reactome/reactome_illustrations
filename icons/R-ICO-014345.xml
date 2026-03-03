@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IDS</name>
+	<description>Iduronate 2-sulfatase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P22304</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Alpha-L-iduronate sulfate sulfatase</synonym>
+		<synonym>Idursulfase</synonym>
+		<synonym>SIDS</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>RNF43</name>
+	<description>E3 ubiquitin-protein ligase RNF43</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q68DV7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>RING finger protein 43</synonym>
+		<synonym>RING-type E3 ubiquitin transferase RNF43</synonym>
+	</synonyms>
+</metadata>

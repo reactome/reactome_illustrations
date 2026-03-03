@@ -1,0 +1,29 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>MAPK11-14</name>
+    <description>Representation of Mitogen-activated protein kinase 11 to 14</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q15759</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P53778</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O15264</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q16539</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Thiamine diphosphate</name>
+	<description>Dianion of thiamine(1+) diphosphate arising from deprotonation of the three OH groups of the diphosphate</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:58937</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ThDP</synonym>
+		<synonym>Thiamine(1+) diphosphate(3−)</synonym>
+	</synonyms>
+</metadata>

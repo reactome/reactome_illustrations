@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IL-18</name>
+	<description>Interleukin-18</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q14116</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Iboctadekin</synonym>
+		<synonym>Interferon gamma-inducing factor</synonym>
+		<synonym>IFN-gamma-inducing factor</synonym>
+		<synonym>Interleukin-1 gamma</synonym>
+		<synonym>IL-1 gamma</synonym>
+		<synonym>IGIF</synonym>
+		<synonym>IL1F4</synonym>
+	</synonyms>
+</metadata>

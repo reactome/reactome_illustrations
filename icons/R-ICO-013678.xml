@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+	<person orcid="0000-0002-0826-9069" role="curator">Nicholas Norwitz</person>
+	<person orcid="0000-0002-8803-6475" role="designer">Sam Norwitz</person>
+    <name>mRNA Blue</name>
+    <description>Representation in blue for mRNA, which is transcribed from DNA and translated into proteins</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:33699</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

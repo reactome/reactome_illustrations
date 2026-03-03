@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ACE2</name>
+	<description>Angiotensin-converting enzyme 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9BYF1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ACE-related carboxypeptidase</synonym>
+		<synonym>ACEH</synonym>
+		<synonym>MPROT15</synonym>
+		<synonym>UNQ868</synonym>
+		<synonym>PRO1885</synonym>
+		<synonym>Angiotensin-converting enzyme homolog</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

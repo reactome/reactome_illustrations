@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Eicosanoids</name>
+	<description>Eicosanoids are any member of the group of signalling molecules arising from oxidation of the three C20 essential fatty acids (EFAs) icosapentaenoic acid (EPA), arachidonic acid (AA) and dihomo-gamma-linolenic acid (DGLA)</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:23899</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Icosanoids</synonym>
+	</synonyms>
+</metadata>

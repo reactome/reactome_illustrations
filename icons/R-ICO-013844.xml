@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Malonyl-CoA</name>
+	<description>The S-malonyl derivative of coenzyme A</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15531</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Mal-CoA</synonym>
+		<synonym>Malonyl coenzyme A</synonym>
+		<synonym>Coenzyme A, S-(hydrogen propanedioate)</synonym>
+		<synonym>S-(Hydrogen malonyl)coenzyme A</synonym>
+	</synonyms>
+</metadata>

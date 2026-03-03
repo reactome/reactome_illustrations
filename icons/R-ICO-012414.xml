@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Altrose</name>
+    <description>Altrose is an aldohexose sugar. D-Altrose is an unnatural monosaccharide. It is soluble in water and practically insoluble in methanol</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:37708</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NEIL3</name>
+	<description>Endonuclease 8-like 3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8TAT5</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DNA glycosylase FPG2</synonym>
+		<synonym>DNA glycosylase/AP lyase Neil3</synonym>
+		<synonym>Endonuclease VIII-like 3</synonym>
+		<synonym>Nei-like protein 3</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HIV showing content</name>
+	<description>Graphic representation of HIV virion and its content</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0007824</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>HIV-1</synonym>
+	</synonyms>
+</metadata>

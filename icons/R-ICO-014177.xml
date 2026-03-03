@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PRKN</name>
+	<description>E3 ubiquitin-protein ligase parkin</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60260</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Parkin</synonym>
+		<synonym>Parkin RBR E3 ubiquitin-protein ligase</synonym>
+		<synonym>Parkinson juvenile disease protein 2</synonym>
+		<synonym>PARK2</synonym>
+	</synonyms>
+</metadata>

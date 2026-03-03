@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5807-0069">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Clathrin coated pit</name>
+    <description>Clathrin is a protein that plays a major role in the formation of coated vesicles. Coated pits are regions of the cell membrane specialized in receptor-mediated endocytosis. Their cytoplasmic surface is coated with a bristlelike structure made of clathrin. During the first steps of endocytosis, clathrin-coated pits are internalized to form clathrin-coated vesicles which transport proteins from organelle to organelle</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>GO</db>
+            <id>GO:0005905</id>
+        </reference>
+    </references>
+</metadata>

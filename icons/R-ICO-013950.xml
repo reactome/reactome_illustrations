@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Leishmania amastigote form</name>
+	<description>The amastigote form of Leishmania is found in the mononuclear phagocytes and circulatory systems of humans. It is an intracellular and nonmotile form, being devoid of external flagella. The short flagellum is embedded at the anterior end without projecting out. It is oval in shape, and measures 3–6 µm in length and 1–3 µm in breadth. The kinetoplast and basal body lie towards the anterior end</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OPL</db>
+			<id>OPL:0000114</id>
+		</reference>
+	</references>
+</metadata>

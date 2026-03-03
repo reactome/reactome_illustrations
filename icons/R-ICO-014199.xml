@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DMRT1</name>
+	<description>Doublesex- and mab-3-related transcription factor 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y5R6</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DM domain expressed in testis protein 1</synonym>
+		<synonym>DMT1</synonym>
+	</synonyms>
+</metadata>

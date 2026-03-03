@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>F5</name>
+	<description>Coagulation factor V.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P12259</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Activated protein C cofactor</synonym>
+		<synonym>Proaccelerin, labile factor</synonym>
+	</synonyms>
+</metadata>

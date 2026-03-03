@@ -1,0 +1,59 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Adenylate Cyclase 1-9</name>
+	<description>Adenylate cyclase family members 1 to 9.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q08828</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q08462</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60266</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8NFM4</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O95622</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O43306</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P51828</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P40145</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60503</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ATP pyrophosphate-lyase 1</synonym>
+		<synonym>Adenylate cyclase type I</synonym>
+		<synonym>Adenylyl cyclase 1</synonym>
+		<synonym>Ca(2+)/calmodulin-activated adenylyl cyclase</synonym>
+		<synonym>KIAA1060</synonym>
+		<synonym>KIAA0511</synonym>
+		<synonym>KIAA0422</synonym>
+		<synonym>KIAA0037</synonym>
+		<synonym>KIAA0520</synonym>
+	</synonyms>
+</metadata>

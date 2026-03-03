@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Fructose</name>
+    <description>Fructose is a simple ketonic monosaccharide found in many plants, where it is often bonded to glucose to form the disaccharide sucrose</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:28757</id>
+        </reference>
+    </references>
+</metadata>

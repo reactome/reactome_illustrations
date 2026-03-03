@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TGFBR1</name>
+	<description>TGF-beta receptor type-1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P36897</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>TGFR-1</synonym>
+		<synonym>Activin A receptor type II-like protein kinase of 53kD</synonym>
+		<synonym>Activin receptor-like kinase 5</synonym>
+		<synonym>ALK-5</synonym>
+		<synonym>ALK5</synonym>
+		<synonym>Serine/threonine-protein kinase receptor R4</synonym>
+		<synonym>SKR4</synonym>
+		<synonym>TGF-beta type I receptor</synonym>
+		<synonym>Transforming growth factor-beta receptor type I</synonym>
+		<synonym>TGF-beta receptor type I</synonym>
+		<synonym>TbetaR-I</synonym>
+	</synonyms>
+</metadata>

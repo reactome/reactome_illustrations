@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ALECTINIB</name>
+	<description>Alectinib is a second generation ALK inhibitor. It was developed to inhibit the expression of the mutated ALK gene that causes growth of some non-small cell lung cancers, in patients whose cancer has become resistant to the older ALK inhibitor, crizotinib. However, additional mutations may develop which confer alecitinib resistance. Cells harbouring these novel mutations are reported to be sensitive to ceritinib and other next-generation ALK tyrosine kinase inhibitors.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7739</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AF802</synonym>
+		<synonym>CH5424802</synonym>
+		<synonym>Alecensa</synonym>
+		<synonym>Alecensa®</synonym>
+	</synonyms>
+</metadata>

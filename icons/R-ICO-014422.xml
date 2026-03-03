@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CERITINIB</name>
+	<description>Ceritinib is a novel, highly selective, second generation ALK inhibitor.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7397</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>compound 15b [PMID 23742252]</synonym>
+		<synonym>LDK378</synonym>
+		<synonym>NVP-LDK378-NX</synonym>
+		<synonym>Zykadia</synonym>
+		<synonym>Zykadia®</synonym>
+	</synonyms>
+</metadata>

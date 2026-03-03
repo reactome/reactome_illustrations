@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CD320</name>
+	<description>CD320 antigen.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NPF0</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>8D6 antigen</synonym>
+		<synonym>FDC-signaling molecule 8D6</synonym>
+		<synonym>FDC-SM-8D6</synonym>
+		<synonym>Transcobalamin receptor</synonym>
+		<synonym>TCblR</synonym>
+		<synonym>8D6A</synonym>
+		<synonym>UNQ198/PRO224</synonym>
+	</synonyms>
+</metadata>

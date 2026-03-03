@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NHLRC1</name>
+	<description>E3 ubiquitin-protein ligase NHLRC1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q6VVB1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Malin</synonym>
+		<synonym>NHL repeat-containing protein 1</synonym>
+		<synonym>RING-type E3 ubiquitin transferase NHLRC1</synonym>
+		<synonym>EPM2B</synonym>
+	</synonyms>
+</metadata>

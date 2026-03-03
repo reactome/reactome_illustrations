@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>E</name>
+	<description>Envelope protein E binds to host cell surface receptor and mediates fusion between viral and cellular membranes.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P29990</id>
+		</reference>
+	</references>
+</metadata>

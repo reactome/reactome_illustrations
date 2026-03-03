@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Myosin filament</name>
+    <description>One of the contractile elements in skeletal, cardiac, and smooth muscle fibers; in skeletal muscle, the filament is about 15 nm thick and 1.5 mcm long</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0032982</id>
+        </reference>
+    </references>
+</metadata>

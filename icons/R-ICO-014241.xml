@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Photon</name>
+	<description>Particle of zero charge, zero rest mass, spin quantum number 1, energy hν and momentum hν/c (h is the Planck constant, ν the frequency of radiation and c the speed of light), carrier of electromagnetic force</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:30212</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Light</synonym>
+	</synonyms>
+</metadata>

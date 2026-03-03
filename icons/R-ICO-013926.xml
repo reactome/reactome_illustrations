@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Cochlear nerve</name>
+	<description>A nerve in the head that carries signals from the cochlea of the inner ear to the brain</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0004727</id>
+		</reference>
+	</references>
+</metadata>

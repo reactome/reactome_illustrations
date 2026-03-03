@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CASP4 Domains</name>
+	<description>Caspase-4.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P49662</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CE and Ced-3 homolog 2 </synonym>
+		<synonym>ICE(rel)-II </synonym>
+		<synonym>Mih1</synonym>
+		<synonym>Protease TX</synonym>
+		<synonym>ICH2</synonym>
+	</synonyms>
+</metadata>

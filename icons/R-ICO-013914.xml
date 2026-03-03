@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>N-ribosylnicotinamide</name>
+	<description>A pyridine nucleoside consisting of nicotinamide with a β-D-ribofuranosyl moiety at the 1-position</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15927</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>NR</synonym>
+		<synonym>N-Ribosylnicotinamide</synonym>
+		<synonym>nicotinamide ribonucleoside</synonym>
+		<synonym>nicotinamide ribose</synonym>
+	</synonyms>
+</metadata>

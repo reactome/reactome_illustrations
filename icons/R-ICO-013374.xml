@@ -1,0 +1,24 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>SMAD1,5,8</name>
+    <description>Mothers against decapentaplegic homolog 1, 5 and 8</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q15797</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q99717</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O15198</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>MAPK7</name>
+    <description>Mitogen-activated protein kinase 7</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q13164</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>BMK1</synonym>
+        <synonym>ERk5</synonym>
+        <synonym>PRMK7</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

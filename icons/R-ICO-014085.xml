@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCB4</name>
+	<description>Phosphatidylcholine translocator ABCB4</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P21439</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ATP-binding cassette sub-family B member 4</synonym>
+		<synonym>Multidrug resistance protein 3</synonym>
+		<synonym>P-glycoprotein 3</synonym>
+		<synonym>MDR3</synonym>
+		<synonym>PGY3</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,18 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+	<person orcid="0000-0002-0826-9069" role="curator">Nicholas Norwitz</person>
+	<person orcid="0000-0002-8803-6475" role="designer">Sam Norwitz</person>
+    <name>LRP6</name>
+    <description>Low-density lipoprotein receptor-related protein 6</description>
+    <info>http://rebrand.ly/ehldinfo</info>
+    <references>
+    	<reference>
+            <db>UNIPROT</db>
+            <id>O75581</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

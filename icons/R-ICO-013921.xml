@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>D-threo-isocitric acid</name>
+	<description>The D-threo-diastereomer of isocitric acid</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:151</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ISCIT</synonym>
+		<synonym>ISOCITRIC ACID</synonym>
+		<synonym>(+)-threo-isocitric acid</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>human_tissue</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Boy</name>
+    <description>Representation of a boy's body</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UBERON</db>
+            <id>UBERON:0000468</id>
+        </reference>
+    </references>
+</metadata>

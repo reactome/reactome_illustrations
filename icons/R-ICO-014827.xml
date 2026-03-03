@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NAGS</name>
+	<description>N-acetylglutamate synthase, mitochondrial.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8N159</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Amino-acid acetyltransferase</synonym>
+	</synonyms>
+</metadata>

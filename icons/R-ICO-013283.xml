@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Reactive oxygen species</name>
+    <description>Reactive oxygen species (ROS) are chemically reactive chemical species containing oxygen. Examples include peroxides, superoxide, hydroxyl radical, and singlet oxygen</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:26523</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>ROS</synonym>
+    </synonyms>
+</metadata>

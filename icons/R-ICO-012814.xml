@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>HEME</name>
+    <description>Heme is a cofactor consisting of an Fe2+ ion contained in the centre of a heterocyclic macrocycle organic compound called a porphyrin, made up of four pyrrolic groups joined together by methine bridges</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:60344</id>
+        </reference>
+    </references>
+</metadata>

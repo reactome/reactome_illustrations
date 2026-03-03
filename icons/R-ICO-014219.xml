@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>LRP5</name>
+	<description>Low-density lipoprotein receptor-related protein 5</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75197</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>LRP-7</synonym>
+		<synonym>LR3</synonym>
+		<synonym>LRP7</synonym>
+	</synonyms>
+</metadata>

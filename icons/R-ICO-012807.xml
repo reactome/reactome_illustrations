@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Gulose</name>
+    <description>Gulose is an aldohexose sugar. It is a monosaccharide that is very rare in nature, but has been found in archaea, bacteria and eukaryotes</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:37691</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

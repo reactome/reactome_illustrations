@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>RETINOL</name>
+    <description>A retinoid consisting of 3,7-dimethylnona-2,4,6,8-tetraen-1-ol substituted at position 9 by a 2,6,6-trimethylcyclohex-1-en-1-yl group</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:50211</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,10 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Selenoproteins</name>
+	<description>In molecular biology a selenoprotein is any protein that includes a selenocysteine (Sec, U, Se-Cys) amino acid residue. Among functionally characterized selenoproteins are five glutathione peroxidases (GPX) and three thioredoxin reductases, (TrxR/TXNRD) which both contain only one Sec. Selenoprotein P is the most common selenoprotein found in the plasma. It is unusual because in humans it contains 10 Sec residues, which are split into two domains, a longer N-terminal domain that contains 1 Sec, and a shorter C-terminal domain that contains 9 Sec. The longer N-terminal domain is likely an enzymatic domain, and the shorter C-terminal domain is likely a means of safely transporting the very reactive selenium atom throughout the body</description>
+	<info>https://reactome.org/icon-info</info>
+</metadata>

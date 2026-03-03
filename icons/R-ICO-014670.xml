@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ISB-CoA</name>
+	<description>A short chain fatty acyl-CoA(4−) that is the tetraanion of isobutyryl-CoA, arising from deprotonation of phosphate and diphosphate functions.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:57338</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>isobutyryl-CoA(4−)</synonym>
+		<synonym>2-methylpropanoyl-CoA</synonym>
+		<synonym>2-methylpropionyl-CoA(4−)</synonym>
+		<synonym>isobutyryl-CoA tetraanion</synonym>
+		<synonym>S-(2-methylpropanoyl)-coenzyme A(4−)</synonym>
+	</synonyms>
+</metadata>

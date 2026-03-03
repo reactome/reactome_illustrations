@@ -1,0 +1,34 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MIRO</name>
+	<description>Graphic representation of Mitochondrial Rho GTPase proteins 1 and 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8IXI2</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8IXI1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MIRO-1</synonym>
+		<synonym>hMiro-1</synonym>
+		<synonym>Rac-GTP-binding protein-like protein</synonym>
+		<synonym>Ras homolog gene family member T1</synonym>
+		<synonym>RHOT1</synonym>
+		<synonym>ARHT1</synonym>
+		<synonym>MIRO-2</synonym>
+		<synonym>hMiro-2</synonym>
+		<synonym>Ras homolog gene family member T2</synonym>
+		<synonym>RHOT2</synonym>
+		<synonym>ARHT2</synonym>
+		<synonym>C16orf39</synonym>
+	</synonyms>
+</metadata>

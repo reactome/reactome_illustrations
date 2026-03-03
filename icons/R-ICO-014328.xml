@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>D-erythrose 4-phosphate</name>
+	<description>D-erythrose 4-phosphate is an erythrose phosphate that is D-erythrose carrying a phosphate group at position 4</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16897</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>4-O-phosphonato-D-erythrose</synonym>
+		<synonym>D-erythrose 4-phosphate</synonym>
+		<synonym>E4P</synonym>
+	</synonyms>
+</metadata>

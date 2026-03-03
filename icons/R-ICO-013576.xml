@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>E Box</name>
+    <description>An E-box (enhancer box) is a DNA response element found in some eukaryotes that acts as a protein-binding site and has been found to regulate gene expression in neurons, muscles, and other tissues</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>GO</db>
+            <id>GO:0070888</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

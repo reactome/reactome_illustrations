@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>BCKDH complex</name>
+	<description>The branched-chain alpha-ketoacid dehydrogenase complex (BCKDC or BCKDH complex) is a multi-subunit complex of enzymes that is found on the mitochondrial inner membrane.This enzyme complex catalyzes the oxidative decarboxylation of branched, short-chain alpha-ketoacids. BCKDC is a member of the mitochondrial α-ketoacid dehydrogenase complex family, which also includes pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, key enzymes that function in the Krebs cycle.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-2216</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Mitochondrial 2-oxoisovalerate dehydrogenase complex</synonym>
+	</synonyms>
+</metadata>

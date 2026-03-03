@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>all-trans-retinoic acid</name>
+    <description>A retinoic acid in which all four exocyclic double bonds have E- (trans-) geometry</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:15367</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>all-trans-retinoic acid</synonym>
+        <synonym>atRA</synonym>
+    </synonyms>
+</metadata>

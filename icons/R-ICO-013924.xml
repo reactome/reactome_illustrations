@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Stereocilia</name>
+	<description>An actin-based protrusion from the apical surface of auditory and vestibular hair cells and of neuromast cells</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0032420</id>
+		</reference>
+	</references>
+</metadata>

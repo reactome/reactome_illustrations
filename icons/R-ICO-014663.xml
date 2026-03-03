@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+        <category>receptor</category>
+        <category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>KDR</name>
+	<description>Vascular endothelial growth factor receptor 2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P35968</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Fetal liver kinase 1 (FLK-1)</synonym>
+		<synonym>Kinase insert domain receptor (KDR)</synonym>
+		<synonym>Protein-tyrosine kinase receptor flk-1</synonym>
+		<synonym>CD309</synonym>
+		<synonym>FLK1</synonym>
+		<synonym>VEGFR2</synonym>
+	</synonyms>
+</metadata>

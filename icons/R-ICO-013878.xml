@@ -1,0 +1,22 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Coenzyme A</name>
+    <description>Coenzyme A is a coenzyme, notable for its role in the synthesis and oxidation of fatty acids, and the oxidation of pyruvate in the citric acid cycle</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:57287</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>CoA-SH</synonym>
+        <synonym>CoA</synonym>
+        <synonym>HSCoA</synonym>
+        <synonym>3'-phosphoadenosine-(5')diphospho(4')pantatheine</synonym>
+    </synonyms>
+</metadata>

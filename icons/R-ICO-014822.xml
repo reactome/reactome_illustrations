@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GABA</name>
+	<description>Zwitterionic form of γ-aminobutyric acid having an anionic carboxy group and a protonated amino group.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:59888</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>4-aminobutanoate</synonym>
+		<synonym>4-ammoniobutanoate</synonym>
+	</synonyms>
+</metadata>

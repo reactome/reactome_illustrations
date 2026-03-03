@@ -1,0 +1,24 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>TGFBR</name>
+    <description>Set of TGF-beta receptor type 1, 2 or 3</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P36897</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P37173</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q03167</id>
+        </reference>
+    </references>
+</metadata>

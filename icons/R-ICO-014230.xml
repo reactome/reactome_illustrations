@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>all-trans-retinyl ester</name>
+	<description>A retintinyl ester in which all double bonds of the retinyl side-chain have trans-configuration</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:63410</id>
+		</reference>
+		<reference>
+			<db>KEGG</db>
+			<id>C02075</id>
+		</reference>
+	</references>
+</metadata>

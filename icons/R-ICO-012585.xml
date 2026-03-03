@@ -1,0 +1,29 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CFC1/TDGF1</name>
+    <description>Generic representation of CFC1 and/or TDGF1</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P13385</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P0CG37</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>CRIPTO</synonym>
+        <synonym>CRGF</synonym>
+        <synonym>Cripto-1 growth factor</synonym>
+        <synonym>Epidermal growth factor-like cripto protein CR1</synonym>
+        <synonym>Cryptic family protein 1</synonym>
+        <synonym>Cryptic protein</synonym>
+    </synonyms>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TESEVATINIB</name>
+	<description>Tesevatinib (XL-647) is an orally bioavailable small-molecule receptor tyrosine kinase (RTK) inhibitor with broad spectrum activity againt EGFRs and VEGFRs [2], and which has pre-clinical antineoplastic potential.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7944</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>EXEL-7647</synonym>
+		<synonym>KD-019</synonym>
+		<synonym>XL-647</synonym>
+		<synonym>XL647</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0003-0705-9809">Rahuman Sheriff</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>M2 Macrophage</name>
+	<description>An elicited macrophage characterized by low production of pro-inflammatory and Th1 polarizing cytokines and high expression of arginase-1, and associated with tissue remodelling</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000890</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5766-1702" role="curator">Marc Gillespie</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ERGIC</name>
+    <description>The vesicular-tubular cluster (VTC), also referred to as the ER-Golgi intermediate compartment (or ERGIC), is an organelle in eukaryotic cells. This compartment mediates trafficking between the endoplasmic reticulum and Golgi complex, facilitating the sorting of cargo</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:1990673</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

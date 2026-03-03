@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>2ʼ-deoxyinosine</name>
+	<description>A purine 2ʼ-deoxyribonucleoside that is inosine in which the hydroxy group at position 2ʼ is replaced by a hydrogen.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:28997</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>dI</synonym>
+		<synonym>Deoxyinosine</synonym>
+		<synonym>9-(2-deoxy-β-D-erythro-pentofuranosyl)-9H-purin-6-ol</synonym>
+	</synonyms>
+</metadata>

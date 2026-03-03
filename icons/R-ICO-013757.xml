@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MT-TS1</name>
+	<description>mitochondrially encoded tRNA-Ser (UCN) 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>ENSEMBL</db>
+			<id>ENSG00000210151</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

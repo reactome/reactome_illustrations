@@ -1,0 +1,29 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>RHPN</name>
+    <description>Representation of ARhophilin 1 or 2</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q8TCX5</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q8IUC4</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>RHPN1</synonym>
+        <synonym>RHPN2</synonym>
+        <synonym>KIAA1929</synonym>
+        <synonym>GTP-Rho-binding protein 1</synonym>
+        <synonym>GTP-Rho-binding protein 2</synonym>
+        <synonym>76 kDa RhoB effector protein</synonym>
+        <synonym>p76RBE</synonym>
+    </synonyms>
+</metadata>

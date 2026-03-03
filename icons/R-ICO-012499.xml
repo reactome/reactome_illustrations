@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CALCIDIOL</name>
+    <description>Calcidiol is a prehormone that is produced in the liver by hydroxylation of vitamin D3 (cholecalciferol) by the enzyme cholecalciferol 25-hydroxylase</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:17933</id>
+        </reference>
+    </references>
+</metadata>

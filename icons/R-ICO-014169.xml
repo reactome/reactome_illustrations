@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>sta1</name>
+	<description>Heat-stable enterotoxin ST-IA/ST-P</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P01559</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>STh</synonym>
+		<synonym>STp</synonym>
+	</synonyms>
+</metadata>

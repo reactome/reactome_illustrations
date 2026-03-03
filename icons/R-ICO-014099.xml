@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCD4</name>
+	<description>Lysosomal cobalamin transporter ABCD4</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O14678</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ATP-binding cassette sub-family D member 4</synonym>
+		<synonym>PMP70-related protein</synonym>
+		<synonym>P70R</synonym>
+		<synonym>Peroxisomal membrane protein 1-like</synonym>
+		<synonym>PXMP1-L</synonym>
+		<synonym>Peroxisomal membrane protein 69</synonym>
+		<synonym>PMP69</synonym>
+		<synonym>PXMP1L</synonym>
+	</synonyms>
+</metadata>

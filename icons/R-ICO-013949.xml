@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SLC26A5 tetramer</name>
+	<description>Motor protein that converts auditory stimuli to length changes in outer hair cells and mediates sound amplification in the mammalian hearing organ. Prestin is a bidirectional voltage-to-force converter, it can operate at microsecond rates</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P58743</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Prestin</synonym>
+		<synonym>PRES</synonym>
+	</synonyms>
+</metadata>

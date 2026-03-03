@@ -1,0 +1,28 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PSIP1</name>
+	<description>Transcriptional coactivator involved in neuroepithelial stem cell differentiation and neurogenesis</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75475</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PC4 and SFRS1-interacting protein</synonym>
+		<synonym>CLL-associated antigen KW-7</synonym>
+		<synonym>Dense fine speckles 70 kDa protein</synonym>
+		<synonym>DFS 70</synonym>
+		<synonym>Lens epithelium-derived growth factor</synonym>
+		<synonym>Transcriptional coactivator p75/p52</synonym>
+		<synonym>DFS70</synonym>
+		<synonym>LEDGF</synonym>
+		<synonym>PSIP2</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

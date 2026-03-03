@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Endoplasmic reticulum 3D 02</name>
+    <description>3D-like representation of an endoplasmic reticulum</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0005783</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>ER</synonym>
+    </synonyms>
+</metadata>

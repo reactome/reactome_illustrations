@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>pp1ab</name>
+	<description>Orf1ab polyprotein</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>A7J8L2</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PP1ab</synonym>
+		<synonym>orf1ab</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TAS1R1</name>
+	<description>Taste receptor type 1 member 1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q7RTX1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>G-protein coupled receptor 70</synonym>
+		<synonym>GPR70</synonym>
+		<synonym>T1R1</synonym>
+		<synonym>TR1</synonym>
+		<synonym>GM148</synonym>
+	</synonyms>
+</metadata>

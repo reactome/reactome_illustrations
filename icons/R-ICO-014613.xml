@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ASH2L</name>
+	<description>Set1/Ash2 histone methyltransferase complex subunit ASH2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UBL3</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ASH2L1</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TAMATINIB</name>
+	<description>Tamatinib (R406) is a potent ATP-competitive (Type I) Syk inhibitor. It is the active form of the prodrug fostamatinib.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5706</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>R406</synonym>
+		<synonym>R 406</synonym>
+		<synonym>R-406</synonym>
+	</synonyms>
+</metadata>

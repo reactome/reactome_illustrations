@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Pyridoxal 5'-phosphate</name>
+	<description>The monophosphate ester obtained by condensation of phosphoric acid with the primary hydroxy group of pyridoxal</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:18405</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PXLP</synonym>
+		<synonym>PLP</synonym>
+		<synonym>codecarboxylase</synonym>
+		<synonym>Pyridoxal 5'-phosphate</synonym>
+	</synonyms>
+</metadata>

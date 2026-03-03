@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Gene 03</name>
+    <description>Representation of a sequence of DNA</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>GO</db>
+            <id>GO:0010467</id>
+        </reference>
+    </references>
+</metadata>

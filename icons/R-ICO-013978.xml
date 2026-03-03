@@ -1,0 +1,30 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ICOSLG</name>
+	<description>ICOS ligand</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75144</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>B7 homolog 2</synonym>
+		<synonym>B7-H2</synonym>
+		<synonym>B7-like protein Gl50</synonym>
+		<synonym>B7-related protein 1</synonym>
+		<synonym>B7RP-1</synonym>
+		<synonym>CD275</synonym>
+		<synonym>B7H2</synonym>
+		<synonym>B7RP1</synonym>
+		<synonym>ICOSL</synonym>
+		<synonym>KIAA0653</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

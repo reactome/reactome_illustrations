@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CDH5</name>
+	<description>Cadherin-5.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P33151</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>7B4 antigen</synonym>
+		<synonym>Vascular endothelial cadherin </synonym>
+		<synonym>VE-cadherin</synonym>
+		<synonym>CD144</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MMUT</name>
+	<description>Methylmalonyl-CoA mutase, mitochondrial.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P22033</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MCM</synonym>
+		<synonym>Methylmalonyl-CoA isomerase</synonym>
+		<synonym>MUT</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>L-Serine</name>
+	<description>The L-enantiomer of serine.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17115</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>L-Ser</synonym>
+		<synonym>Serine</synonym>
+		<synonym>(2S)-2-amino-3-hydroxypropanoic acid</synonym>
+		<synonym>beta-Hydroxy-L-alanine</synonym>
+		<synonym>L-2-Amino-3-hydroxypropionic acid</synonym>
+		<synonym>L-3-Hydroxy-2-aminopropionic acid</synonym>
+	</synonyms>
+</metadata>

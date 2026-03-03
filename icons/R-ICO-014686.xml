@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>2MACA-CoA</name>
+	<description>An acyl-CoA(4−) that is the tetraanion of 2-methylacetoacetyl-CoA, arising from deprotonation of phosphate and diphosphate functions.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:57335</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>2-methylacetoacetyl-CoA(4−)</synonym>
+		<synonym>3'-phosphonatoadenosine 5'-{3-[(3R)-3-hydroxy-2,2-dimethyl-4-{[3-({2-[(2-methyl-3-oxobutanoyl)sulfanyl]ethyl}amino)-3-oxopropyl]amino}-4-oxobutyl]diphosphate}</synonym>
+		<synonym>2-methyl-3-oxobutanoyl-CoA</synonym>
+		<synonym>2-methylacetoacetyl-CoA tetraanion</synonym>
+		<synonym>2-methylacetoacetyl-coenzyme A(4−)</synonym>
+	</synonyms>
+</metadata>

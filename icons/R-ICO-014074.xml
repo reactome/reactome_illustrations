@@ -1,0 +1,41 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TLR5,7,8,9 homodimer</name>
+	<description>Graphic representation of TLR5, TLR7, TLR8 or TLR9</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60602</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NYK1</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NR97</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NR96</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>TIL3</synonym>
+		<synonym>UNQ248</synonym>
+		<synonym>PRO285</synonym>
+		<synonym>CD288</synonym>
+		<synonym>UNQ249</synonym>
+		<synonym>PRO286</synonym>
+		<synonym>CD289</synonym>
+		<synonym>UNQ5798</synonym>
+		<synonym>PRO19605</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

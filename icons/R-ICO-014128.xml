@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NEDD4L</name>
+	<description>E3 ubiquitin-protein ligase NEDD4-like</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q96PU5</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>HECT-type E3 ubiquitin transferase NED4L</synonym>
+		<synonym>NEDD4.2</synonym>
+		<synonym>Nedd4-2</synonym>
+		<synonym>KIAA0439</synonym>
+		<synonym>NEDL3</synonym>
+	</synonyms>
+</metadata>

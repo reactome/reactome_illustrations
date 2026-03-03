@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>NLK</name>
+    <description>Serine/threonine-protein kinase NLK</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q9UBE8</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>LAK1</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

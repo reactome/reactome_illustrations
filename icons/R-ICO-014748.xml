@@ -1,0 +1,40 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Laminin-332</name>
+	<description>Laminin 332, composed of the alpha3, beta3 and gamma2 chains, is an epithelial-basement membrane specific laminin variant. Its main role in normal tissues is the maintenance of epithelial-mesenchymal cohesion in tissues exposed to external forces, including skin and stratified squamous mucosa.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q16787</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q13751</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q13753</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>LAMA3</synonym>
+		<synonym>LAMB3</synonym>
+		<synonym>LAMC2</synonym>
+		<synonym>LAMNA</synonym>
+		<synonym>Laminin-5 subunit alpha</synonym>
+		<synonym>Laminin-6 subunit alpha</synonym>
+		<synonym>LAMNB1</synonym>
+		<synonym>Laminin B1k chain</synonym>
+		<synonym>Kalinin subunit alpha</synonym>
+		<synonym>Kalinin subunit beta</synonym>
+		<synonym>Kalinin subunit gamma</synonym>
+		<synonym>Epiligrin subunit alpha</synonym>
+		<synonym>Epiligrin subunit beta</synonym>
+		<synonym>Epiligrin subunit gamma</synonym>
+	</synonyms>
+</metadata>

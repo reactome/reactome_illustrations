@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>1,2,4-triazole-3-carboxamide</name>
+	<description>A member of the class of triazoles that is 1H-1,2,4-triazole substituted by an aminocarbonyl group at position 3. It is the major catabolite and aglycon of ribavirin.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:180482</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>3-(aminocarbonyl)-1H-1,2,4-triazole</synonym>
+		<synonym>3-carbamoyl-1H-1,2,4-triazole</synonym>
+	</synonyms>
+</metadata>

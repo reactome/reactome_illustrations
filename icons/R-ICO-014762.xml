@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Female breast section</name>
+	<description>Graphic representation of the female breast showing mammary glands.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0000310</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>mammary region</synonym>
+	</synonyms>
+</metadata>

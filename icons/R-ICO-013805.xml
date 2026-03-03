@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Acylcarnitine</name>
+	<description>Any carboxylic ester obtained by the O-acylation of carnitine</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17387</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>O-acylcarnitine</synonym>
+	</synonyms>
+</metadata>

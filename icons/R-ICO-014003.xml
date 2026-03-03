@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed CD86</name>
+	<description>T-lymphocyte activation antigen CD86</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P42081</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Activation B7-2 antigen</synonym>
+		<synonym>B70</synonym>
+		<synonym>BU63</synonym>
+		<synonym>CTLA-4 counter-receptor B7.2</synonym>
+		<synonym>FUN-1</synonym>
+		<synonym>CD28LG2</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,30 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SFTPA2</name>
+	<description>Pulmonary surfactant-associated protein A2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8IWL1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PSP-A</synonym>
+		<synonym>PSPA</synonym>
+		<synonym>SP-A</synonym>
+		<synonym>SP-A2</synonym>
+		<synonym>35 kDa pulmonary surfactant-associated protein</synonym>
+		<synonym>Alveolar proteinosis protein</synonym>
+		<synonym>Collectin-5</synonym>
+		<synonym>COLEC5</synonym>
+		<synonym>PSAP</synonym>
+		<synonym>SFTP1</synonym>
+		<synonym>SFTPA</synonym>
+		<synonym>SFTPA2B</synonym>
+	</synonyms>
+</metadata>

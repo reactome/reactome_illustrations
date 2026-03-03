@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>C2</name>
+	<description>Component C2 which is part of the classical pathway of the complement system is cleaved by activated factor C1 into two fragments: C2b and C2a. C2a, a serine protease, then combines with complement factor C4b to generate the C3 or C5 convertase</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P06681</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

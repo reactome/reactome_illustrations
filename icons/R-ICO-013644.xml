@@ -1,0 +1,27 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ESR</name>
+    <description>Generic representation of an estrogen receptor</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P03372</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q92731</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>ER</synonym>
+        <synonym>ER-alpha</synonym>
+        <synonym>ER-beta</synonym>
+        <synonym>NR3A1</synonym>
+        <synonym>NR3A2</synonym>
+    </synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>C</name>
+	<description>The capsid protein C plays a role in virus budding by binding to the cell membrane and gathering the viral RNA into a nucleocapsid that forms the core of a mature virus particle.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P29990</id>
+		</reference>
+	</references>
+</metadata>

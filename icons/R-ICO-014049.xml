@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>tetX heavy chain</name>
+	<description>Graphic representation of Tetanus toxin light chain</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04958</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Tentoxylysin</synonym>
+	</synonyms>
+</metadata>

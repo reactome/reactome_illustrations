@@ -1,0 +1,24 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>SUMO</name>
+    <description>SUMO family member</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P63165</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P61956</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P55854</id>
+        </reference>
+    </references>
+</metadata>

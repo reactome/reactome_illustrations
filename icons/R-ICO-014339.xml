@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NOTCH1-ICD</name>
+	<description>Graphic representation of the intracellular domain of NOTCH1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P46531</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>NICD</synonym>
+	</synonyms>
+</metadata>

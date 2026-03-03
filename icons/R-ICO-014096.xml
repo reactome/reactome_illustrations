@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCC8</name>
+	<description>ATP-binding cassette sub-family C member 8</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q09428</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Sulfonylurea receptor 1</synonym>
+		<synonym>HRINS</synonym>
+		<synonym>SUR</synonym>
+		<synonym>SUR1</synonym>
+	</synonyms>
+</metadata>

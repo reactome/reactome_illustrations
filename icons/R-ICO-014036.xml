@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed CD80</name>
+	<description>T-lymphocyte activation antigen CD80</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P33681</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Activation B7-1 antigen</synonym>
+		<synonym>BB1</synonym>
+		<synonym>CTLA-4 counter-receptor B7.1</synonym>
+		<synonym>B7</synonym>
+		<synonym>CD28LG</synonym>
+		<synonym>CD28LG1</synonym>
+		<synonym>LAB7</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

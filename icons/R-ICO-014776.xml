@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ANO6</name>
+	<description>Anoctamin-6.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q4KMQ2</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Small-conductance calcium-activated nonselective cation channel (SCAN channel)</synonym>
+		<synonym>Transmembrane protein 16F</synonym>
+		<synonym>TMEM16F</synonym>
+	</synonyms>
+</metadata>

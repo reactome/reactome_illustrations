@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SLC25A15</name>
+	<description>Mitochondrial ornithine transporter 1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y619</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>SLC25A15</synonym>
+		<synonym>ORC1</synonym>
+		<synonym>ORNT1</synonym>
+		<synonym>SP1855</synonym>
+	</synonyms>
+</metadata>

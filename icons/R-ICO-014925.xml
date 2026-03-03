@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://orcid.org/0009-0002-7406-2389">Junaid Haque</person>
+    <name>Sliced view of microtubule doublet with dynein arms</name>
+    <description>A cross-section of a microtubule doublet with dynein arms.</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0005879</id>
+        </reference>
+    </references>
+</metadata>

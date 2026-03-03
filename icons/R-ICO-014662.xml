@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Aorta</name>
+	<description>The main trunk of the systemic arterial system that carries blood from the heart to all the organs and other structures of the body, bringing oxygenated blood to all parts of the body in the systemic circulation.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0000947</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>arteria maxima</synonym>
+		<synonym>dorsal aorta</synonym>
+	</synonyms>
+</metadata>

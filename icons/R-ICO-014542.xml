@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>AZATHIOPRINE</name>
+	<description>Azathioprine is an immunosuppressive antimetabolite. The active drug is believed to be mercaptopurine.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7120</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AZA</synonym>
+		<synonym>Azasan</synonym>
+		<synonym>Azasan®</synonym>
+		<synonym>BW-57-322</synonym>
+		<synonym>Imuran</synonym>
+		<synonym>Imuran®</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>human_tissue</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Gastrula</name>
+    <description>Gastrulation is a phase early in the embryonic development of most animals, during which the single-layered blastula is reorganized into a multilayered structure known as the gastrula</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UBERON</db>
+            <id>UBERON:0004734</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>gastrulation</synonym>
+    </synonyms>
+</metadata>

@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SARS-CoV-2</name>
+	<description>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a strain of the species severe acute respiratory syndrome-related coronavirus (SARSr-CoV). It belongs to the family Coronaviridae which are a family of enveloped, positive-sense, single-stranded RNA viruses. SARS-CoV-2 likely originated from a bat coronavirus, to which is has a close genetic similarity. A highly contagious disease in humans, transmission occurs via liquid droplets from coughs or sneezes in a range of around 2 metres. SARS-CoV-2 is the cause of the ongoing pandemic of coronavirus disease 2019 (COVID-19)</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>NCIT</db>
+			<id>NCIT:C112432</id>
+		</reference>
+		<reference>
+			<db>NCBI</db>
+			<id>1798174254</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>COVID-19</synonym>
+		<synonym>COVID19</synonym>
+	</synonyms>
+</metadata>

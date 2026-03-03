@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NVP-TAE684</name>
+	<description>NVP-TAE684 is a next-generation inhibitor designed to inhibit oncogenic ALK-rearranged fusion proteins involved in certain cancers. It was initially identified as a potent and selective inhibitor of the NPM-ALK fusion.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5714</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>NVP-TAE 684</synonym>
+		<synonym>TAE-684</synonym>
+		<synonym>TAE684</synonym>
+	</synonyms>
+</metadata>

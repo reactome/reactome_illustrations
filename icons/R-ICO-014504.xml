@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>APAP-Mer</name>
+	<description>An S-substituted N-acetyl-L-cysteine in which the S-substitutuent is specified as 5-acetamido-2-hydroxyphenyl.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:133435</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>S-(5-acetamido-2-hydroxyphenyl)-N-acetyl-L-cysteine</synonym>
+		<synonym>3-(N-acetyl-L-cystein-S-yl)acetaminophen</synonym>
+		<synonym>Acetaminophen mercapturate</synonym>
+		<synonym>N-acetyl-L-cysteine S-acetaminophen conjugate</synonym>
+		<synonym>N-Acetyl-S-(5-(acetylamino)-2-hydroxyphenyl)-L-cysteine</synonym>
+	</synonyms>
+</metadata>

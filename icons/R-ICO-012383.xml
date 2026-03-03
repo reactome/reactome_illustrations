@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Acetyl coenzyme A</name>
+    <description>Acetyl coenzyme A or acetyl-CoA is a molecule that participates in many biochemical reactions in protein, carbohydrate and lipid metabolism</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:57288</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Ac-CoA</synonym>
+    </synonyms>
+</metadata>

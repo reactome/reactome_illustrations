@@ -1,0 +1,28 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ZFYVE9</name>
+	<description>Zinc finger FYVE domain-containing protein 9</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O95405-1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Mothers against decapentaplegic homolog-interacting protein</synonym>
+		<synonym>Madh-interacting protein</synonym>
+		<synonym>Novel serine protease</synonym>
+		<synonym>NSP</synonym>
+		<synonym>Receptor activation anchor</synonym>
+		<synonym>hSARA</synonym>
+		<synonym>Smad anchor for receptor activation</synonym>
+		<synonym>MADHIP</synonym>
+		<synonym>SARA</synonym>
+		<synonym>SMADIP</synonym>
+	</synonyms>
+</metadata>

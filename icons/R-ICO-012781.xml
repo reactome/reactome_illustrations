@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Glycosaminoglycans</name>
+    <description>Glycosaminoglycans, GAGs or mucopolysaccharides, are long unbranched polysaccharides consisting of a repeating disaccharide unit</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:18085</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>GAGs</synonym>
+    </synonyms>
+</metadata>

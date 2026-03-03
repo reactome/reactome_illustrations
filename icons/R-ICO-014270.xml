@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MAN1B1</name>
+	<description>Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UKM7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ER alpha-1,2-mannosidase</synonym>
+		<synonym>ER mannosidase 1</synonym>
+		<synonym>ERMan1</synonym>
+		<synonym>Man9GlcNAc2-specific-processing alpha-mannosidase</synonym>
+		<synonym>Mannosidase alpha class 1B member 1</synonym>
+		<synonym>UNQ747/PRO1477</synonym>
+	</synonyms>
+</metadata>

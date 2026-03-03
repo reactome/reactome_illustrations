@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Mammary myoepithelial cell</name>
+	<description>
+A myoepithelial cell that is part of a mammary gland and is located in the basal layer. During lactation, a basal-myoepithelial cell of mammary gland contracts under the stimulation of oxytocin.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0002324</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>basal-myoepithelial cell of mammary gland</synonym>
+		<synonym>basal cell of lactiferous duct</synonym>
+		<synonym>myoepithelial cell of lactiferous gland</synonym>
+		<synonym>B-Myo cell</synonym>
+	</synonyms>
+</metadata>

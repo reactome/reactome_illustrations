@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>AFB1</name>
+	<description>An aflatoxin having a tetrahydrocyclopenta[c]furo[3',2':4,5]furo[2,3-h]chromene skeleton with oxygen functionality at positions 1, 4 and 11</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:2504</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>aflatoxin B1 exo-8,9-epoxide</synonym>
+		<synonym>2,3,6aalpha,9aalpha-Tetrahydro-4-methoxycyclopenta(c)furo(3',2':4,5)furo(2,3-h)(1)benzopyran-1,11-dione</synonym>
+		<synonym>Aflatoxin B1</synonym>
+	</synonyms>
+</metadata>

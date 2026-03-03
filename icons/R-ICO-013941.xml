@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CDH23</name>
+	<description>CDH23 is required for establishing and/or maintaining the proper organization of the stereocilia bundle of hair cells in the cochlea and the vestibule during late embryonic/early postnatal development</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9H251</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Cadherin-23</synonym>
+		<synonym>KIAA1774</synonym>
+		<synonym>KIAA1812</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>	L-valine</name>
+	<description>An L-α-amino acid zwitterion obtained by transfer of a proton from the carboxy to the amino group of L-valine; major species at pH 7.3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:57762</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>L-Val</synonym>
+		<synonym>L-valine zwitterion</synonym>
+		<synonym>(2S)-2-azaniumyl-3-methylbutanoate</synonym>
+		<synonym>(2S)-2-ammonio-3-methylbutanoate</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DELE1</name>
+	<description>DAP3-binding cell death enhancer 1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q14154</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DELE</synonym>
+		<synonym>KIAA0141</synonym>
+	</synonyms>
+</metadata>

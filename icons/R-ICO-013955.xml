@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Aberrant chromosome</name>
+	<description>Abnormal number or structure of chromosomes. Chromosome aberrations may result in chromosome disorders</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>MESH</db>
+			<id>D002869</id>
+		</reference>
+	</references>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TRASTUZUMAB</name>
+	<description>Trastuzumab is a humanized IgG1κ monoclonal antibody targeting HER2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5082</id>
+		</reference>
+	</references>
+</metadata>

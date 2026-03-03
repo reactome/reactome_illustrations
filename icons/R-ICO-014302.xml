@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MC2R</name>
+	<description>Receptor for corticotropin (ACTH)</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q01718</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Adrenocorticotropic hormone receptor</synonym>
+		<synonym>ACTH receptor</synonym>
+		<synonym>ACTH-R</synonym>
+		<synonym>Adrenocorticotropin receptor</synonym>
+		<synonym>Melanocortin receptor 2</synonym>
+		<synonym>MC2-R</synonym>
+		<synonym>ACTHR</synonym>
+	</synonyms>
+</metadata>

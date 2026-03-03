@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Idose</name>
+    <description>Idose is a hexose, a six carbon monosaccharide. It has an aldehyde group and is an aldose</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:37709</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

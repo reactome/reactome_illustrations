@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Troponin</name>
+    <description>Troponin is a complex of three regulatory proteins (troponin C, troponin I, and troponin T) that is integral to muscle contraction in skeletal muscle and cardiac muscle, but not smooth muscle</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0005861</id>
+        </reference>
+    </references>
+</metadata>

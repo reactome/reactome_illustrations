@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ciprofloxacin</name>
+	<description>Ciprofloxacin is a synthetic, broad spectrum second generation fluoroquinolone antibiotic.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>10902</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:192484</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BAY-O-9867</synonym>
+		<synonym>BAY-O9867</synonym>
+		<synonym>Cetraxal</synonym>
+		<synonym>Ciloxan</synonym>
+		<synonym>Cipro</synonym>
+		<synonym>CPFX</synonym>
+		<synonym>Proquin XR</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>LGK974</name>
+	<description>A carboxamide, the structure of which is that of acetamide substituted on carbon by a 2',3-dimethyl-2,4'-bipyridin-5-yl group and on nitrogen by a 5-(pyrazin-2-yl)pyridin-2-yl group. It is a highly potent, selective and orally bioavailable Porcupine inhibitor (a Wnt signalling inhibitor)</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:78030</id>
+		</reference>
+		<reference>
+			<db>IUPHAR</db>
+			<id>11167</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>2-(2',3-dimethyl-2,4'-bipyridin-5-yl)-N-[5-(pyrazin-2-yl)pyridin-2-yl]acetamide</synonym>
+	</synonyms>
+</metadata>

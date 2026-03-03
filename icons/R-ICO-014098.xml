@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Bilirubin monoglucuronide</name>
+	<description>mono(glucosyluronic acid)bilirubin</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16427</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BMG</synonym>
+		<synonym>Bilirubin glucuronate</synonym>
+		<synonym>Bilirubin glucuronide</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_type</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Apoptotic cell</name>
+    <description>Representation of an apoptotic cell</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CL</db>
+            <id>CL:0000445</id>
+        </reference>
+    </references>
+</metadata>

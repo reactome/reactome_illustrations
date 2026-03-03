@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>nsp16</name>
+	<description>2'-O-methyltransferase nsp16.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P0DTD1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>pp1ab</synonym>
+	</synonyms>
+</metadata>

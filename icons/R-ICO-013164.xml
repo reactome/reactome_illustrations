@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PDGFR</name>
+    <description>Platelet-derived growth factor receptor A or B</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P16234</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P09619</id>
+        </reference>
+    </references>
+</metadata>

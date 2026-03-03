@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCC2</name>
+	<description>analicular multispecific organic anion transporter 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q92887</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CMOAT</synonym>
+		<synonym>CMOAT1</synonym>
+		<synonym>CMRP</synonym>
+		<synonym>MRP2</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>transporter</category>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>SLC2A2</name>
+    <description>Solute carrier family 2, facilitated glucose transporter member 2</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P11168</id>
+        </reference>
+    </references>
+</metadata>

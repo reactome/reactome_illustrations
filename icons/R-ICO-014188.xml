@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>XAV939</name>
+	<description>A thiopyranopyrimidine in which a 7,8-dihydro-5H-thiopyrano[4,3-d]pyrimidine skeleton is substituted at C-4 by a hydroxy group and at C-2 by a para-(trifluoromethyl)phenyl group</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:62878</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>2-[4-(trifluoromethyl)phenyl]-7,8-dihydro-5H-thiino[4,3-d]pyrimidin-4-ol</synonym>
+	</synonyms>
+</metadata>

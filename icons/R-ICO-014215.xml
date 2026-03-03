@@ -1,0 +1,49 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>OPSINS</name>
+	<description>Generic representation of visual pigments</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P08100</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P03999</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04000</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04001</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Rhodopsin</synonym>
+		<synonym>Opsin-2</synonym>
+		<synonym>OPN2</synonym>
+		<synonym>OPN1SW</synonym>
+		<synonym>Short-wave-sensitive opsin 1</synonym>
+		<synonym>BOP</synonym>
+		<synonym>Blue-sensitive opsin</synonym>
+		<synonym>BCP</synonym>
+		<synonym>OPN1LW</synonym>
+		<synonym>Long-wave-sensitive opsin 1</synonym>
+		<synonym>ROP</synonym>
+		<synonym>Red-sensitive opsin</synonym>
+		<synonym>RCP</synonym>
+		<synonym>OPN1MW</synonym>
+		<synonym>Medium-wave-sensitive opsin 1</synonym>
+		<synonym>GOP</synonym>
+		<synonym>Green-sensitive opsin</synonym>
+		<synonym>GOP</synonym>
+		<synonym>GCP</synonym>
+	</synonyms>
+</metadata>

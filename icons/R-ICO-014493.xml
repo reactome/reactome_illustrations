@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TBL1X/TBL1XR1</name>
+	<description>Graphic representation of F-box-like/WD repeat-containing protein TBL1X and TBL1XR1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60907</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9BZK7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>TBL1</synonym>
+		<synonym>IRA1</synonym>
+		<synonym>TBLR1</synonym>
+	</synonyms>
+</metadata>

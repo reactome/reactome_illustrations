@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>APAP-SO3</name>
+	<description>Paracetamol sulfate or APAP-SO3 is an aryl sulfate that is paracetamol in which the hydroxy group has been replaced by a sulfooxy group.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:32635</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>4-acetaminophen sulfate</synonym>
+		<synonym>acetaminophen sulfate</synonym>
+		<synonym>N-(4-(sulfooxy)phenyl)acetamide</synonym>
+		<synonym>N-acetyl-4-aminophenol sulfate</synonym>
+	</synonyms>
+</metadata>

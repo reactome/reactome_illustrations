@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Adenosine</name>
+	<description>A ribonucleoside composed of a molecule of adenine attached to a ribofuranose moiety via a β‒N9-glycosidic bond.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16335</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Ado</synonym>
+		<synonym>Ade-Rib</synonym>
+		<synonym>Adenyldeoxyriboside</synonym>
+		<synonym>9-β-D-ribofuranosyl-9H-purin-6-amine</synonym>
+		<synonym>9-beta-D-Ribofuranosyl-9H-purin-6-amine</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://orcid.org/0009-0002-7406-2389">Junaid Haque</person>
+    <name>Kinesin/Dynein</name>
+    <description>Kinesin and Dyenein are motor proteins that typically transport cargo inside a cell, using ATP for energy.</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0003777</id>
+        </reference>
+    </references>
+</metadata>
+

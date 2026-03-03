@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>5,6,7,8-tetrahydrobiopterin radical cation</name>
+	<description>An organic radical cation derived from 5,6,7,8-tetrahydrobiopterin</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:62772</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BH3.+</synonym>
+		<synonym>tetrahydrobiopterin radical cation</synonym>
+	</synonyms>
+</metadata>

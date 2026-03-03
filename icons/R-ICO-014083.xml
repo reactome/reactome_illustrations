@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Relay neuron</name>
+	<description>Most generally any neuron which is not motor or sensory</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000099</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>interneuron</synonym>
+	</synonyms>
+</metadata>

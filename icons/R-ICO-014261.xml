@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>URONIC ACIDS</name>
+	<description>A carbohydrate acid formally derived by oxidation to a carboxy group of the terminal ‒CH2OH group of any aldose or ketose</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:27252</id>
+		</reference>
+	</references>
+</metadata>

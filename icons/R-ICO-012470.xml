@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>human_tissue</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Blastocyst</name>
+    <description>The blastocyst is a structure formed in the early development of mammals. It possesses an inner cell mass which subsequently forms the embryo</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UBERON</db>
+            <id>UBERON:0000358</id>
+        </reference>
+    </references>
+</metadata>

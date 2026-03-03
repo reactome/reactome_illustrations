@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CD8</name>
+	<description>T-cell surface glycoprotein CD8 alpha chain.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P01732</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>T-lymphocyte differentiation antigen T8/Leu-2</synonym>
+		<synonym>CD8A</synonym>
+		<synonym>MAL</synonym>
+	</synonyms>
+</metadata>

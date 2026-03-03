@@ -1,0 +1,35 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PLIN</name>
+	<description>Graphic representation of Perilipin 2 and/or 3</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q99541</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60664</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Adipophilin</synonym>
+		<synonym>Adipose differentiation-related protein</synonym>
+		<synonym>ADRP</synonym>
+		<synonym>ADFP</synonym>
+		<synonym>47 kDa mannose 6-phosphate receptor-binding protein</synonym>
+		<synonym>47 kDa MPR-binding protein</synonym>
+		<synonym>TIP47</synonym>
+		<synonym>Mannose-6-phosphate receptor-binding protein 1</synonym>
+		<synonym>PP17</synonym>
+		<synonym>TIP47</synonym>
+		<synonym>M6PRBP1</synonym>
+		<synonym>PLIN2</synonym>
+		<synonym>PLIN3</synonym>
+	</synonyms>
+</metadata>

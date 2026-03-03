@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PREDNISOLONE</name>
+	<description>Prednisolone is a synthetic glucocorticoid. Marketed formulations may contain prednisolone sodium phosphate, prednisolone acetate, prednisolone hexanoate or prednisolone.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>2866</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DELTA.1-Cortisol</synonym>
+		<synonym>Orapred</synonym>
+		<synonym>Pediapred</synonym>
+	</synonyms>
+</metadata>

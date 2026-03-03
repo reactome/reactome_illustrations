@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>RBP4</name>
+	<description>Retinol-binding protein 4</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P02753</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PRBP</synonym>
+		<synonym>RBP</synonym>
+		<synonym>Plasma retinol-binding protein</synonym>
+		<synonym>PRO2222</synonym>
+	</synonyms>
+</metadata>

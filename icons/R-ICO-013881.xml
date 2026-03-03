@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Acetoacetyl-CoA</name>
+	<description>A 3-oxoacyl-CoA that results from the formal condensation of the thiol group of coenzyme A with the carboxy group of acetoacetic acid</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15345</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ACA-CoA</synonym>
+		<synonym>3-Acetoacetyl-CoA</synonym>
+		<synonym>Acetoacetyl coenzyme A</synonym>
+		<synonym>S-acetoacetyl-CoA</synonym>
+	</synonyms>
+</metadata>

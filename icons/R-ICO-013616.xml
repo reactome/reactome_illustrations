@@ -1,0 +1,22 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5038-1185" role="curator">Kaiqiang You</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PML body</name>
+    <description>A class of nuclear body; they react against SP100 auto-antibodies (PML, promyelocytic leukemia); cells typically contain 10-30 PML bodies per nucleus; alterations in the localization of PML bodies occurs after viral infection</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0016605</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>PML nuclear body</synonym>
+        <synonym>ND10</synonym>
+        <synonym>PML NB</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

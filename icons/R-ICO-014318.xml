@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ALG12</name>
+	<description>Dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9BV10</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Asparagine-linked glycosylation protein 12 homolog</synonym>
+		<synonym>hALG12</synonym>
+		<synonym>Dolichyl-P-Man:Man(7)GlcNAc(2)-PP-dolichyl-alpha-1,6-mannosyltransferase</synonym>
+		<synonym>Mannosyltransferase ALG12 homolog</synonym>
+		<synonym>Membrane protein SB87</synonym>
+		<synonym>PP14673</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>LESTAURTINIB</name>
+	<description>Lestaurtinib was identified as an inhibitor of the receptor tyrosine kinase (RTK) FLT3 (fms-related tyrosine kinase 3) with activity against leukemia cells in vitro and in vivo. It has activity against other RTKs. A drug repurposing sceen for breast cancer has identified lestaurtinib as a promising agent which appears to sensitise BRCA mutant and wild type breast cancer cells to the effects of the Poly (ADP-ribose) polymerase 1 (PARP1) inhibitor AG14361.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5672</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CEP-701</synonym>
+		<synonym>KT-5555</synonym>
+		<synonym>SP924</synonym>
+	</synonyms>
+</metadata>

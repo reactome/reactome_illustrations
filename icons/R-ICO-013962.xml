@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Papillomavirus lesion</name>
+	<description>Most of the time HPV does not cause any problems. In some people, some types of HPV can cause genital warts or abnormal changes in the cells that can sometimes turn into cancer</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0021782</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

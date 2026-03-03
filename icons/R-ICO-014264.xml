@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0003-0705-9809">Rahuman Sheriff</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Tumor cell</name>
+	<description>An abnormal cell exhibiting dysregulation of cell proliferation or programmed cell death and capable of forming a neoplasm, an aggregate of cells in the form of a tumor mass or an excess number of abnormal cells (liquid tumor) within an organism</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0001063</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>tumour cell</synonym>
+	</synonyms>
+</metadata>

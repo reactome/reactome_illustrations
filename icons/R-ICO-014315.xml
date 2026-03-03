@@ -1,0 +1,30 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ACTH</name>
+	<description>Adrenocorticotropic hormone</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P01189</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>POMC</synonym>
+		<synonym>Corticotropin-lipotropin</synonym>
+		<synonym>NPP</synonym>
+		<synonym>Melanotropin gamma</synonym>
+		<synonym>Gamma-MSH</synonym>
+		<synonym>Melanocyte-stimulating hormone alpha</synonym>
+		<synonym>Pro-opiomelanocortin</synonym>
+		<synonym>CLIP</synonym>
+		<synonym>Beta-LPH</synonym>
+		<synonym>Gamma-LPH</synonym>
+		<synonym>Beta-MSH</synonym>
+		<synonym>Melanotropin beta</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TBK1</name>
+	<description>Serine/threonine-protein kinase TBK1 plays an essential role in regulating inflammatory responses to foreign agents</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UHD2</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>NF-kappa-B-activating kinase</synonym>
+		<synonym>T2K</synonym>
+		<synonym>TANK-binding kinase 1</synonym>
+		<synonym>NAK</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

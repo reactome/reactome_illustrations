@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>(6S)-5,6,7,8-Tetrahydrofolic acid</name>
+	<description>A derivative of folic acid in which the pteridine ring is fully reduced; it is the parent compound of a variety of coenzymes that serve as carriers of one-carbon groups in metabolic reactions</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15635</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>THF</synonym>
+		<synonym>Tetrahydrofolate</synonym>
+		<synonym>Tetrahydrofolic acid</synonym>
+		<synonym>(6S)-H4folate</synonym>
+	</synonyms>
+</metadata>

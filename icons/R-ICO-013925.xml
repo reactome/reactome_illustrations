@@ -1,0 +1,43 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MET complex</name>
+	<description>Protein complex of the Mechanoelectrical transduction channel</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8TDI8</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8TDI7</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O75838</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8TAF8</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8NEW7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>TMC1</synonym>
+		<synonym>TMC2</synonym>
+		<synonym>C20orf145</synonym>
+		<synonym>CIB2</synonym>
+		<synonym>KIP2</synonym>
+		<synonym>LHFPL5</synonym>
+		<synonym>TMHS</synonym>
+		<synonym>TMIE</synonym>
+		<synonym>Mechanoelectrical transduction channel</synonym>
+	</synonyms>
+</metadata>

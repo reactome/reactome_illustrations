@@ -1,0 +1,22 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+	<person orcid="0000-0002-0826-9069" role="curator">Nicholas Norwitz</person>
+	<person orcid="0000-0002-8803-6475" role="designer">Sam Norwitz</person>
+    <name>Beta-secretase</name>
+    <description>An enzyme that cleaves Amyloid Precursor Protein in the first of two steps to produce the amyloid beta that forms Alzheimer plaques</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P56817</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>BACE1</synonym>
+        <synonym>BACE</synonym>
+        <synonym>KIAA1149</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

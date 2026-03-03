@@ -1,0 +1,11 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SARS-CoV-1 gRNA</name>
+	<description>Representation of the gRNA present in SARS-CoV-1</description>
+	<info>https://reactome.org/icon-info</info>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>LTN1</name>
+	<description>E3 ubiquitin-protein ligase listerin.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O94822</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>RING finger protein 160</synonym>
+		<synonym>RING-type E3 ubiquitin transferase listerin </synonym>
+		<synonym>Zinc finger protein 294</synonym>
+		<synonym>C21orf10</synonym>
+		<synonym>C21orf98</synonym>
+		<synonym>KIAA0714</synonym>
+		<synonym>RNF160</synonym>
+		<synonym>ZNF294</synonym>
+		<synonym>HSPC087</synonym>
+	</synonyms>
+</metadata>

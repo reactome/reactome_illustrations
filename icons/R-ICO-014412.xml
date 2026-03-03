@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ASP-3026</name>
+	<description>ASP-3026 is a second generation ALK inhibitor designed to target ALK rearrangements which are the oncogenic drivers of some non-small cell lung cancers (NSCLCs) and T-cell lymphomas known as ALK- expressing anaplastic large-cell lymphoma (ALK+ALCL) .</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7740</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ASP 3026</synonym>
+		<synonym>ASP3026</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Influenza virus</name>
+	<description>Graphic representation of the Influenza virus</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT-T</db>
+			<id>11309</id>
+		</reference>
+	</references>
+	<synonimns>
+		<synonim>Influenza virus</synonim>
+		<synonim>Influenza virus sp.</synonim>
+		<synonim>Influenzavirus</synonim>
+		<synonim>avian influenza virus</synonim>
+	</synonimns>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>tat</name>
+	<description>Protein Tat is a nuclear transcriptional activator of viral gene expression and is essential for viral transcription from the LTR promoter and replication</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04608</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Transactivating regulatory protein</synonym>
+	</synonyms>
+</metadata>

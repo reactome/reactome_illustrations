@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Collagen Type III Fibril</name>
+	<description>A collagen homotrimer of alpha1(III) chains; type III collagen triple helices associate to form fibrils.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0005586</id>
+		</reference>
+	</references>
+</metadata>

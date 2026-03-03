@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IFIT5</name>
+	<description>Interferon-induced protein with tetratricopeptide repeats 5</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q13325</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>IFIT-5</synonym>
+		<synonym>Interferon-induced 58 kDa protein</synonym>
+		<synonym>Retinoic acid- and interferon-inducible 58 kDa protein</synonym>
+		<synonym>P58</synonym>
+		<synonym>ISG58</synonym>
+		<synonym>RI58</synonym>
+	</synonyms>
+</metadata>

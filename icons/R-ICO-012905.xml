@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Intron</name>
+    <description>An intron is any nucleotide sequence within a gene that is removed by RNA splicing during maturation of the final RNA product</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>SO</db>
+            <id>SO:0000188</id>
+        </reference>
+    </references>
+</metadata>

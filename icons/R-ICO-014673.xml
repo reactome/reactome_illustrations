@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CETUXIMAB</name>
+	<description></description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>6882</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>C225</synonym>
+		<synonym>Erbitux</synonym>
+		<synonym>IMC-225</synonym>
+		<synonym>IMC-C225</synonym>
+	</synonyms>
+</metadata>

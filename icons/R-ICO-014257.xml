@@ -1,0 +1,40 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>APO-CARBOXYLASES</name>
+	<description>Apo-carboxylases are synthesized as apoenzymes without the coenzyme biotin, which is required for functionality. Once biotin binds to apo-carboxylases, they can catalyze the incorporation of a CO​2 molecule into an organic substrate.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P05166</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P05165</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P11498</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q96RQ3</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9HCC0</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q13085</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O00763</id>
+		</reference>
+	</references>
+</metadata>

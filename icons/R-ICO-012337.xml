@@ -1,0 +1,10 @@
+<metadata>
+	<categories>
+		<category>arrow</category>
+	</categories>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>No transformation arrow</name>
+	<description>An arrow that represents that the transformation of components is not happening due to a disease related process</description>
+	<info>https://reactome.org/icon-info</info>
+	<skip>true</skip>
+</metadata>

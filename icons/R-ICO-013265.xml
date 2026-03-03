@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PYRUVATE</name>
+    <description>Pyruvate, or pyruvic acid, is the simplest of the alpha-keto acids, with a carboxylic acid and a ketone functional group. Is a key intermediate in several metabolic pathways</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:15361</id>
+        </reference>
+    </references>
+</metadata>

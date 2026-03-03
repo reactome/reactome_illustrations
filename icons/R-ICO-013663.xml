@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>TA protein</name>
+    <description>TA proteins constitute a class of integral membrane proteins that are held in the phospholipid bilayer by a single stretch of hydrophobic amino acids close to the COOH terminus, the entire functional NH2-terminal portion facing the cytosol</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0071816</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PMS2</name>
+	<description>Mismatch repair endonuclease PMS2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P54278</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DNA mismatch repair protein PMS2</synonym>
+		<synonym>PMS1 protein homolog 2</synonym>
+		<synonym>PMSL2</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>2'-deoxyadenosine</name>
+	<description>A purine 2'-deoxyribonucleoside having adenine as the nucleobase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17256</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Deoxyadenosine</synonym>
+		<synonym>dA</synonym>
+		<synonym>adenyldeoxyriboside</synonym>
+		<synonym>adenine deoxyribonucleoside</synonym>
+	</synonyms>
+</metadata>

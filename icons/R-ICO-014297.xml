@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0003-0705-9809">Rahuman Sheriff</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Regulatory T cell</name>
+	<description>A T cell which regulates overall immune responses as well as the responses of other T cell subsets through direct cell-cell contact and cytokine release</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000815</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Treg</synonym>
+		<synonym>regulatory T lymphocyte</synonym>
+		<synonym>suppressor T cell</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MAPK11</name>
+	<description>Mitogen-activated protein kinase 11 acts as an essential component of the MAP kinase signal transduction pathway</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q15759</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MAP kinase 11</synonym>
+		<synonym>Mitogen-activated protein kinase p38 beta</synonym>
+		<synonym>MAP kinase p38 beta</synonym>
+		<synonym>p38b</synonym>
+		<synonym>Stress-activated protein kinase 2b</synonym>
+		<synonym>SAPK2b</synonym>
+		<synonym>p38-2</synonym>
+		<synonym>PRKM11</synonym>
+		<synonym>SAPK2</synonym>
+		<synonym>SAPK2B</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

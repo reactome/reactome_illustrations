@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Bacillus anthracis</name>
+	<description>Bacillus anthracis is the agent of anthrax, a common disease of livestock and occasionally of humans, and the only obligate pathogen within the genus Bacillus</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0002784</id>
+		</reference>
+	</references>
+</metadata>

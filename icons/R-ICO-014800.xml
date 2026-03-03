@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>AFATINIB</name>
+	<description>Afatinib is a second-generation, irreversible, covalently-bound EGFR tyrosine kinase inhibitor. It potently and selectively inhibits EGFR and Erbb2. Although afatinib demonstrates improved activity against the gatekeeper EGFR T790M resistance mutation, it is equally potent against the wild-type receptor, leading to dose-limiting toxicities and a narrow safety window. Third generation, wild-type sparing inhibitors such as nazartinib are in development to circumvent this problem</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5667</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BIBW2992</synonym>
+		<synonym>Gilotrif</synonym>
+	</synonyms>
+</metadata>

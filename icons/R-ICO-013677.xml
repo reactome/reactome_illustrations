@@ -1,0 +1,27 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>MAP2K3,6</name>
+    <description>Dual specificity mitogen-activated protein kinase kinase 3 and 6</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P46734</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P52564</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>MKK3</synonym>
+        <synonym>PRKMK3</synonym>
+        <synonym>MKK6</synonym>
+        <synonym>PRKMK6</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

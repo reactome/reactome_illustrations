@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IMATINIB</name>
+	<description>Imatinib is a Type-2 kinase inhibitor. Its main inhibitory activity is against ABL kinase, but it has significant action at secondary targets including platelet-derived growth factor receptor (PDGFR) and stem cell growth factor receptor (KIT).
+
+Coronavirus: imatinib is reported to block Spike protein-induced SARS-CoV and MERS-CoV fusion in vitro, potentially by blocking Abl2 at the endosomal membrane and disrupting the actin dynamics that are required for virus-host fusion. It will be informative to determine if this holds true for SARS-CoV-2, and whether re-purposing of imatinib and/or newer Abl kinase inhibitors (dasatinib, bosutinib, ponatinib, nilotinib) could be a viable strategy against COVID-19. This approach would likely to be most effective during the early stage of infection.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5687</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CGP 57148</synonym>
+		<synonym>Gleevec</synonym>
+		<synonym>Gleevec®</synonym>
+		<synonym>Glivec</synonym>
+		<synonym>Glivec®</synonym>
+		<synonym>STI571</synonym>
+	</synonyms>
+</metadata>

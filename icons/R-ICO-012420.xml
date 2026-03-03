@@ -1,0 +1,24 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>AMYLASES</name>
+    <description>Family of amylases. Amylases are enzymes that catalyses the hydrolysis of starch into sugars</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P0DTE8</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P0DUB6</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P0DTE7</id>
+        </reference>
+    </references>
+</metadata>

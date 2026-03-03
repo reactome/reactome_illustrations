@@ -1,0 +1,21 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+	<person orcid="0000-0002-0826-9069" role="curator">Nicholas Norwitz</person>
+	<person orcid="0000-0002-8803-6475" role="designer">Sam Norwitz</person>
+    <name>FZD 02</name>
+    <description>Frizzled family member</description>
+    <info>http://rebrand.ly/ehldinfo</info>
+    <references>
+    	<reference>
+            <db>UNIPROT</db>
+            <id>Q9UP38</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Frizzled</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

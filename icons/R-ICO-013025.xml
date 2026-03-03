@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Monosaccharide</name>
+    <description>Monosaccharides, also called simple sugars, are the most basic units of carbohydrates. They are fundamental units of carbohydrates and cannot be further hydrolyzed to simpler compounds</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:35381</id>
+        </reference>
+    </references>
+</metadata>

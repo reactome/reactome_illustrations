@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HEXB</name>
+	<description>Beta-hexosaminidase subunit beta.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P07686</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Beta-N-acetylhexosaminidase subunit beta</synonym>
+		<synonym>Hexosaminidase subunit B</synonym>
+		<synonym>Cervical cancer proto-oncogene 7 protein</synonym>
+		<synonym>HCC-7</synonym>
+		<synonym>N-acetyl-beta-glucosaminidase subunit beta</synonym>
+		<synonym>HCC7</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Guanylate Cyclase Family</name>
+    <description>Guanylate cyclase family</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P51841</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>GC</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>O-FUCOSYL GROUP</name>
+    <description>A glycosyl group obtained by removing the hydroxy group from the hemiacetal function of an fucose (6-deoxygalactose) and, by extension, of a lower oligosaccharide having fucose at the reducing end</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:62688</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CAMLG</name>
+    <description>Calcium signal-modulating cyclophilin ligand</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P49069</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>CAML</synonym>
+    </synonyms>
+</metadata>

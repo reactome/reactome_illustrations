@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PEXIDARTINIB</name>
+	<description>A pyrrolopyridine that is 5-chloro-1H-pyrrolo[2,3-b]pyridine which is substituted by a [6-({[6-(trifluoromethyl)pyridin-3-yl]methyl}amino)pyridin-3-yl]methyl group at position 3. It is a potent multi-targeted receptor tyrosine kinase inhibitor of CSF-1R, KIT, and FLT3 (IC50 of 20 nM, 10 nM and 160 nM, respectively). Approved by the FDA for the treatment of adult patients with symptomatic tenosynovial giant cell tumor (TGCT).</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>8710</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:145373</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CML-261</synonym>
+		<synonym>PLX-3397</synonym>
+		<synonym>PLX3397</synonym>
+		<synonym>Turalio</synonym>
+		<synonym>Turalio®</synonym>
+	</synonyms>
+</metadata>

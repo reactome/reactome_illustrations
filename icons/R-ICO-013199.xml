@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Podocin</name>
+    <description>Podocin, or NPHS2, is a protein component of the filtration slits of podocytes. Glomerular capillary endothelial cells, the glomerular basement membrane and the filtration slits function as the filtration barrier of the kidney glomerulus</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q9NP85</id>
+        </reference>
+    </references>
+</metadata>

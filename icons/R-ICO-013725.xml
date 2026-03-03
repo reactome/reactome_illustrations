@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MT-ATP8</name>
+	<description>Mitochondrially encoded ATP synthase membrane subunit 8</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>ENSEMBL</db>
+			<id>ENSG00000228253</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P03928</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ATP8</synonym>
+		<synonym>ATPASE8</synonym>
+		<synonym>MTATP8</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

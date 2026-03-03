@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MT-ND5</name>
+	<description>Mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>ENSEMBL</db>
+			<id>ENSG00000198786</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P03915</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MTND5</synonym>
+		<synonym>NADH5</synonym>
+		<synonym>ND5</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

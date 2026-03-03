@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Enterobacteria</name>
+	<description>Enterobacteria are bacteria from the family Enterobacteriaceae, which are primarily known for their ability to cause intestinal upset. Enterobacteria are responsible for a variety of human illnesses, including urinary tract infections, wound infections, gastroenteritis, meningitis, septicemia, and pneumonia. Some are true intestinal pathogens; whereas others are merely opportunistic pests which attack weakened victims</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0005998</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

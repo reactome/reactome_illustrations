@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_type</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Cytotoxic T Lymphocyte</name>
+    <description>A type of T lymphocyte that kills cancer cells, cells that are infected (particularly with viruses), or cells that are damaged in other ways</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CL</db>
+            <id>CL:0000910</id>
+        </reference>
+    </references>
+</metadata>

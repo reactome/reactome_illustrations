@@ -1,0 +1,10 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Generic protein indicating serine (S) or threonine (T) residues</name>
+	<description>A representation of a generic protein indicating the possible residues (S - serine or T - threonine)  where various sugars can attach to begin glycan chain elongation</description>
+	<info>https://reactome.org/icon-info</info>
+</metadata>

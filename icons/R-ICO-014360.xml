@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SEMAXANIB</name>
+	<description>Semaxanib was a precursor in the development of the next generation kinase inhibitor ultimately approved as sunitinib.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5056</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>SU 5416</synonym>
+		<synonym>SU5416</synonym>
+		<synonym>VEGF receptor 2 kinase inhibitor III</synonym>
+	</synonyms>
+</metadata>

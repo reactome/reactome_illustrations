@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Glyceraldehyde 3-phosphate</name>
+    <description>Glyceraldehyde 3-phosphate, also known as triose phosphate or 3-phosphoglyceraldehyde, is the metabolite that occurs as an intermediate in several central pathways of all organisms</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:17138</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>GA3P</synonym>
+    </synonyms>
+</metadata>

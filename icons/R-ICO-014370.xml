@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MASITINIB</name>
+	<description>Using the trade name Masivet, this compound has been used for several years to treat mast cell tumours in dogs [6]. It is a receptor tyrosine kinase (RTK) inhibitor, with inhibitory activity at the cKIT, platelet derived growth factor receptor (PDGFR) and fibroblast growth factor receptor (FGFR) RTKs.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5656</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AB1010</synonym>
+		<synonym>AB-1010</synonym>
+		<synonym>Masican</synonym>
+		<synonym>Masican®</synonym>
+	</synonyms>
+</metadata>

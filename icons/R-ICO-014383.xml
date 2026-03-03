@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MTR</name>
+	<description>Methionine synthase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q99707</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MS</synonym>
+		<synonym>5-methyltetrahydrofolate--homocysteine methyltransferase</synonym>
+		<synonym>Cobalamin-dependent methionine synthase</synonym>
+		<synonym>Vitamin-B12 dependent methionine synthase</synonym>
+	</synonyms>
+</metadata>

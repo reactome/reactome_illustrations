@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Guanosine monophosphate</name>
+	<description>Guanosine monophosphate is a nucleotide that is used as a monomer in RNA.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>KEGG</db>
+			<id>C00144</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:58115</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>GMP</synonym>
+		<synonym>Guanosine 5'-phosphate</synonym>
+		<synonym>Guanosine 5'-monophosphate</synonym>
+		<synonym>Guanylic acid</synonym>
+	</synonyms>
+</metadata>

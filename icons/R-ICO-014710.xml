@@ -1,0 +1,46 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed GPIB-IX-V</name>
+	<description>Detailed representation of a Glycoprotein Ib-IX-V Receptor Complex.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+        <reference>
+            <db>GO</db>
+            <id>GO:1990779</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P07359</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P13224</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P14770</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P40197</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>CD42</synonym>
+        <synonym>Antigen CD42b-alpha</synonym>
+        <synonym>CD42b</synonym>
+        <synonym>GP1BA</synonym>
+        <synonym>Antigen CD42b-beta</synonym>
+        <synonym>CD42c</synonym>
+        <synonym>GP1BB</synonym>
+        <synonym>Glycoprotein 9</synonym>
+        <synonym>CD42a</synonym>
+        <synonym>GP9</synonym>
+        <synonym>CD42d</synonym>
+        <synonym>GP5</synonym>
+    </synonyms>
+</metadata>

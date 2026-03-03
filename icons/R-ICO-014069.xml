@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IRAK4</name>
+	<description>Interleukin-1 receptor-associated kinase 4 plays a critical role in initiating innate immune response against foreign pathogens</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NWZ3</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Renal carcinoma antigen NY-REN-64</synonym>
+	</synonyms>
+</metadata>

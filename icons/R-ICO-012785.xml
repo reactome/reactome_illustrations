@@ -1,0 +1,29 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>GNAS</name>
+    <description>Generic representation of GNAS. The GNAS gene provides instructions for making one component, the stimulatory alpha subunit, of a protein complex called a guanine nucleotide-binding protein (G protein). Each G protein is composed of three proteins called the alpha, beta, and gamma subunits</description>
+    <info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q5JWF2</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P63092</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Guanine nucleotide-binding protein G(s) subunit alpha isoforms XLas</synonym>
+		<synonym>Adenylate cyclase-stimulating G alpha protein</synonym>
+		<synonym>XLalphas</synonym>
+		<synonym>GNAS1</synonym>
+		<synonym>Guanine nucleotide-binding protein G(s) subunit alpha isoforms short</synonym>
+		<synonym>Adenylate cyclase-stimulating G alpha protein</synonym>
+		<synonym>GSP</synonym>
+	</synonyms>
+</metadata>

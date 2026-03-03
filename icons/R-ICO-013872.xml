@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CDP-diacylglycerol</name>
+	<description>A CDP-glycerol having unspecified acyl groups (most commonly fatty acyl groups) at the 1- and 2-positions</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17962</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CDP-DAG</synonym>
+		<synonym>CDPdiacylglycerol</synonym>
+		<synonym>CDP-diacylglycerols</synonym>
+		<synonym>CDP-1,2-diacylglycerol</synonym>
+	</synonyms>
+</metadata>

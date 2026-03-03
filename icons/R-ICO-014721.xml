@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ADAMTS13</name>
+	<description>A disintegrin and metalloproteinase with thrombospondin motifs 13.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q76LX8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ADAM-TS 13</synonym>
+		<synonym>ADAM-TS13</synonym>
+		<synonym>ADAMTS-13</synonym>
+		<synonym>von Willebrand factor-cleaving protease (vWF-CP; vWF-cleaving protease)</synonym>
+		<synonym>C9orf8</synonym>
+		<synonym>UNQ6102</synonym>
+		<synonym>PRO20085</synonym>
+	</synonyms>
+</metadata>

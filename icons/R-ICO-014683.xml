@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>AP-1</name>
+	<description>Activator protein 1 (AP-1) is a transcription factor that regulates gene expression in response to a variety of stimuli, including cytokines, growth factors, stress, and bacterial and viral infections. AP-1 controls a number of cellular processes including differentiation, proliferation, and apoptosis. The structure of AP-1 is a heterodimer composed of proteins belonging to the c-Fos, c-Jun, ATF and JDP families.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P15336</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P05412</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ATF2</synonym>
+		<synonym>JUN</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PREDNISONE</name>
+	<description>Prednisone is a glucocorticoid medication mostly used to suppress the immune system and decrease inflammation in conditions such as asthma, COPD, and rheumatologic diseases.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7096</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Lodotra</synonym>
+		<synonym>Sterapred</synonym>
+	</synonyms>
+</metadata>

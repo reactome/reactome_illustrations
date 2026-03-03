@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed CD4</name>
+	<description>T-cell surface glycoprotein CD4</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P01730</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>T-cell surface antigen T4/Leu-3</synonym>
+	</synonyms>
+</metadata>

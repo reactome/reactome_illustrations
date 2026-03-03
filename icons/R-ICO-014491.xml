@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CSF1R</name>
+	<description>Macrophage colony-stimulating factor 1 receptor.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P07333</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CSF-1-R</synonym>
+		<synonym>CSF-1R</synonym>
+		<synonym>M-CSF-R</synonym>
+		<synonym>Proto-oncogene c-Fms</synonym>
+		<synonym>CD115</synonym>
+		<synonym>FMS</synonym>
+	</synonyms>
+</metadata>

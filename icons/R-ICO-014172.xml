@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PDCD6IP</name>
+	<description>Programmed cell death 6-interacting protein</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8WUM4</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PDCD6-interacting protein</synonym>
+		<synonym>ALG-2-interacting protein 1</synonym>
+		<synonym>ALG-2-interacting protein X</synonym>
+		<synonym>Hp95</synonym>
+		<synonym>AIP1</synonym>
+		<synonym>ALIX</synonym>
+		<synonym>KIAA1375</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

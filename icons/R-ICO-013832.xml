@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Specialised pro-resolving mediator</name>
+	<description>A class of cell signaling molecules enzymatically derived from n-3 long chain polyunsaturated fatty acids that have important roles in orchestrating the resolution of tissue inflammation</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:140399</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Specialized proresolving mediator</synonym>
+		<synonym>SPM</synonym>
+		<synonym>SPMs</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CORTICOTROPIN</name>
+    <description>A polypeptide hormone produced and secreted by the pituitary gland comprising 39 amino acid residues coupled in a linear sequence. The N-terminal 24-amino acid segment is identical in all species and contains the adrenocorticotrophic activity. Corticotropin stimulates the cortex of the adrenal gland and boosts the synthesis of corticosteroids, mainly glucocorticoids but also sex steroids (androgens). It is used in the treatment of certain neurological disorders such as infantile spasms and multiple sclerosis, and diagnostically to investigate adrenocortical insufficiency</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:3892</id>
+        </reference>
+    </references>
+</metadata>

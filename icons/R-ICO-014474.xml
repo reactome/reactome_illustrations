@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Ribavirin monophosphate</name>
+	<description>An organophosphate oxoanion resulting from the removal of both protons from the phosphate group of ribavirin 5'-monophosphate. It is the major species at pH 7.3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:189091</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>RBV-MP</synonym>
+	</synonyms>
+</metadata>

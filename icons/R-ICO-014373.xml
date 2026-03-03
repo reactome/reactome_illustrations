@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HEXA</name>
+	<description>Beta-hexosaminidase subunit alpha.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P06865</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Beta-N-acetylhexosaminidase subunit alpha</synonym>
+		<synonym>Hexosaminidase subunit A</synonym>
+		<synonym>N-acetyl-beta-glucosaminidase subunit alpha</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Golgi apparatus 3D 02</name>
+	<description>3D-like representation of Golgi apparatus.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+            <id>GO:0005794</id>
+		</reference>
+	</references>
+</metadata>

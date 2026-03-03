@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Pantothenic acid</name>
+	<description>A member of the class of pantothenic acids that is an amide formed from pantoic acid and beta-alanine</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:7916</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PanK</synonym>
+		<synonym>N-(2,4-dihydroxy-3,3-dimethylbutanoyl)-beta-alanine</synonym>
+	</synonyms>
+</metadata>

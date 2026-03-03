@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Carbamoyl phosphate</name>
+	<description>A doubly-charged organophosphate oxoanion arising from deprotonation of the phosphate OH groups of carbamoyl phosphate; major species at pH 7.3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:58228</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>carbamoyl phosphate dianion</synonym>
+	</synonyms>
+</metadata>

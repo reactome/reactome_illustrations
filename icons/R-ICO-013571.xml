@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_type</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5807-0069">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Cell generic 02</name>
+    <description>Representation of a generic eukaryotic cell</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>CL</db>
+            <id>CL:0000000</id>
+        </reference>
+    </references>
+</metadata>

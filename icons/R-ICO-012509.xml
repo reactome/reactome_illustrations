@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CARD</name>
+    <description>The caspase recruitment domain (CARD domain) is a homotypic protein interaction module composed of a bundle of six alpha-helices</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>INTERPRO</db>
+            <id>IPR001315</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CD9</name>
+	<description>CD9 antigen</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P21926</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>5H9 antigen</synonym>
+		<synonym>Cell growth-inhibiting gene 2 protein</synonym>
+		<synonym>Leukocyte antigen MIC3</synonym>
+		<synonym>Motility-related protein</synonym>
+		<synonym>MRP-1</synonym>
+		<synonym>Tetraspanin-29</synonym>
+		<synonym>Tspan-29</synonym>
+		<synonym>p24</synonym>
+		<synonym>MIC3</synonym>
+		<synonym>TSPAN29</synonym>
+		<synonym>GIG2</synonym>
+	</synonyms>
+</metadata>

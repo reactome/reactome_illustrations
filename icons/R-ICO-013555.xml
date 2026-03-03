@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>U7snRNA</name>
+    <description>The U7 small nuclear RNA (U7 snRNA) is an RNA molecule and a component of the small nuclear ribonucleoprotein complex (U7 snRNP)</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>RFAM</db>
+            <id>RF00066</id>
+        </reference>
+    </references>
+</metadata>

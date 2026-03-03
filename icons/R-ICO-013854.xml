@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CDP-ethanolamine</name>
+	<description>A phosphoethanolamine consisting of ethanolamine having a cytidine 5'-diphosphate moiety attached to the oxygen</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16732</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CDP-ETA</synonym>
+		<synonym>CDP ethanolamine</synonym>
+		<synonym>Cytidine diphosphate ethanolamine</synonym>
+	</synonyms>
+</metadata>

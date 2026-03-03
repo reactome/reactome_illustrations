@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PTPRC</name>
+	<description>Receptor-type tyrosine-protein phosphatase C</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P08575</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Leukocyte common antigen</synonym>
+		<synonym>L-CA</synonym>
+		<synonym>T200</synonym>
+		<synonym>CD45</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

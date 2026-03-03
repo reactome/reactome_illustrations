@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>M2-1 protein</name>
+	<description>Acts as a tetrameric transcription processivity factor that binds in a competitive manner to RNA and the phosphoprotein (P) to prevent premature termination during transcription.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04545</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Envelope-associated 22 kDa protein</synonym>
+		<synonym>Transcription antitermination factor M2-1</synonym>
+		<synonym>Vp24</synonym>
+	</synonyms>
+</metadata>

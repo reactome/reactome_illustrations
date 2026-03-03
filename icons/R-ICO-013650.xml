@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-7864-5971" role="curator">Thawfeek Varusai</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>LAMP2</name>
+    <description>Lysosome-associated membrane glycoprotein 2</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P13473</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>LAMP-2</synonym>
+        <synonym>CD107b</synonym>
+    </synonyms>
+</metadata>

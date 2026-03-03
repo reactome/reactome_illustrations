@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ALB</name>
+	<description>Albumin.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P02768</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>GIG20</synonym>
+		<synonym>GIG42</synonym>
+		<synonym>PRO0903</synonym>
+		<synonym>PRO1708</synonym>
+		<synonym>PRO2044</synonym>
+		<synonym>PRO2619</synonym>
+		<synonym>PRO2675</synonym>
+		<synonym>UNQ696/PRO1341</synonym>
+	</synonyms>
+</metadata>

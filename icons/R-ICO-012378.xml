@@ -1,0 +1,28 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>9-1-1 complex</name>
+    <description>Three proteins -Rad9, Hus1, and Rad1- interact in a heterotrimeric complex (called the 9-1-1 complex), which resembles a PCNA-like sliding clamp.</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0030896</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q99638</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O60921</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O60671</id>
+        </reference>
+    </references>
+</metadata>

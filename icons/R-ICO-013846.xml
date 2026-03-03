@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Very Long-Chain fatty acyl-CoA</name>
+	<description>A fatty acyl-CoA in which the fatty acyl group has a chain length greater than C22</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:61910</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>VLCFA-CoA</synonym>
+		<synonym>very long-chain acyl-coenzyme A</synonym>
+		<synonym>VLCFA-coenzyme A</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Lysophosphatidylethanolamine</name>
+	<description>A glycerophosphoethanolamine resulting from partial hydrolysis of a phosphatidylethanolamine, which removes one of the fatty acid groups. The structure is depicted in the image where R1 = acyl, R2 = H or where R1 = H, R2 = acyl</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:64574</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>LPE</synonym>
+		<synonym>monoacylglycerophosphoethanolamine</synonym>
+	</synonyms>
+</metadata>

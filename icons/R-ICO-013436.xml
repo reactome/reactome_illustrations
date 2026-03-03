@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>L-Asparagine</name>
+	<description>An optically active form of asparagine having L-configuration</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17196</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>(2S)-2,4-diamino-4-oxobutanoic acid</synonym>
+		<synonym>(S)-2-amino-3-carbamoylpropanoic acid</synonym>
+		<synonym>(S)-Asparagine</synonym>
+		<synonym>2-Aminosuccinamic acid</synonym>
+		<synonym>Aspartamic acid</synonym>
+	</synonyms>
+</metadata>

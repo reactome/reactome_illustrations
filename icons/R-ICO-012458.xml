@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>AXIN1</name>
+    <description>Axin-1 is a component of the beta-catenin destruction complex required for regulating CTNNB1 levels through phosphorylation and ubiquitination, and modulating Wnt-signaling</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O15169</id>
+        </reference>
+    </references>
+</metadata>

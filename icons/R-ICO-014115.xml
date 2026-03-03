@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCC6</name>
+	<description>Multidrug resistance-associated protein 6</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O95255</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ATP-binding cassette sub-family C member 6</synonym>
+		<synonym>Anthracycline resistance-associated protein</synonym>
+		<synonym>Multi-specific organic anion transporter E</synonym>
+		<synonym>MOAT-E</synonym>
+		<synonym>ARA</synonym>
+		<synonym>MRP6</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NS5</name>
+	<description>RNA-directed RNA polymerase NS5 replicates the viral + and - RNA genome, and performs the capping of genomes in the cytoplasm.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P29990</id>
+		</reference>
+	</references>
+</metadata>

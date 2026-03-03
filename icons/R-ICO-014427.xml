@@ -1,0 +1,31 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>B4GALT7</name>
+	<description>Beta-1,4-galactosyltransferase 7.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UBV7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Beta-1,4-GalTase 7</synonym>
+		<synonym>Beta4Gal-T7</synonym>
+		<synonym>b4Gal-T7</synonym>
+		<synonym>Proteoglycan UDP-galactose:beta-xylose beta1,4-galactosyltransferase I</synonym>
+		<synonym>UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 7</synonym>
+		<synonym>UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 7</synonym>
+		<synonym>UDP-galactose:beta-xylose beta-1,4-galactosyltransferase</synonym>
+		<synonym>XGPT</synonym>
+		<synonym>XGalT-1</synonym>
+		<synonym>Xylosylprotein 4-beta-galactosyltransferase</synonym>
+		<synonym>Xylosylprotein beta-1,4-galactosyltransferase</synonym>
+		<synonym>XGALT1</synonym>
+		<synonym>UNQ748/PRO1478</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SLC37A4</name>
+	<description>Glucose-6-phosphate exchanger SLC37A4.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O43826</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Glucose-5-phosphate transporter</synonym>
+		<synonym>Glucose-6-phosphate translocase</synonym>
+		<synonym>Solute carrier family 37 member 4</synonym>
+		<synonym>Transformation-related gene 19 protein</synonym>
+		<synonym>TRG-19</synonym>
+		<synonym>TRG19</synonym>
+		<synonym>G6PT</synonym>
+		<synonym>G6PT1</synonym>
+		<synonym>PRO0685</synonym>
+	</synonyms>
+</metadata>

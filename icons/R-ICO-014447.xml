@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Dolichol</name>
+	<description>Any one of a group of prenol derivatives made up of varying numbers of cis-linked isoprene units, terminating in an α-saturated isoprenoid group containing an alcohol functional group, with the three isoprene units at the distal end trans-linked.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16091</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DCHOL</synonym>
+		<synonym>2,3-dihydropolyprenol</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Capsid of DENV-2 and ssRNA</name>
+	<description>Graphical representation of the capsid of a Dengue virus and its ssRNA.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0019028</id>
+		</reference>
+		<reference>
+			<db>GO</db>
+			<id>GO:0019024</id>
+		</reference>
+	</references>
+</metadata>

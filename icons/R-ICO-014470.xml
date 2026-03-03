@@ -1,0 +1,45 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>G6PC</name>
+	<description>Graphic representation of Glucose-6-phosphatase 1,2 and/or 3</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P35575</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NQR9</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9BUM1</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Glucose-6-phosphatase</synonym>
+		<synonym>G-6-Pase</synonym>
+		<synonym>G6Pase</synonym>
+		<synonym>Glucose-6-phosphatase alpha</synonym>
+		<synonym>G6Pase-alpha</synonym>
+		<synonym>G6PC1</synonym>
+		<synonym>G6PT</synonym>
+		<synonym>G-6-Pase 2</synonym>
+		<synonym>G6Pase 2</synonym>
+		<synonym>Islet-specific glucose-6-phosphatase catalytic subunit-related protein</synonym>
+		<synonym>G6PC2</synonym>
+		<synonym>IGRP</synonym>
+		<synonym>G-6-Pase 3</synonym>
+		<synonym>G6Pase 3</synonym>
+		<synonym>Glucose-6-phosphatase beta</synonym>
+		<synonym>G6Pase-beta</synonym>
+		<synonym>Ubiquitous glucose-6-phosphatase catalytic subunit-related protein</synonym>
+		<synonym>G6PC3</synonym>
+		<synonym>UGRP</synonym>
+	</synonyms>
+</metadata>

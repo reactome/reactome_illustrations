@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>FADH2</name>
+	<description>FAD can be reduced to FADH2 through the addition of 2 H+ and 2 e−. FADH2 can also be oxidized by the loss of 1 H+ and 1 e− to form FADH</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17877</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Flavin adenine dinucleotide</synonym>
+		<synonym>DIHYDROFLAVINE-ADENINE DINUCLEOTIDE</synonym>
+		<synonym>1,5-dihydro-FAD</synonym>
+	</synonyms>
+</metadata>

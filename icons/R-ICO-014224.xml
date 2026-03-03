@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>vpu</name>
+	<description>Enhances virion budding by targeting host CD4 and Tetherin/BST2 to proteasome degradation</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P05919</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Protein Vpu</synonym>
+		<synonym>U ORF protein</synonym>
+		<synonym>Viral protein U</synonym>
+	</synonyms>
+</metadata>

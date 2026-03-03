@@ -1,0 +1,21 @@
+<metadata>
+    <categories>
+        <category>cell_type</category>
+    </categories>
+	<person orcid="0000-0002-0826-9069" role="curator">Nicholas Norwitz</person>
+	<person orcid="0000-0002-8803-6475" role="designer">Sam Norwitz</person>
+    <name>Neuron</name>
+    <description>Generic representation of a neuron. A neuron is an electrically excitable cell that communicates with other cells via specialized connections called synapses</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CL</db>
+            <id>CL:0000540</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Neurone</synonym>
+        <synonym>Brain cell</synonym>
+        <synonym>Nerve cell</synonym>
+    </synonyms>
+</metadata>

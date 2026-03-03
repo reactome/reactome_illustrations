@@ -1,0 +1,36 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>MAP3K1-4</name>
+    <description>Representation of Mitogen-activated protein kinase kinase kinase 1 to 4</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q13233</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q9Y2U5</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q99759</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q9Y6R4</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>MAPKKK1</synonym>
+        <synonym>MEKK1</synonym>
+        <synonym>MAPKKK4</synonym>
+        <synonym>MEKK4</synonym>
+        <synonym>MTK1</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

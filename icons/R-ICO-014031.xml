@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Cyanocobalamin</name>
+	<description>A complex cob(III)alamin in which cobalt is positioned in the centre of a planar corrin tetrapyrrole ring and bound axially to a 5,6-dimethylbenzimidazole moiety and a cyano group. It is one of several forms of the vitamin known as vitamin B12</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17439</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>cyanocob(III)alamin</synonym>
+		<synonym>CN-Cbl</synonym>
+		<synonym>CNCBl</synonym>
+		<synonym>CO-CYANOCOBALAMIN</synonym>
+		<synonym>Dicopac</synonym>
+		<synonym>vitamin B-12</synonym>
+	</synonyms>
+</metadata>

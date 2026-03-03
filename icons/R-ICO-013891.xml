@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Cardiolipin</name>
+	<description>A phosphatidylglycerol composed of two molecules of phosphatidic acid covalently linked to a molecule of glycerol</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:28494</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CL</synonym>
+		<synonym>cardiolipins</synonym>
+		<synonym>Diphosphatidylglycerol</synonym>
+		<synonym>DPG</synonym>
+		<synonym>1',3'-Bis(1,2-diacyl-sn-glycero-3-phospho)-sn-glycerol</synonym>
+	</synonyms>
+</metadata>

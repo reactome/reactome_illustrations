@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CCNA</name>
+	<description>Cyclin-A1 or 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P78396</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P20248</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CCN1</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

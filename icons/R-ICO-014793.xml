@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CDH22</name>
+	<description>Cadherin-22.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UJ99</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Pituitary and brain cadherin (PB-cadherin)</synonym>
+		<synonym>C20orf25</synonym>
+	</synonyms>
+</metadata>

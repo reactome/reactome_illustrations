@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>FBLN1 microfiber</name>
+	<description>Fibulin-1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P23142</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>FIBL-1</synonym>
+		<synonym>PP213</synonym>
+	</synonyms>
+</metadata>

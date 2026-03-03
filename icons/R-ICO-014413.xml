@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NILOTINIB</name>
+	<description>Nilotinib is a Type-2 kinase inhibitor and was first approved by the FDA in 2007.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5697</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AMN 107</synonym>
+		<synonym>AMN107</synonym>
+		<synonym>Tasigna</synonym>
+		<synonym>Tasigna®</synonym>
+	</synonyms>
+</metadata>

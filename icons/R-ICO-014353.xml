@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>BRIGATINIB</name>
+	<description>Brigatinib is a phosphine oxide-containing drug developed as a treatment for cancers driven by anaplastic lymphoma kinase (ALK) rearrangements or by T790M gatekeeper mutant EGFR.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7741</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AP26113</synonym>
+		<synonym>AP-26113</synonym>
+		<synonym>compound 11q [PMID: 27144831]</synonym>
+		<synonym>Alunbrig</synonym>
+		<synonym>Alunbrig®</synonym>
+	</synonyms>
+</metadata>

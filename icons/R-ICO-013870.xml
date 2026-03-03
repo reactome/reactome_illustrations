@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>sn-glycerol 3-phosphate</name>
+	<description>An sn-glycerol 3-phosphate having unsubstituted hydroxy groups</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15978</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>G3P</synonym>
+		<synonym>phosphoric acid mono-((R)-2,3-dihydroxy-propyl) ester</synonym>
+		<synonym>sn-Gro-1-P</synonym>
+		<synonym>SN-GLYCEROL-3-PHOSPHATE</synonym>
+		<synonym>(R)-glycerol 1-phosphate</synonym>
+		<synonym>L-(glycerol 3-phosphate)</synonym>
+		<synonym>D-Glycerol 1-phosphate</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,11 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5038-1185" role="curator">Kaiqiang You</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Stress granule</name>
+    <description>Stress granules are dense aggregations in the cytosol composed of proteins and RNAs that appear when the cell is under stress</description>
+    <info>https://reactome.org/icon-info</info>
+    <skip>true</skip>
+</metadata>

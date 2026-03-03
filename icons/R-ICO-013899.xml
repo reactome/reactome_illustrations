@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Phosphatidyl-L-serine</name>
+	<description>A class of aminophospholipids in which a phosphatidyl group is esterified to the hydroxy group of serine</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:18303</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PS</synonym>
+		<synonym>Phosphatidylserine</synonym>
+		<synonym>Ptd-L-Ser</synonym>
+	</synonyms>
+</metadata>

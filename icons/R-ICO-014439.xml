@@ -1,0 +1,28 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CHSY1</name>
+	<description>Chondroitin sulfate synthase 1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q86X52</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Chondroitin glucuronyltransferase 1</synonym>
+		<synonym>Chondroitin synthase 1</synonym>
+		<synonym>ChSy-1</synonym>
+		<synonym>Glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase 1</synonym>
+		<synonym>N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase 1</synonym>
+		<synonym>N-acetylgalactosaminyltransferase 1</synonym>
+		<synonym>CHSY</synonym>
+		<synonym>CSS1</synonym>
+		<synonym>KIAA0990</synonym>
+		<synonym>UNQ756/PRO1487</synonym>
+	</synonyms>
+</metadata>

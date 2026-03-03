@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ARF</name>
+	<description>Graphic representation of a family of GTP-binding proteins involved in protein trafficking among different compartments.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P84077</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P18085</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ADP-ribosylation factor 1</synonym>
+		<synonym>ADP-ribosylation factor 4</synonym>
+		<synonym>ARF1</synonym>
+		<synonym>ARF2</synonym>
+		<synonym>ARF4</synonym>
+	</synonyms>
+</metadata>

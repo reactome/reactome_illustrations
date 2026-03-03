@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5494-626X" role="curator">Peter D'Eustachio</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ESTRADIOL</name>
+    <description>Estradiol is an estrogen steroid hormone and the major female sex hormone</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:23965</id>
+        </reference>
+    </references>
+</metadata>

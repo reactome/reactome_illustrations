@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PAG1</name>
+	<description>Phosphoprotein associated with glycosphingolipid-enriched microdomains 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NWQ8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Csk-binding protein</synonym>
+		<synonym>Transmembrane adapter protein PAG</synonym>
+		<synonym>Transmembrane phosphoprotein Cbp</synonym>
+		<synonym>CBP</synonym>
+		<synonym>PAG</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

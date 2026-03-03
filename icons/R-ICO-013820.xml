@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Inositol Phosphates</name>
+	<description>Inositol phosphates are a group of mono- to polyphosphorylated inositols. They play crucial roles in diverse cellular functions, such as cell growth, apoptosis, cell migration, endocytosis, and cell differentiation</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:24846</id>
+		</reference>
+	</references>
+</metadata>

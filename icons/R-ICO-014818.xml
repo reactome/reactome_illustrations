@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CTNND1</name>
+	<description>Catenin delta-1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60716</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Cadherin-associated Src substrate (CAS)</synonym>
+		<synonym>p120 catenin (p120(ctn))</synonym>
+		<synonym>p120(cas)</synonym>
+		<synonym>KIAA0384</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DAXX</name>
+	<description>Death domain-associated protein 6.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UER7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>hDaxx</synonym>
+		<synonym>ETS1-associated protein 1</synonym>
+		<synonym>EAP1</synonym>
+		<synonym>Fas death domain-associated protein</synonym>
+		<synonym>BING2</synonym>
+		<synonym>DAP6</synonym>
+	</synonyms>
+</metadata>

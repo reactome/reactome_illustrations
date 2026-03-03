@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SUPV3L1</name>
+	<description>ATP-dependent RNA helicase SUPV3L1, mitochondrial.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8IYB8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>SUV3</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>C3 convertase</name>
+	<description>C3 convertase (C4bC2b, formerly C4bC2a) belongs to family of serine proteases and is necessary in innate immunity as a part of the complement system which eventuate in opsonisation of particles, release of inflammatory peptides, C5 convertase formation and cell lysis</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>KEGG</db>
+			<id>3.4.21.43</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

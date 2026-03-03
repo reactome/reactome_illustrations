@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Alveolus</name>
+	<description>A sac-like structure that is found in the mature gland.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0003214</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>alveolus of lactiferous gland</synonym>
+		<synonym>alveolus of lobe of breast</synonym>
+		<synonym>alveolus of lobe of mammary gland</synonym>
+		<synonym>lactiferous alveolus</synonym>
+		<synonym>lactiferous gland alveolus</synonym>
+		<synonym>mammary alveoli</synonym>
+	</synonyms>
+</metadata>

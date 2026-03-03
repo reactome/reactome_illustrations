@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ITGA3</name>
+	<description>Integrin alpha-3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P26006</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CD49 antigen-like family member C</synonym>
+		<synonym>FRP-2</synonym>
+		<synonym>Galactoprotein B3 (GAPB3)</synonym>
+		<synonym>VLA-3 subunit alpha</synonym>
+		<synonym>MSK18</synonym>
+	</synonyms>
+</metadata>

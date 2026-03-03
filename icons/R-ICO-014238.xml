@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TRIM5</name>
+	<description>Capsid-specific restriction factor that prevents infection from non-host-adapted retroviruses</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9C035</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Tripartite motif-containing protein 5</synonym>
+		<synonym>RING finger protein 88</synonym>
+		<synonym>RING-type E3 ubiquitin transferase TRIM5</synonym>
+		<synonym>RNF88</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

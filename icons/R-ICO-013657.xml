@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0003-0705-9809" role="curator">Rahuman Sheriff</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>HTR2A</name>
+    <description>5-hydroxytryptamine receptor 2A</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P28223</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

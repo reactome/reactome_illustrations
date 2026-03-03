@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>transporter</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ABC transporter</name>
+    <description>ATP-binding cassette transporters are members of a transport system superfamily that is one of the largest and is possibly one of the oldest families with representatives in all extant phyla from prokaryotes to humans</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>INTERPRO</db>
+            <id>IPR003439</id>
+        </reference>
+    </references>
+</metadata>

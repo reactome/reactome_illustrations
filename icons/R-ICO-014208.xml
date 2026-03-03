@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>BCR</name>
+	<description>Simplified graphic representation ofa B-cell receptor</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>MESH</db>
+			<id>D011947</id>
+		</reference>
+	</references>
+</metadata>

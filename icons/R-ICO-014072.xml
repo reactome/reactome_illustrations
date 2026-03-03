@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TKI</name>
+	<description>Tyrosine kinase inhibitor</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:38637</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>tyrphostin</synonym>
+		<synonym>tyrphostins</synonym>
+	</synonyms>
+</metadata>

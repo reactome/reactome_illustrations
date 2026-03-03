@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-7864-5971" role="curator">Thawfeek Varusai</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Isolation membrane</name>
+    <description></description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0034045</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>PAS membrane</synonym>
+    </synonyms>
+</metadata>

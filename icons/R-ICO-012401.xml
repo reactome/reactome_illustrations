@@ -1,0 +1,24 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ADCY10</name>
+    <description>Adenylate cyclase type 10.</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>Q96PN6</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>SAC</synonym>
+        <synonym>sAC</synonym>
+        <synonym>AH-related protein</synonym>
+        <synonym>Adenylate cyclase homolog</synonym>
+        <synonym>Germ cell soluble adenylyl cyclase</synonym>
+        <synonym>Testicular soluble adenylyl cyclase</synonym>
+    </synonyms>
+</metadata>

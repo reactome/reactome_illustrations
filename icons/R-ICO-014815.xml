@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>OSIMERTINIB</name>
+	<description>Osimertinib is a third-generation, potent, selective and irreversible inhibitor of the epidermal growth factor receptor (EGFR) tyrosine kinase bearing mutations which either sensitise the receptor, or cause drug resistance (eg the T790M mutation). The compound is less effective against the wild-type receptor.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7719</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AZD-9291</synonym>
+		<synonym>AZD9291</synonym>
+		<synonym>mereletinib</synonym>
+		<synonym>Tagrisso</synonym>
+	</synonyms>
+</metadata>

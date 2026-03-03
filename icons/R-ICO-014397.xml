@@ -1,0 +1,30 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MIDOSTAURIN</name>
+	<description>Midostaurin is an analogue of staurosporine, and was originally described as a PKC inhibitor. It was later reported as an inhibitor of fms-related tyrosine kinase 3 (FLT3).</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5702</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:63452</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>4'-N-benzoylstaurosporine</synonym>
+		<synonym>benzoylstaurosporine</synonym>
+		<synonym>CGP 41251</synonym>
+		<synonym>CGP-41251</synonym>
+		<synonym>PKC 412</synonym>
+		<synonym>PKC412</synonym>
+		<synonym>Rydapt</synonym>
+		<synonym>Rydapt®</synonym>
+	</synonyms>
+</metadata>

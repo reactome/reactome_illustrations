@@ -1,0 +1,11 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DMV</name>
+	<description>Graphic representation of double membrane vesicles (DMV or DMVs)</description>
+	<info>https://reactome.org/icon-info</info>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DENV-2</name>
+	<description>Dengue virus type 2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT-T</db>
+			<id>31634</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Dengue virus 2 Thailand</synonym>
+	</synonyms>
+</metadata>

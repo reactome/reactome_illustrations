@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Mammary alveolar cell</name>
+	<description>A milk-producing glandular epithelial cell that is part of a mammary gland alveolus.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0002325</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>LMC</synonym>
+		<synonym>lactocyte</synonym>
+		<synonym>mammary gland alveolar epithelial cell</synonym>
+		<synonym>mammary alveolar epithelial cell</synonym>
+	</synonyms>
+</metadata>

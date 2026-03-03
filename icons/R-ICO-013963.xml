@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Lungs with cancer and Trachea</name>
+	<description>Graphic representation of cancer in lungs, with trachea</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>DOID</db>
+			<id>DOID:1324</id>
+		</reference>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0003126</id>
+		</reference>
+	</references>
+</metadata>

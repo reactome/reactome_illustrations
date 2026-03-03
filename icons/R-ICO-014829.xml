@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>T3/T4</name>
+	<description>Graphic representation of 3,3',5'-triiodo-L-thyronine zwitterion and L-thyroxine zwitterion.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:57261</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:58448</id>
+		</reference>
+	</references>
+</metadata>

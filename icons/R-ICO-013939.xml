@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-9865-8905">Julieth Murillo</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Leishmania promastigote form</name>
+	<description>The promastigote form of Leishmania is found in the alimentary tract of sandflies. It is an extracellular and motile form. It is considerably larger and highly elongated, measuring 15-30 µm in length and 5 µm in width. It is spindle-shaped, tapering at both ends. A long flagellum (about the body length) is projected externally at the anterior end. The nucleus lies at the centre, and in front of it are the kinetoplast and the basal body</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OPL</db>
+			<id>OPL:0000151</id>
+		</reference>
+	</references>
+</metadata>

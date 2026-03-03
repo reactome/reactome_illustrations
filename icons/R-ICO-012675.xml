@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_type</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Enterocyte</name>
+    <description>Enterocytes, or intestinal absorptive cells, are simple columnar epithelial cells found in the small intestine</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CL</db>
+            <id>CL:0000584</id>
+        </reference>
+    </references>
+</metadata>

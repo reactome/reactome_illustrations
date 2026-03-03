@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Citrate</name>
+	<description>A tricarboxylic acid that is propane-1,2,3-tricarboxylic acid bearing a hydroxy substituent at position 2. It is an important metabolite in the pathway of all aerobic organisms</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16947</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Citric acid</synonym>
+		<synonym>2-Hydroxytricarballylic acid</synonym>
+		<synonym>3-Carboxy-3-hydroxypentane-1,5-dioic acid</synonym>
+	</synonyms>
+</metadata>

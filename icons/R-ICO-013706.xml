@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>FLT3</name>
+	<description>Receptor-type tyrosine-protein kinase FLT3</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P36888</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CD135</synonym>
+		<synonym>FLK2</synonym>
+		<synonym>STK1</synonym>
+	</synonyms>
+</metadata>

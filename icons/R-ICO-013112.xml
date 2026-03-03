@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Nuclear pore complex</name>
+    <description>Nuclear pores are large protein complexes that cross the nuclear envelope, which is the double membrane surrounding the eukaryotic cell nucleus</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0005643</id>
+        </reference>
+    </references>
+</metadata>

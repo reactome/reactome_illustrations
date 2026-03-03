@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Thiamine</name>
+	<description>Thiamine, also known as thiamin or vitamin B1, is a vitamin found in food, and manufactured as a dietary supplement and medication. Food sources of thiamine include whole grains, legumes, and some meats and fish. Grain processing removes much of the thiamine content, so in many countries cereals and flours are enriched with thiamine. Supplements and medications are available to treat and prevent thiamine deficiency and disorders that result from it, including beriberi and Wernicke encephalopathy. Other uses include the treatment of maple syrup urine disease and Leigh syndrome</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:18385</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>THMN</synonym>
+		<synonym>Vitamin B1</synonym>
+		<synonym>Thiamin</synonym>
+		<synonym>Aneurin</synonym>
+		<synonym>Antiberiberi factor</synonym>
+	</synonyms>
+</metadata>

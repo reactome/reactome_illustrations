@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NERATINIB</name>
+	<description>Neratinib is an irreversible inhibitor of the receptor tyrosine kinase (RTK), ErbB2. It also inhibits the related RTK, EGFR.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5686</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>HKI 272</synonym>
+		<synonym>HKI-272</synonym>
+		<synonym>Nerlynx</synonym>
+	</synonyms>
+</metadata>

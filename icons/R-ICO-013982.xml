@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PDPK1</name>
+	<description>3-phosphoinositide-dependent protein kinase 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O15530</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PDK1</synonym>
+		<synonym>hPDK1</synonym>
+	</synonyms>
+</metadata>

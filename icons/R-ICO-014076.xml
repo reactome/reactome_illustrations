@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed C1 complex</name>
+	<description>A protein complex composed of six subunits of C1q, each formed of the three homologous polypeptide chains C1QA, C1QB, and C1QB, and tetramer of two C1QR and two C1QS polypeptide chains</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0005602</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

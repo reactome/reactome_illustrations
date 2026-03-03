@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CASP1</name>
+	<description>Caspase-1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P29466</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Interleukin-1 beta convertase</synonym>
+		<synonym>IL-1BC</synonym>
+		<synonym>Interleukin-1 beta-converting enzyme</synonym>
+		<synonym>ICE</synonym>
+		<synonym>IL-1 beta-converting enzyme</synonym>
+		<synonym>p45</synonym>
+		<synonym>IL1BC</synonym>
+		<synonym>IL1BCE</synonym>
+	</synonyms>
+</metadata>

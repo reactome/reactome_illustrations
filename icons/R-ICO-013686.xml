@@ -1,0 +1,22 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+	<person orcid="0000-0002-0826-9069" role="curator">Nicholas Norwitz</person>
+	<person orcid="0000-0002-8803-6475" role="designer">Sam Norwitz</person>
+    <name>INSR 02</name>
+    <description>Insulin receptor</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P06213</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Insulin receptor</synonym>
+        <synonym>IR</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

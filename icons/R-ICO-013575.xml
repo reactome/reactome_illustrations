@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5766-1702" role="curator">Marc Gillespie</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>COPI vesicle</name>
+    <description>COPI is a coatomer, a protein complex that coats vesicles transporting proteins from the cis end of the Golgi complex back to the rough endoplasmic reticulum, where they were originally synthesized, and between Golgi compartments</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>GO</db>
+            <id>GO:0030663</id>
+        </reference>
+    </references>
+</metadata>

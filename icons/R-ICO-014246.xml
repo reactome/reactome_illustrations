@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MGAT2</name>
+	<description>Alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q10469</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Beta-1,2-N-acetylglucosaminyltransferase II</synonym>
+		<synonym>GlcNAc-T II</synonym>
+		<synonym>GNT-II</synonym>
+		<synonym>Mannoside acetylglucosaminyltransferase 2</synonym>
+		<synonym>N-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase II</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Thymus gland</name>
+	<description>A single, unpaired primary lymphoid organ situated in the Mediastinum, extending superiorly into the neck to the lower edge of the Thyroid gland and inferiorly to the fourth costal cartilage. It is necessary for normal development of immunologic function early in life. By puberty, it begins to involute and much of the tissue is replaced by fat.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>MESH</db>
+			<id>D013950</id>
+		</reference>
+	</references>
+</metadata>

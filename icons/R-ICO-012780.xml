@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>GLYCOGEN</name>
+    <description>Glycogen is a multibranched polysaccharide of glucose that serves as a form of energy storage in humans, animals, fungi, and bacteria. The polysaccharide structure represents the main storage form of glucose in the body</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:28087</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCD1</name>
+	<description>ATP-binding cassette sub-family D member 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P33897</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ALD</synonym>
+		<synonym>Adrenoleukodystrophy protein</synonym>
+		<synonym>ALDP</synonym>
+	</synonyms>
+</metadata>

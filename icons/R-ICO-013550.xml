@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PYRIMIDINES</name>
+    <description>One of the three diazines (six-membered heterocyclics with two nitrogen atoms in the ring), it has the nitrogen atoms at positions 1 and 3 in the ring</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>CHEBI</db>
+            <id>CHEBI:16898</id>
+        </reference>
+    </references>
+</metadata>

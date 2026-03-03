@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Melanosome</name>
+    <description>A melanosome is an organelle that is the site for synthesis, storage and transport of melanin, the most common light-absorbing pigment found in the animal kingdom</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0042470</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>C1GALT1C1</name>
+	<description>C1GALT1-specific chaperone 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q96EU7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>C38H2-like protein 1</synonym>
+		<synonym>C38H2-L1</synonym>
+		<synonym>Core 1 beta1,3-galactosyltransferase 2</synonym>
+		<synonym>C1Gal-T2</synonym>
+		<synonym>C1GalT2</synonym>
+		<synonym>Core 1 beta3-Gal-T2</synonym>
+		<synonym>Core 1 beta3-galactosyltransferase-specific molecular chaperone</synonym>
+		<synonym>COSMC</synonym>
+		<synonym>HSPC067</synonym>
+		<synonym>MSTP143</synonym>
+		<synonym>UNQ273/PRO310</synonym>
+	</synonyms>
+</metadata>

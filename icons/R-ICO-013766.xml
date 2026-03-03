@@ -1,0 +1,40 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>mTORC1</name>
+	<description>mTORC1, also known as mammalian target of rapamycin complex 1 or mechanistic target of rapamycin complex 1, is a protein complex that functions as a nutrient/energy/redox sensor and controls protein synthesis. mTOR Complex 1 (mTORC1) is composed of mTOR itself, regulatory-associated protein of mTOR (Raptor), mammalian lethal with SEC13 protein 8 (MLST8), PRAS40 and DEPTOR. This complex embodies the classic functions of mTOR, namely as a nutrient/energy/redox sensor and controller of protein synthesis. The activity of this complex is regulated by rapamycin, insulin, growth factors, phosphatidic acid, certain amino acids and their derivatives (e.g., l-leucine and β-hydroxy β-methylbutyric acid), mechanical stimuli, and oxidative stress</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-503</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9BVC4</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P42345</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8N122</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q96B36</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8TB45</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Mammalian target of rapamycin complex 1</synonym>
+		<synonym>Mechanistic target of rapamycin complex 1</synonym>
+	</synonyms>
+</metadata>

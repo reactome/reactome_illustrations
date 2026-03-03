@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ISV-CoA</name>
+	<description>A short chain fatty acyl-CoA(4−) that is the tetraanion of isovaleryl-CoA arising from deprotonation of phosphate and diphosphate functions.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:57345</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>isovaleryl-CoA(4−)</synonym>
+		<synonym>3-methylbutanoyl-CoA</synonym>
+		<synonym>isopentanoyl-CoA(4−)</synonym>
+		<synonym>isopentanoyl-coenzyme A(4−)</synonym>
+		<synonym>isovaleryl-CoA tetraanion</synonym>
+	</synonyms>
+</metadata>

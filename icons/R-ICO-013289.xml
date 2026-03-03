@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-0705-7048﻿" role="curator">Karen Rothfels</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Retromer complex</name>
+    <description>Retromer is a complex of proteins that has been shown to be important in recycling transmembrane receptors from endosomes to the trans-Golgi network. Retromer is a heteropentameric complex which in humans is composed of a less defined membrane-associated sorting nexin dimer (SNX1, SNX2, SNX5, SNX6), and a vacuolar protein sorting (Vps) trimer containing Vps26, Vps29, Vps35</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0030904</id>
+        </reference>
+    </references>
+</metadata>

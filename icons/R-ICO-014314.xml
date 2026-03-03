@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DARUNAVIR</name>
+	<description>An N,N-disubstituted benzenesulfonamide bearing an unsubstituted amino group at the 4-position, used for the treatment of HIV infection. A second-generation HIV protease inhibitor, darunavir was designed to form robust interactions with the protease enzyme from many strains of HIV, including those from treatment-experienced patients with multiple resistance mutations to other protease inhibitors</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>11243</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:367163</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>(3R,3aS,6aR)-hexahydrofuro[2,3-b]furan-3-yl N-((1S,2R)-1-benzyl-2-hydroxy-3-(N1-isobutylsulfanilamido)propyl)carbamate</synonym>
+		<synonym>(3R,3AS,6AR)-HEXAHYDROFURO[2,3-B]FURAN-3-YL(1S,2R)-3-[[(4-AMINOPHENYL)SULFONYL](ISOBUTYL)AMINO]-1-BENZYL-2-HYDROXYPROPYLCARBAMATE</synonym>
+		<synonym>(3R,3aS,6aR)-tetrahydro-2H-furo[2,3-b]furan-3-yl (2S,3R)-4-(4-amino-N-isobutylphenylsulfonamido)-3-hydroxy-1-phenylbutan-2-ylcarbamate</synonym>
+		<synonym>[(S)-3-[(4-Amino-benzenesulfonyl)-isobutyl-amino]-2-hydroxy-1-((R)-phenylmethyl)-propyl]-carbamic acid (3R,3aS,6aR)-(hexahydro-furo[2,3-b]furan-3-yl) ester</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

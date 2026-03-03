@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GSDMD pore complex</name>
+	<description>GSDMD-N forms large transmembrane pores composed of 31 to 34 subunits that allow the release of interleukin-1 family cytokines and drive pyroptosis</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P57764</id>
+		</reference>
+	</references>
+</metadata>

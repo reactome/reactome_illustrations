@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PONATINIB</name>
+	<description>Ponatinib is a Type-1 kinase inhibitor. It is a third generation BCR-Abl inhibitor. Use of ponatinib is subject to additional monitoring due to the observed serious risk of liver problems or blood clots (including heart attack and stroke, collectively referred to as arterial occlusive events, or AOEs).</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5890</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AP24534</synonym>
+		<synonym>Iclusig</synonym>
+		<synonym>Iclusig®</synonym>
+	</synonyms>
+</metadata>

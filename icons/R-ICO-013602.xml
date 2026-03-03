@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5038-1185" role="curator">Kaiqiang You</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Lewy bodies</name>
+    <description>Cytoplasmic, spherical inclusion commonly found in damaged neurons, and composed of abnormally phosphorylated, neurofilament proteins aggregated with ubiquitin and alpha-synuclein</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0097413</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

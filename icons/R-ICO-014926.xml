@@ -1,0 +1,21 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://orcid.org/0009-0002-7406-2389">Junaid Haque</person>
+    <name>KNG1</name>
+    <description>PROTEIN KNG1.</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P01042</id>
+        </reference>
+        <reference>
+            <db>ENSEMBL</db>
+            <id>ENSG00000113889</id>
+        </reference>
+    </references>
+</metadata>
+

@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>MANNITOL</name>
+    <description>Mannitol is a type of sugar alcohol which is also used as a medication. As a sugar, it is often used as a sweetener in diabetic food, as it is poorly absorbed from the intestines. As a medication, it is used to decrease pressure in the eyes, as in glaucoma, and to lower increased intracranial pressure</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:29864</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

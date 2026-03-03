@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Nicotinamide adenine dinucleotide oxidized</name>
+    <description>The oxidised form of nicotinamide adenine dinucleotide found in all living cells. In metabolism, NAD+ is involved in redox reactions, carrying electrons from one reaction to another</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:15846</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>NAD+</synonym>
+    </synonyms>
+</metadata>

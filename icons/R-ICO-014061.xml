@@ -1,0 +1,36 @@
+<metadata>
+	<categories>
+        <category>receptor</category>
+        <category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ERBB2/EGFR heterodimer</name>
+	<description>Graphic representation of a heterodimer formed by Receptor tyrosine-protein kinase erbB-2 and Epidermal growth factor receptor</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04626</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P00533</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MLN 19</synonym>
+		<synonym>Proto-oncogene Neu</synonym>
+		<synonym>Proto-oncogene c-ErbB-2</synonym>
+		<synonym>Tyrosine kinase-type cell surface receptor HER2</synonym>
+		<synonym>p185erbB2</synonym>
+		<synonym>CD340</synonym>
+		<synonym>HER2</synonym>
+		<synonym>NGL</synonym>
+		<synonym>Proto-oncogene c-ErbB-1</synonym>
+		<synonym>Receptor tyrosine-protein kinase erbB-1</synonym>
+		<synonym>ERBB</synonym>
+		<synonym>ERBB1</synonym>
+		<synonym>HER1</synonym>
+	</synonyms>
+</metadata>

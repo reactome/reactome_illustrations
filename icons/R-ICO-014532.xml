@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>APAP-GlcA</name>
+	<description>A beta-D-glucosiduronate that is the conjugate base of acetaminophen O-β-D-glucosiduronic acid, obtained by deprotonation of the carboxy group.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:132962</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>acetaminophen O-β-D-glucosiduronate</synonym>
+		<synonym>4-acetamidophenyl β-D-glucosiduronate</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>human_tissue</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Female reproductive system</name>
+    <description>Representation of the female reproductive system</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UBERON</db>
+            <id>UBERON:0000474</id>
+        </reference>
+    </references>
+    <skip>true</skip>
+</metadata>

@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>APOBEC3G</name>
+	<description>DNA deaminase (cytidine deaminase) which acts as an inhibitor of retrovirus replication and retrotransposon mobility via deaminase-dependent and -independent mechanisms</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9HC16</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>DNA dC->dU-editing enzyme APOBEC-3G</synonym>
+		<synonym>APOBEC-related cytidine deaminase</synonym>
+		<synonym>APOBEC-related protein</synonym>
+		<synonym>ARCD</synonym>
+		<synonym>APOBEC-related protein 9</synonym>
+		<synonym>ARP-9</synonym>
+		<synonym>CEM-15</synonym>
+		<synonym>CEM15</synonym>
+		<synonym>Deoxycytidine deaminase</synonym>
+		<synonym>A3G</synonym>
+		<synonym>MDS019</synonym>
+	</synonyms>
+</metadata>

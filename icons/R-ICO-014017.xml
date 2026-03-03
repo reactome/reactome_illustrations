@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PDCD1</name>
+	<description>Programmed cell death protein 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q15116</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Protein PD-1</synonym>
+		<synonym>hPD-1</synonym>
+		<synonym>CD279</synonym>
+		<synonym>PD1</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

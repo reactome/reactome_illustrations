@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>BCKDHB</name>
+	<description>2-oxoisovalerate dehydrogenase subunit beta, mitochondrial.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P21953</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Branched-chain alpha-keto acid dehydrogenase E1 component beta chain</synonym>
+	</synonyms>
+</metadata>

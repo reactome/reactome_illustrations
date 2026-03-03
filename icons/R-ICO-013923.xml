@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Mercapturic acids</name>
+	<description>Mercapturic acid is a condensation product formed from the coupling of cysteine with aromatic compounds. It is formed as a conjugate in the liver and is excreted in the urine. Glutathione-S-transferase adducts lose glutamate and glycine portions, and are acetylated to form mercapturic acids, which are excreted</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:47911</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>S-substituted N-acetyl-L-cysteine</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PRKCQ</name>
+	<description>Protein kinase C theta type</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q04759</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>nPKC-theta</synonym>
+		<synonym>PRKCT</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

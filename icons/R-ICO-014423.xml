@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TANDUTINIB</name>
+	<description>Tandutinib is reported as a fms-related tyrosine kinase 3 (FLT3) inhibitor, although it has almost identical IC50s for PDGRFβ and KIT.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5695</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CT53518</synonym>
+		<synonym>MLN-518</synonym>
+		<synonym>MLN518</synonym>
+	</synonyms>
+</metadata>

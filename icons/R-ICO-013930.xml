@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HCMV</name>
+	<description>A species of enveloped and spherical viruses with a capsid with T=16 icosahedral symmetry and surrounded by amorphous tegument, in the Herpesviridae family and Cytomegalovirus genus. The genome is composed of monopartite, linear double-stranded DNA. Human herpesvirus 5 is found in humans and causes mononucleosis-like symptoms in healthy individuals and pneumonia, hepatitis, encephalitis, myelitis, colitis, retinitis, neuropathy, mucoepidermoid carcinoma as well as other malignancies in immunocompromised persons, organ transplant recipients and newborn infants. Human herpesvirus 5 is transmitted congenitally or via direct person-to-person contact</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT-T</db>
+			<id>10359</id>
+		</reference>
+	</references>
+</metadata>

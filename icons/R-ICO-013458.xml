@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>transporter</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Translocon</name>
+    <description>Translocon is a complex of proteins associated with the translocation of polypeptides across membranes</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0071256</id>
+        </reference>
+    </references>
+</metadata>

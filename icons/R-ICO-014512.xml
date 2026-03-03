@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MutSbeta</name>
+	<description>A heterodimer involved in binding to and correcting insertion/deletion mutations. In human the complex consists of two subunits, MSH2 and MSH3.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0032302</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MSH2/MSH3 complex</synonym>
+		<synonym>MMR complex</synonym>
+	</synonyms>
+</metadata>

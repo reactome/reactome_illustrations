@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>2-Monolysocardiolipin</name>
+	<description>A phosphatidylglycerol consisting of cardiolipin lacking one fatty acyl group from the 2 or 2'-position</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:60430</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MLCL</synonym>
+		<synonym>lysoDPG</synonym>
+		<synonym>monolyso cardiolipin</synonym>
+		<synonym>monolysoDPG</synonym>
+	</synonyms>
+</metadata>

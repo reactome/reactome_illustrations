@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Actin filament</name>
+    <description>Actin filaments, or Microfilaments, are filamentous structures in the cytoplasm of eukaryotic cells and form part of the cytoskeleton</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0005884</id>
+        </reference>
+    </references>
+</metadata>

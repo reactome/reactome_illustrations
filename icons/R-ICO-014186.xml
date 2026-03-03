@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>RDH12</name>
+	<description>Retinol dehydrogenase 12</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q96NR8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>All-trans and 9-cis retinol dehydrogenase</synonym>
+		<synonym>Short chain dehydrogenase/reductase family 7C member 2</synonym>
+		<synonym>SDR7C2</synonym>
+	</synonyms>
+</metadata>

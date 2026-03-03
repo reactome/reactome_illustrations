@@ -1,0 +1,10 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-9865-8905">Julieth Murillo</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Anti-inflammatory mediators</name>
+	<description>These are molecules of different nature that helps to the resolution of inflammation. These could be done at different points: suppressing the expression of pro-inflammatory genes, and the migration and activation of leukocytes, or promoting the inflammatory-cell clearance by apoptosis and phagocytosis. An example of anti-inflammatory mediator are the Lipoxins, which inhibit neutrophil migration and activation but promote the recruitment of monocytes and the phagocytic clearance of apoptotic cells by monocyte-derived macrophages</description>
+	<info>https://reactome.org/icon-info</info>
+</metadata>

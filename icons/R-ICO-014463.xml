@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Salicylate</name>
+	<description>A monohydroxybenzoate that is the conjugate base of salicylic acid.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:30762</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ST</synonym>
+		<synonym>sal</synonym>
+		<synonym>o-hydroxybenzoate</synonym>
+		<synonym>2-hydroxybenzoic acid ion(1−)</synonym>
+	</synonyms>
+</metadata>

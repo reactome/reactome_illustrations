@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>1-phosphatidyl-1D-myo-inositol 4-phosphate</name>
+	<description>A phosphatidylinositol 4-phosphate having 1D-myo-configuration</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17526</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PI4P</synonym>
+		<synonym>PtdIns4P</synonym>
+		<synonym>Phosphatidylinositol 4-phosphate</synonym>
+		<synonym>1-phosphatidyl-1D-myo-inositol 4-monophosphate</synonym>
+	</synonyms>
+</metadata>

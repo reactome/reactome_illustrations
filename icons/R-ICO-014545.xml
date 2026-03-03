@@ -1,0 +1,15 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NCoR/SMRT complex</name>
+	<description>Nuclear receptor corepressor (NCoR) and silencing mediator for retinoid and thyroid hormone receptors (SMRT) function as corepressors for diverse transcription factors including nuclear receptors such as estrogen receptors and androgen receptors</description>
+	<info>https://reactome.org/icon-info</info>
+	<synonyms>
+		<synonym>SMRT–HDAC3 repression complex</synonym>
+		<synonym>SMRT/NCoR-HDAC3 complex</synonym>
+		<synonym>N-CoR complex</synonym>
+	</synonyms>
+</metadata>

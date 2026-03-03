@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CD209</name>
+	<description>CD209 antigen.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NNX6</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CLEC4L</synonym>
+	</synonyms>
+</metadata>

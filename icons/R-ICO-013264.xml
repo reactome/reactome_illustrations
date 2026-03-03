@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Pyrophosphate</name>
+    <description>Pyrophosphate</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:29888</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>PPi</synonym>
+    </synonyms>
+</metadata>

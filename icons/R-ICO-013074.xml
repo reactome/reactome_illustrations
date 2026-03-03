@@ -1,0 +1,22 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>NFKB1</name>
+    <description>Nuclear factor NF-kappa-B</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P19838</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>NFkappaB</synonym>
+        <synonym>DNA-binding factor KBF1</synonym>
+        <synonym>EBP-1</synonym>
+        <synonym>Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1</synonym>
+    </synonyms>
+</metadata>

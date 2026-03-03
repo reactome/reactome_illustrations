@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Cob(I)alamin</name>
+	<description>A cobalamin in which the central cobalt atom has an oxidation state of +1.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15982</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>B12s</synonym>
+		<synonym>Vitamin B12s</synonym>
+	</synonyms>
+</metadata>

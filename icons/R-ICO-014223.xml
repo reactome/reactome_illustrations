@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>XPO1</name>
+	<description>Mediates the nuclear export of cellular proteins</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O14980</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Exportin-1</synonym>
+		<synonym>Exp1</synonym>
+		<synonym>Chromosome region maintenance 1 protein homolog</synonym>
+		<synonym>CRM1</synonym>
+	</synonyms>
+</metadata>

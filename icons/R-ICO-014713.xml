@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>aKIV</name>
+	<description>A 2-oxo monocarboxylic acid anion that is the conjugate base of 3-methyl-2-oxobutanoic acid, arising from deprotonation of the carboxy group.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:11851</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>3-methyl-2-oxobutanoate</synonym>
+		<synonym>2-Oxoisopentanoate</synonym>
+		<synonym>2-Oxoisovalerate</synonym>
+		<synonym>α-keto-isovalerate</synonym>
+		<synonym>3-methyl-2-oxobutanoate</synonym>
+	</synonyms>
+</metadata>

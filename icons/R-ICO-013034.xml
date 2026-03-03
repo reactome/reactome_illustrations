@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Mx GTPases</name>
+    <description>Set of Interferon-induced GTP-binding protein Mx1 and Mx2</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P20591</id>
+        </reference>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P20592</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GILTERITINIB</name>
+	<description>Gilteritinib is an orally bioavailable inhibitor of the receptor tyrosine kinases (RTKs) FMS-related tyrosine kinase 3 (FLT3), AXL and anaplastic lymphoma kinase (ALK), with clinical antineoplastic activity. Gilteritinib inhibits the activity of FLT3-activating mutations which are one of the most common genetic alterations in acute myeloid leukemia (AML).</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>8708</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ASP-2215</synonym>
+		<synonym>ASP2215</synonym>
+		<synonym>Xospata</synonym>
+		<synonym>Xospata®</synonym>
+	</synonyms>
+</metadata>

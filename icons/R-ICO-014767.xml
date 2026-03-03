@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Phosphatidylserine</name>
+	<description>	A 3-sn-glycerophosphoserine compound having acyl substituents at the 1- and 2-hydroxy positions.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:11750</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>1,2-diacyl-sn-glycero-3-phospho-L-serine</synonym>
+		<synonym>1-D-phosphatidyl-L-serine</synonym>
+		<synonym>3-L-phosphatidyl-L-serine</synonym>
+	</synonyms>
+</metadata>

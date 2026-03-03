@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>prM</name>
+	<description>Protein prM acts as a chaperone for envelope protein E during intracellular virion assembly by masking and inactivating envelope protein E fusion peptide.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P29990</id>
+		</reference>
+	</references>
+</metadata>

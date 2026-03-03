@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>VLDL remnant</name>
+    <description>Remnant of VLDL lipoprotein</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0034363</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>VLDL_remanent</synonym>
+    </synonyms>
+</metadata>

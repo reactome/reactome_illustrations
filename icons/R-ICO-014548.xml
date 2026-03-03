@@ -1,0 +1,53 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PIK3CA,B,G</name>
+	<description>Set of Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha, beta and gamma.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P42336</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P42338</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P48736</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PI3K-alpha</synonym>
+		<synonym>PI3Kalpha</synonym>
+		<synonym>PtdIns-3-kinase subunit alpha</synonym>
+		<synonym>Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha</synonym>
+		<synonym>PtdIns-3-kinase subunit p110-alpha</synonym>
+		<synonym>p110alpha</synonym>
+		<synonym>Phosphoinositide 3-kinase alpha</synonym>
+		<synonym>Phosphoinositide-3-kinase catalytic alpha polypeptide</synonym>
+		<synonym>Serine/threonine protein kinase PIK3CA</synonym>
+		<synonym>PI3K-beta</synonym>
+		<synonym>PI3Kbeta</synonym>
+		<synonym>PtdIns-3-kinase subunit beta</synonym>
+		<synonym>Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit beta</synonym>
+		<synonym>PtdIns-3-kinase subunit p110-beta</synonym>
+		<synonym>p110beta</synonym>
+		<synonym>PIK3C1</synonym>
+		<synonym>PIK3CB</synonym>
+		<synonym>PI3K-gamma</synonym>
+		<synonym>PI3Kgamma</synonym>
+		<synonym>PtdIns-3-kinase subunit gamma</synonym>
+		<synonym>Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit gamma</synonym>
+		<synonym>PtdIns-3-kinase subunit p110-gamma</synonym>
+		<synonym>p110gamma</synonym>
+		<synonym>Phosphoinositide-3-kinase catalytic gamma polypeptide</synonym>
+		<synonym>Serine/threonine protein kinase PIK3CG</synonym>
+		<synonym>p120-PI3K</synonym>
+		<synonym>PIK3CG</synonym>
+	</synonyms>
+</metadata>

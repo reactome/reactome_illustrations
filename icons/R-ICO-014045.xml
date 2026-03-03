@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CFD</name>
+	<description>Factor D cleaves factor B when the latter is complexed with factor C3b, activating the C3bbb complex, which then becomes the C3 convertase of the alternate pathway. Its function is homologous to that of C1s in the classical pathway</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P00746</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Adipsin</synonym>
+		<synonym>Properdin factor D</synonym>
+		<synonym>DF</synonym>
+		<synonym>PFD</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

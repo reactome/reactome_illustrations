@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Arachidonic Acid</name>
+	<description>A long-chain fatty acid that is a C20, polyunsaturated fatty acid having four (Z)-double bonds at positions 5, 8, 11 and 14</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15843</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AA</synonym>
+		<synonym>ARA</synonym>
+		<synonym>Arachidonate</synonym>
+		<synonym>all-cis-5,8,11,14-eicosatetraenoic acid</synonym>
+	</synonyms>
+</metadata>

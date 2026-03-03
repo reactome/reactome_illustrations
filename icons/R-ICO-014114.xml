@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCA3</name>
+	<description>ATP-binding cassette sub-family A member 3</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q99758</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ABC-C transporter</synonym>
+		<synonym>ATP-binding cassette transporter 3</synonym>
+		<synonym>ATP-binding cassette 3</synonym>
+		<synonym>ABC3</synonym>
+	</synonyms>
+</metadata>

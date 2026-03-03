@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCB11</name>
+	<description>Bile salt export pump</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O95342</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BSEP</synonym>
+	</synonyms>
+</metadata>

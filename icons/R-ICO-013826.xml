@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Porphyrins</name>
+	<description>Porphyrins ( POR-fər-in) are a group of heterocyclic macrocycle organic compounds, composed of four modified pyrrole subunits interconnected at their α carbon atoms via methine bridges (=CH−). The parent porphyrin is porphine, a rare chemical compound of exclusively theoretical interest. Substituted porphines are called porphyrins</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:8337</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Porphine</synonym>
+		<synonym>Porphyrin</synonym>
+		<synonym>21H,23H-porphine</synonym>
+	</synonyms>
+</metadata>

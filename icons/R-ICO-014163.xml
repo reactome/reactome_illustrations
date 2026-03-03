@@ -1,0 +1,28 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Olfactory Receptor</name>
+	<description>Olfactory receptors are integral membrane proteins that belong to the seven transmembrane (TM), rhodopsin-like G-protein coupled receptor family</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>PFAM</db>
+			<id>PF13853</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9H208</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8NGF6</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9GZK3</id>
+		</reference>
+	</references>
+</metadata>

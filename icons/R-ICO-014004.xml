@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>pp1a</name>
+	<description>Replicase polyprotein 1a</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>S5Y3P7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CVHK1</synonym>
+		<synonym>Human coronavirus HKU1</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

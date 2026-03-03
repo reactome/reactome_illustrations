@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-9865-8905">Julieth Murillo</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Parasitophorous vacuole</name>
+	<description>The space between a symbiont plasma membrane and the symbiont-containing vacuole membrane.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0020004</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>parasitophorous vacuolar space</synonym>
+		<synonym>symbiont-containing vacuole space</synonym>
+	</synonyms>
+</metadata>

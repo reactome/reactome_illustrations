@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SARS-CoV-2 showing gRNA</name>
+	<description>Representation of SARS-CoV-2 virion and its gRNA</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT-T</db>
+			<id>694009</id>
+		</reference>
+		<reference>
+			<db>NCBI</db>
+			<id>1798174254</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>COVID-19</synonym>
+		<synonym>COVID19</synonym>
+	</synonyms>
+</metadata>

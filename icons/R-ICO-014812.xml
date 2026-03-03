@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SUCCA</name>
+	<description>A dicarboxylic acid dianion resulting from the removal of a proton from both of the carboxy groups of succinic acid.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:30031</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>succinate</synonym>
+	</synonyms>
+</metadata>

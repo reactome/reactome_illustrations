@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>LINIFANIB</name>
+	<description>Linifanib is a potent, orally active inhibitor of several receptor tyrosine kinases (RTKs), with principal targets being FLT3, CSF1R and VEGFR2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5657</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ABT 869</synonym>
+		<synonym>ABT-869</synonym>
+	</synonyms>
+</metadata>

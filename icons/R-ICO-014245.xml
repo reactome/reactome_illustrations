@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Fucose</name>
+	<description>Graphic representation of fucose.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:18287</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Fuc</synonym>
+		<synonym>L-Fucose</synonym>
+		<synonym>L-Fuc</synonym>
+		<synonym>L-galactomethylose</synonym>
+		<synonym>(-)-fucose</synonym>
+		<synonym>(-)-L-fucose</synonym>
+		<synonym>L-(-)-fucose</synonym>
+	</synonyms>
+</metadata>

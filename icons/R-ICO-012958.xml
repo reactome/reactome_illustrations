@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Lipid droplets</name>
+    <description>Lipid droplets are lipid-rich cellular organelles that regulate the storage and hydrolysis of neutral lipids and are found largely in the adipose tissue</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0005811</id>
+        </reference>
+    </references>
+</metadata>

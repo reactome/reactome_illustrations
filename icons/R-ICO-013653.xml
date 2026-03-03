@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-7864-5971" role="curator">Thawfeek Varusai</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Autolysosome</name>
+    <description>A type of secondary lysosome in which a primary lysosome has fused with the outer membrane of an autophagosome</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0044754</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Degrading autophagic vacuole</synonym>
+        <synonym>Autophagolysosome</synonym>
+    </synonyms>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk/">Cristoffer Sevilla</person>
+	<name>LIPOYL</name>
+	<description>Lipoic acid is a sulfur-containing cofactor required for the function of several multienzyme complexes involved in the oxidative decarboxylation of α-keto acids and glycine.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>30314</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>RLA</synonym>
+		<synonym>Thioctic acid</synonym>
+		<synonym>Lipoic acid</synonym>
+		<synonym>alpha-Lipoic acid</synonym>
+		<synonym>(R)-(+)-Lipoate</synonym>
+	</synonyms>
+</metadata>

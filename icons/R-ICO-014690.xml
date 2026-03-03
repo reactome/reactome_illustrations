@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DENV-2 showing ssRNA</name>
+	<description>A representation of a Dengue virus showing its ssRNA.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT-T</db>
+			<id>31634</id>
+		</reference>
+	</references>
+</metadata>

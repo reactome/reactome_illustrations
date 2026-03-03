@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Lysobisphosphatidic acid</name>
+	<description>A lysophosphatidic acid having the unusual property of a phosphodiester moiety linked to positions sn-1 and sn1' of glycerol; and two additional fatty acids esterified to the glycerol head group</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:60815</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BMP</synonym>
+		<synonym>LBPA</synonym>
+		<synonym>bis(monoacylglycerol) hydrogen phosphate</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+        <category>receptor</category>
+        <category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>EGFR variant</name>
+	<description>Graphic representation of a variant of Epidermal growth factor receptor.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P00533</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Proto-oncogene c-ErbB-1</synonym>
+		<synonym>Receptor tyrosine-protein kinase erbB-1</synonym>
+		<synonym>ERBB</synonym>
+		<synonym>ERBB1</synonym>
+		<synonym>HER1</synonym>
+	</synonyms>
+</metadata>

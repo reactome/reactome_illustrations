@@ -1,0 +1,39 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ST metabolites</name>
+	<description>Graphic representation of metabolites of salicylate.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:36654</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:58044</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:176960</id>
+		</reference>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:176976</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>2,3-dihydroxybenzoate</synonym>
+		<synonym>2,5-dihydroxybenzoate</synonym>
+		<synonym>salicylic acyl beta-D-glucuronide (1-)</synonym>
+		<synonym>1-salicylate O-glucuronide(1-)</synonym>
+		<synonym>5-hydroxysalicylate</synonym>
+		<synonym>gentisate</synonym>
+		<synonym>hydroquinonecarboxylate</synonym>
+		<synonym>2-pyrocatechuate</synonym>
+		<synonym>3-hydroxysalicylate</synonym>
+	</synonyms>
+</metadata>

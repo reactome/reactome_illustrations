@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-5039-5405" role="curator">Bijay Jassal</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>NUCLEOTIDES</name>
+    <description>Nucleotides are organic molecules that serve as the monomer units for forming the nucleic acid polymers DNA and RNA, both of which are essential biomolecules in all life-forms on Earth</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:36976</id>
+        </reference>
+    </references>
+</metadata>

@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ICOS</name>
+	<description>Inducible T-cell costimulator</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y6W8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CD278</synonym>
+		<synonym>AILIM</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,62 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CNG channel</name>
+	<description>Cyclic nucleotide-gated ion channels or CNG channels are ion channels that function in response to the binding of cyclic nucleotides</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P29973</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q16280</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q16281</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8IV77</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q14028</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NQW8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CNGA1</synonym>
+		<synonym>cGMP-gated cation channel alpha-1</synonym>
+		<synonym>CNCG</synonym>
+		<synonym>CNCG1</synonym>
+		<synonym>CNGA2</synonym>
+		<synonym>Cyclic nucleotide-gated olfactory channel</synonym>
+		<synonym>CNCA</synonym>
+		<synonym>CNCA1</synonym>
+		<synonym>CNCG2</synonym>
+		<synonym>CNGA3</synonym>
+		<synonym>Cyclic nucleotide-gated cation channel alpha-3</synonym>
+		<synonym>CNCG3</synonym>
+		<synonym>CNGA4</synonym>
+		<synonym>Cyclic nucleotide-gated cation channel alpha-4</synonym>
+		<synonym>CNGB1</synonym>
+		<synonym>Cyclic nucleotide-gated cation channel beta-1</synonym>
+		<synonym>Glutamic acid-rich protein</synonym>
+		<synonym>GARP</synonym>
+		<synonym>CNCG2</synonym>
+		<synonym>CNCG3L</synonym>
+		<synonym>CNCG4</synonym>
+		<synonym>RCNC2</synonym>
+		<synonym>CNGB3</synonym>
+		<synonym>Cyclic nucleotide-gated cation channel beta-3</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Myelinating Schwann Cell</name>
+	<description>A neuroglial cell of the peripheral nervous system which forms the insulating myelin sheaths of peripheral axons</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CL</db>
+			<id>CL:0000218</id>
+		</reference>
+	</references>
+</metadata>

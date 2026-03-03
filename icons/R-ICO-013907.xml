@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Pyridoxal</name>
+	<description>A pyridinecarbaldehyde that is pyridine-4-carbaldehyde bearing methyl, hydroxy and hydroxymethyl substituents at positions 2, 3 and 5 respectively. The 4-carboxyaldehyde form of vitamin B6, it is converted into pyridoxal phosphate, a coenzyme for the synthesis of amino acids, neurotransmitters, sphingolipids and aminolevulinic acid</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:17310</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PXL</synonym>
+		<synonym>pyridoxaldehyde</synonym>
+		<synonym>3-HYDROXY-5-(HYDROXYMETHYL)-2-METHYLISONICOTINALDEHYDE</synonym>
+	</synonyms>
+</metadata>

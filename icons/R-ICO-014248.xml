@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>RAF1</name>
+	<description>RAF proto-oncogene serine/threonine-protein kinase</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04049</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Proto-oncogene c-RAF</synonym>
+		<synonym>cRaf</synonym>
+		<synonym>Raf-1</synonym>
+		<synonym>RAF</synonym>
+	</synonyms>
+</metadata>

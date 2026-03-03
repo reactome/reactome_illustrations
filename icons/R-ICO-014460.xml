@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>5hmC-DNA</name>
+	<description>5-Hydroxymethylcytosine is a DNA pyrimidine nitrogen base derived from cytosine.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>PUBCHEM</db>
+			<id>405234855</id>
+		</reference>
+	</references>
+</metadata>

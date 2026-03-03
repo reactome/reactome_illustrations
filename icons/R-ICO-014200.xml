@@ -1,0 +1,46 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TNKS</name>
+	<description>Graphic represntation of Poly [ADP-ribose] polymerase tankyrase-1 or 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O95271</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O95271</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ADP-ribosyltransferase diphtheria toxin-like 5</synonym>
+		<synonym>ADP-ribosyltransferase diphtheria toxin-like 6</synonym>
+		<synonym>ARTD5</synonym>
+		<synonym>ARTD6</synonym>
+		<synonym>Poly [ADP-ribose] polymerase 5A</synonym>
+		<synonym>Poly [ADP-ribose] polymerase 5B</synonym>
+		<synonym>Protein poly-ADP-ribosyltransferase tankyrase-1</synonym>
+		<synonym>Protein poly-ADP-ribosyltransferase tankyrase-2</synonym>
+		<synonym>TNKS-1</synonym>
+		<synonym>TNKS-2</synonym>
+		<synonym>TRF1-interacting ankyrin-related ADP-ribose polymerase</synonym>
+		<synonym>TRF1-interacting ankyrin-related ADP-ribose polymerase 2</synonym>
+		<synonym>Tankyrase I</synonym>
+		<synonym>Tankyrase II</synonym>
+		<synonym>PARPL</synonym>
+		<synonym>TIN1</synonym>
+		<synonym>TINF1</synonym>
+		<synonym>TNKS1</synonym>
+		<synonym>PARP5B</synonym>
+		<synonym>TNKL</synonym>
+		<synonym>Tankyrase-like protein</synonym>
+		<synonym>Tankyrase-related protein</synonym>
+		<synonym>TANK1</synonym>
+		<synonym>TANK2</synonym>
+	</synonyms>
+</metadata>

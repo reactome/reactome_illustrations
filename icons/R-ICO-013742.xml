@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MT-ND3</name>
+	<description>Mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>ENSEMBL</db>
+			<id>ENSG00000198840</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P03897</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MTND3</synonym>
+		<synonym>NADH3</synonym>
+		<synonym>ND3</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

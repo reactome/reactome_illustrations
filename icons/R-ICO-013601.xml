@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0003-0705-9809" role="curator">Rahuman Sheriff</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>SEROTONIN</name>
+    <description>An ammonium ion that is the conjugate acid of serotonin.</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:350546</id>
+        </reference>
+    </references>
+</metadata>

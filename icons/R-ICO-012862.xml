@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>IL-1A</name>
+    <description>Interleukin 1 alpha (IL-1α) also known as hematopoietin 1 is a cytokine of the interleukin 1 family</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P01583</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>IL1A</synonym>
+    </synonyms>
+</metadata>

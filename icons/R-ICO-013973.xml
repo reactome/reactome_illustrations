@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>UBE2N</name>
+	<description>Ubiquitin-conjugating enzyme E2 N</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P61088</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Bendless-like ubiquitin-conjugating enzyme</synonym>
+		<synonym>E2 ubiquitin-conjugating enzyme N</synonym>
+		<synonym>Ubc13</synonym>
+		<synonym>UbcH13</synonym>
+		<synonym>Ubiquitin carrier protein N</synonym>
+		<synonym>Ubiquitin-protein ligase N</synonym>
+		<synonym>BLU</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

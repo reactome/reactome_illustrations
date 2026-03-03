@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CRENOLANIB</name>
+	<description>Crenolanib (CP-868,596) is a potent and orally bioavailable benzamidazole Type I inhibitor of wild-type and mutant isoforms of the class III receptor tyrosine kinases FLT3 (FMS-like tyrosine kinase 3), PDGFRα (platelet-derived growth factor receptor), and PDGFRβ. It preferentially binds to phosphorylated active kinases in the 'DFG in' conformation.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7882</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>ARO-002</synonym>
+		<synonym>CP 868596</synonym>
+		<synonym>CP-868,596 </synonym>
+		<synonym>CP-868596</synonym>
+	</synonyms>
+</metadata>

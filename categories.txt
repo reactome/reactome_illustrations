@@ -1,0 +1,8 @@
+arrow
+cell_element
+cell_type
+compound
+human_tissue
+protein
+receptor
+transporter

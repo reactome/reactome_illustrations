@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>bHMG-CoA</name>
+	<description>An acyl-CoA oxoanion that results from the removal of all five protons from the phosphate and carboxylic acid groups of (3S)-3-hydroxy-3-methylglutaryl-CoA.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:43074</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>(3S)-3-hydroxy-3-methylglutaryl-CoA(5−)</synonym>
+		<synonym>(3S)-hydroxy-3-methylglutaryl-CoA</synonym>
+		<synonym>3-HYDROXY-3-METHYLGLUTARYL-COENZYME A</synonym>
+	</synonyms>
+</metadata>

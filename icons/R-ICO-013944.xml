@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Listeria monocytogenes</name>
+	<description>Listeria monocytogenes is the species of pathogenic bacteria that causes the infection listeriosis. It is a facultative anaerobic bacterium, capable of surviving in the presence or absence of oxygen. It can grow and reproduce inside the host's cells and is one of the most virulent foodborne pathogens, with 20 to 30% of foodborne listeriosis infections in high-risk individuals may be fatal</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>OMIT</db>
+			<id>OMIT:0009172</id>
+		</reference>
+	</references>
+</metadata>

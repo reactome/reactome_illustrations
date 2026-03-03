@@ -1,0 +1,21 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+    <person role="curator" orcid="0000-0001-5807-0069">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>VLDLR</name>
+    <description>Very low-density lipoprotein receptor</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P98155</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>VLDL-R</synonym>
+        <synonym>VLDL receptor</synonym>
+    </synonyms>
+</metadata>

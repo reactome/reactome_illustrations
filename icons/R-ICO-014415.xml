@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Gene deletion</name>
+	<description>A type of mutant phenotype evidence resulting from a mutation in which there is the removal of one or more contiguous nucleotides that may result in altered function or other measurable properties.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>ECO</db>
+			<id>ECO:0001038</id>
+		</reference>
+	</references>
+</metadata>

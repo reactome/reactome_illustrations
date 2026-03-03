@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>RPS6KB2</name>
+	<description>Ribosomal protein S6 kinase beta-2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UBS0</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>S6K-beta-2</synonym>
+		<synonym>S6K2</synonym>
+		<synonym>P70S6K2</synonym>
+		<synonym>p70-S6K 2</synonym>
+		<synonym>SRK</synonym>
+		<synonym>Serine/threonine-protein kinase 14B</synonym>
+		<synonym>S6K-beta</synonym>
+		<synonym>p70 S6 kinase beta</synonym>
+		<synonym>STK14B</synonym>
+	</synonyms>
+</metadata>

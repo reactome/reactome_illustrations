@@ -1,0 +1,27 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IFIT2</name>
+	<description>Interferon-induced protein with tetratricopeptide repeats 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P09913</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>IFIT-2</synonym>
+		<synonym>ISG-54 K</synonym>
+		<synonym>Interferon-induced 54 kDa protein</synonym>
+		<synonym>IFI-54K</synonym>
+		<synonym>P54</synonym>
+		<synonym>CIG-42</synonym>
+		<synonym>G10P2</synonym>
+		<synonym>IFI54</synonym>
+		<synonym>ISG54</synonym>
+	</synonyms>
+</metadata>

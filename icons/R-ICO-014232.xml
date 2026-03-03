@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>human_tissue</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Human head with eye section</name>
+	<description>Graphic representation of a human head with a sectioned eye</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0000033</id>
+		</reference>
+		<reference>
+			<db>UBERON</db>
+			<id>UBERON:0000970</id>
+		</reference>
+	</references>
+</metadata>

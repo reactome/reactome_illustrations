@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0002-2187-2241" role="curator">Veronica Shamovsky</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>CASPASE</name>
+    <description>A protein complex that is located in the cytosol and contains one or more cysteine-type endopeptidases (also called caspases), which give the complex a peptidase activity with specificity for the hydrolysis of aspartyl bonds. These complexes may be involved e.g. in apoptotic or inflammation processes</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0008303</id>
+        </reference>
+    </references>
+</metadata>

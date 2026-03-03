@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>rev</name>
+	<description>Escorts unspliced or incompletely spliced viral pre-mRNAs (late transcripts) out of the nucleus of infected cells</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P04618</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Protein Rev</synonym>
+		<synonym>ART/TRS</synonym>
+		<synonym>Anti-repression transactivator</synonym>
+		<synonym>Regulator of expression of viral proteins</synonym>
+	</synonyms>
+</metadata>

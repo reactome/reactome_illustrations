@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Ketone bodies</name>
+	<description>A carbonyl compound produced as a water-soluble byproduct when fatty acids are broken down for energy in the liver. There are three endogenous ketone bodies: acetone, acetoacetic acid, and (R)-3-hydroxybutyric acid; others may be produced as a result of the metabolism of synthetic triglycerides</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:73693</id>
+		</reference>
+	</references>
+</metadata>

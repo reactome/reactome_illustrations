@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>REGORAFENIB</name>
+	<description>Regorafenib is an inhibitor of multiple membrane-bound and intracellular kinases. Although the drug is approved it must carry a Boxed Warning alerting patients and clinicians that severe and fatal liver toxicity was observed in some patients in regorafenib clinical studies. Regorafenib is a Type-2 kinase inhibitor.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5891</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BAY 73-4506</synonym>
+		<synonym>Stivarga</synonym>
+		<synonym>Stivarga®</synonym>
+	</synonyms>
+</metadata>

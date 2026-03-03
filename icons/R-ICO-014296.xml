@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CDK5R1-p25</name>
+	<description>A proline-directed serine/threonine kinase complex that functions in neuronal activities unrelated to cell-cycle progression, including neuronal migration during the development of the central nervous system, dendritic spine morphogenesis, cortical lamination, fasciculation of axon fibres, synaptic activity, neuronal survival, and neuronal cell death in post-mitotic neurons.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q15078</id>
+		</reference>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-3142</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>p25</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TLR3 homodimer</name>
+	<description>Key component of innate and adaptive immunity. TLRs (Toll-like receptors) control host immune response against pathogens through recognition of molecular patterns specific to microorganisms. TLR3 is a nucleotide-sensing TLR which is activated by double-stranded RNA, a sign of viral infection</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O15455</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CD283</synonym>
+	</synonyms>
+</metadata>

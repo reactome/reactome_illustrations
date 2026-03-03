@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>PERTUZUMAB</name>
+	<description>Pertuzumab (also called 2C4) is a monoclonal antibody used in combination with trastuzumab and docetaxel for the treatment of metastatic HER2-positive breast cancer; it also used in the same combination as a neoadjuvant in early HER2-positive breast cancer</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5046</id>
+		</reference>
+	</references>
+</metadata>

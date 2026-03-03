@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3699-0937">Krishna Tiwari</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TGFB2</name>
+	<description>Transforming growth factor beta-2 proprotein.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P61812</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

@@ -1,0 +1,21 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5038-1185" role="curator">Kaiqiang You</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Perinucleolar compartment</name>
+    <description>The perinucleolar compartment (PNC) is a subnuclear structure associated with, but structurally distinct from, the nucleolus</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0097356</id>
+        </reference>
+    </references>
+    <synonyms>
+    	<synonym>PNC</synonym>
+        <synonym>Perinucleolar region</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

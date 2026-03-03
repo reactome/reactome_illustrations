@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Pre-integration complex</name>
+	<description>A nucleoprotein complex containing viral genetic material and associated viral and host proteins, which is capable of inserting a viral genome into a host genome</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0019035</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PIC</synonym>
+	</synonyms>
+</metadata>

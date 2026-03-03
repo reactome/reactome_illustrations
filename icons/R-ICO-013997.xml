@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TAB2</name>
+	<description>TGF-beta-activated kinase 1 and MAP3K7-binding protein 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NYJ8</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Mitogen-activated protein kinase kinase kinase 7-interacting protein 2</synonym>
+		<synonym>TAK1-binding protein 2</synonym>
+		<synonym>TAB-2</synonym>
+		<synonym>TGF-beta-activated kinase 1-binding protein 2</synonym>
+		<synonym>KIAA0733</synonym>
+		<synonym>MAP3K7IP2</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

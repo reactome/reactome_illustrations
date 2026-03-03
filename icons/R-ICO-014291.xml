@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GALNT3</name>
+	<description>Polypeptide N-acetylgalactosaminyltransferase 3</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q14435</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Polypeptide GalNAc transferase 3</synonym>
+		<synonym>GalNAc-T3</synonym>
+		<synonym>pp-GaNTase 3</synonym>
+		<synonym>Protein-UDP acetylgalactosaminyltransferase 3</synonym>
+		<synonym>UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 3</synonym>
+	</synonyms>
+</metadata>

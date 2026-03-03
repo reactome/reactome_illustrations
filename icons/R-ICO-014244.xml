@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MLKL</name>
+	<description>Mixed lineage kinase domain-like protein</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8NB16</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>hMLKL</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,37 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+		<category>receptor</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>TLR2:1,2:6 heterodimer</name>
+	<description>Representation of Toll-like 2 binding TLR1 or TLR6</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q15399</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9Y2C9</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O60603</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CD281</synonym>
+		<synonym>KIAA0012</synonym>
+		<synonym>CD286</synonym>
+		<synonym>CD282</synonym>
+		<synonym>TIL4</synonym>
+		<synonym>Toll/interleukin-1 receptor-like protein 4</synonym>
+		<synonym>TLR2</synonym>
+		<synonym>TLR1</synonym>
+		<synonym>TLR6</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

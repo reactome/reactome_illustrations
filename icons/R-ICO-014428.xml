@@ -1,0 +1,16 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>F10a</name>
+	<description>Coagulation factor Xa complex.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-6215</id>
+		</reference>
+	</references>
+</metadata>

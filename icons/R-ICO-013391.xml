@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Spindle fibers</name>
+    <description>Spindle fibers form a protein structure that divides the genetic material in a cell. The spindle is necessary to equally divide the chromosomes in a parental cell into two daughter cells during both types of nuclear division: mitosis and meiosis</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:1990498</id>
+        </reference>
+    </references>
+</metadata>

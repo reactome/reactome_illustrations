@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GDP dissociation inhibitors</name>
+	<description>Protein factors that inhibit the dissociation of GDP from GTP-BINDING PROTEINS</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>MESH</db>
+			<id>D020730</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Guanine Nucleotide Dissociation Inhibitors</synonym>
+		<synonym>GDIs</synonym>
+		<synonym>GDP Dissociation Inhibitor</synonym>
+		<synonym>GDI Proteins</synonym>
+		<synonym>GDP Dissociation Inhibitors</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,29 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IFIT3</name>
+	<description>Interferon-induced protein with tetratricopeptide repeats 3</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O14879</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CIG49</synonym>
+		<synonym>ISG-60</synonym>
+		<synonym>IFI-60K</synonym>
+		<synonym>IFIT-4</synonym>
+		<synonym>P60</synonym>
+		<synonym>RIG-G</synonym>
+		<synonym>CIG-49</synonym>
+		<synonym>IFI60</synonym>
+		<synonym>IFIT4</synonym>
+		<synonym>ISG60</synonym>
+		<synonym>IFIT-3</synonym>
+	</synonyms>
+</metadata>

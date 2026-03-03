@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>B3GLCT</name>
+	<description>Beta-1,3-glucosyltransferase</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q6Y288</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Beta3Glc-T</synonym>
+		<synonym>Beta 3-glucosyltransferase</synonym>
+		<synonym>Beta-3-glycosyltransferase-like</synonym>
+		<synonym>B3GALTL</synonym>
+		<synonym>B3GTL</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>DASATINIB</name>
+	<description>Dasatinib is a Type-1 kinase inhibitor and was first approved by the FDA in 2006.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>5678</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BMS 345825</synonym>
+		<synonym>BMS 354825</synonym>
+		<synonym>BMS 35482513</synonym>
+		<synonym>Sprycel</synonym>
+		<synonym>Sprycel®</synonym>
+	</synonyms>
+</metadata>

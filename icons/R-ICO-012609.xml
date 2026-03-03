@@ -1,0 +1,17 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+        <category>protein</category>
+    </categories>
+    <person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>DAP12</name>
+    <description>DAP12 signaling subunits are highly conserved in evolution and associate with a large family of receptors in hematopoietic cells, including dendritic cells, plasmacytoid dendritic cells, neutrophils, basophils, eosinophils, mast cells, monocytes, macrophages, natural killer cells, and some B and T cells</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>O43914</id>
+        </reference>
+    </references>
+</metadata>

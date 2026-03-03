@@ -1,0 +1,26 @@
+<metadata>
+	<categories>
+		<category>cell_element</category>
+	</categories>
+	<person role="curator" orcid="0000-0001-5193-0855">Bruce May</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MT-CO1</name>
+	<description>Mitochondrially encoded cytochrome c oxidase I</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>ENSEMBL</db>
+			<id>ENSG00000198804</id>
+		</reference>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P00395</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>COI</synonym>
+		<synonym>COXI</synonym>
+		<synonym>MTCO1</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

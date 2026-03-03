@@ -1,0 +1,20 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0002-5038-1185" role="curator">Kaiqiang You</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PcG body</name>
+    <description>A chromatin-associated multiprotein complex containing Polycomb Group proteins</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>GO</db>
+            <id>GO:0031519</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Polycomb Group protein complex</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

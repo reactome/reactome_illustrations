@@ -1,0 +1,22 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>botA</name>
+	<description>Botulinum neurotoxin type A</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P0DPI0</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>BoNT/A</synonym>
+		<synonym>Bontoxilysin-A</synonym>
+		<synonym>BOTOX</synonym>
+		<synonym>Botulinum neurotoxin type A1</synonym>
+	</synonyms>
+</metadata>

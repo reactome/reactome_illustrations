@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ALG11</name>
+	<description>GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q2TAA5</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Asparagine-linked glycosylation protein 11 homolog</synonym>
+		<synonym>Glycolipid 2-alpha-mannosyltransferase</synonym>
+		<synonym>GT8</synonym>
+	</synonyms>
+</metadata>

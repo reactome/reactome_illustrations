@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>MAL</name>
+	<description>An optically active form of malate having (S)-configuration.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:15589</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>(2S)-2-hydroxybutanedioate</synonym>
+		<synonym>(S)-malate</synonym>
+		<synonym>L-malate</synonym>
+	</synonyms>
+</metadata>

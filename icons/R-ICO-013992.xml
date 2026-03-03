@@ -1,0 +1,32 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CHUK</name>
+	<description>Inhibitor of nuclear factor kappa-B kinase subunit alpha</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>O15111</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>I-kappa-B kinase alpha</synonym>
+		<synonym>IKK-A</synonym>
+		<synonym>IKK-alpha</synonym>
+		<synonym>IkBKA</synonym>
+		<synonym>IkappaB kinase</synonym>
+		<synonym>Conserved helix-loop-helix ubiquitous kinase</synonym>
+		<synonym>I-kappa-B kinase 1</synonym>
+		<synonym>IKK1</synonym>
+		<synonym>Nuclear factor NF-kappa-B inhibitor kinase alpha</synonym>
+		<synonym>NFKBIKA</synonym>
+		<synonym>Transcription factor 16</synonym>
+		<synonym>TCF-16</synonym>
+		<synonym>IKKA</synonym>
+		<synonym>TCF16</synonym>
+	</synonyms>
+</metadata>

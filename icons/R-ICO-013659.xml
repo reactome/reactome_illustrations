@@ -1,0 +1,24 @@
+<metadata>
+    <categories>
+        <category>receptor</category>
+    </categories>
+    <person orcid="0000-0003-0705-9809" role="curator">Rahuman Sheriff</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>ITGA2</name>
+    <description>Integrin alpha-2</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>UNIPROT</db>
+            <id>P17301</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>CD49 antigen-like family member B</synonym>
+        <synonym>Collagen receptor</synonym>
+        <synonym>GPIa</synonym>
+        <synonym>VLA-2 subunit alpha</synonym>
+        <synonym>CD49B</synonym>
+    </synonyms>
+    <skip>true</skip>
+</metadata>

@@ -1,0 +1,28 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person orcid="0000-0001-5807-0069" role="curator">Steve Jupe</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CDKN2A</name>
+	<description>Cyclin-dependent kinase inhibitor 2A</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P42771</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Cyclin-dependent kinase 4 inhibitor A</synonym>
+		<synonym>CDK4I</synonym>
+		<synonym>Multiple tumor suppressor 1</synonym>
+		<synonym>MTS-1</synonym>
+		<synonym>MTS1</synonym>
+		<synonym>CDKN2</synonym>
+		<synonym>p16INK4A</synonym>
+		<synonym>p16-INK4</synonym>
+		<synonym>p16-INK4a</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

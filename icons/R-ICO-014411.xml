@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CRIZOTINIB</name>
+	<description>Critzotinib is a Type-1 kinase inhibitor and was first approved by the FDA in 2011. It inhibits ALK, cMET and ROS1 receptor tyrosine kinases. Critzotinib is a chiral molecule that exploits the three-dimensional space of the ATP pocket to achieve optimal potency and selectivity. The R-enantiomer as shown here exhibits better potency than the either the racemate or S-isomer and the approved drug should contain only the R-enantiomer.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>4903</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>(R)-crizotinib</synonym>
+		<synonym>PF 2341066</synonym>
+		<synonym>PF-02341066</synonym>
+		<synonym>PF-2341066</synonym>
+		<synonym>PF2341066</synonym>
+		<synonym>Xalkori</synonym>
+		<synonym>Xalkori®</synonym>
+	</synonyms>
+</metadata>

@@ -1,0 +1,30 @@
+<metadata>
+	<categories>
+		<category>receptor</category>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>detailed CD274</name>
+	<description>Programmed cell death 1 ligand 1</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NZQ7</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>PD-L1</synonym>
+		<synonym>PDCD1 ligand 1</synonym>
+		<synonym>Programmed death ligand 1</synonym>
+		<synonym>hPD-L1</synonym>
+		<synonym>B7 homolog 1</synonym>
+		<synonym>B7-H1</synonym>
+		<synonym>B7H1</synonym>
+		<synonym>PDCD1L1</synonym>
+		<synonym>PDCD1LG1</synonym>
+		<synonym>PDL1</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

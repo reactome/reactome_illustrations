@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-4650-631X">Ralf Stephan</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>NFE2L2</name>
+	<description>Nuclear factor erythroid 2-related factor 2</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q16236</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>NF-E2-related factor 2</synonym>
+		<synonym>NFE2-related factor 2</synonym>
+		<synonym>Nrf-2</synonym>
+		<synonym>HEBP1</synonym>
+		<synonym>Nuclear factor, erythroid derived 2, like 2</synonym>
+		<synonym>NRF2</synonym>
+	</synonyms>
+</metadata>

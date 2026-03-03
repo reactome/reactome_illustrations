@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>GALNT12</name>
+	<description>Polypeptide N-acetylgalactosaminyltransferase 12</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q8IXK2</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Polypeptide GalNAc transferase 12</synonym>
+		<synonym>GalNAc-T12</synonym>
+		<synonym>pp-GaNTase 12</synonym>
+		<synonym>Protein-UDP acetylgalactosaminyltransferase 12</synonym>
+		<synonym>UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 12</synonym>
+	</synonyms>
+</metadata>

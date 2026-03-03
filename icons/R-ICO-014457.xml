@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>HYDROXYATORVASTATIN LACTONE</name>
+	<description>Graphic representation of an intermediate metabolite of the statin drug atorvastatin.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:180934</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>OH-ATVL</synonym>
+		<synonym>4-OH-ATVL</synonym>
+	</synonyms>
+</metadata>

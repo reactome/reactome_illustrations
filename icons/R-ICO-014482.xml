@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>SHOC2</name>
+	<description>Leucine-rich repeat protein SHOC-2.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9UQ13</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Protein soc-2 homolog</synonym>
+		<synonym>Protein sur-8 homolog</synonym>
+		<synonym>KIAA0862</synonym>
+	</synonyms>
+</metadata>

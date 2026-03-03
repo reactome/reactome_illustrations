@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>transporter</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>ABCB6</name>
+	<description>ATP-binding cassette sub-family B member 6, mitochondrial</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q9NP58</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Mitochondrial ABC transporter 3</synonym>
+		<synonym>Mt-ABC transporter 3</synonym>
+		<synonym>P-glycoprotein-related protein</synonym>
+		<synonym>Ubiquitously-expressed mammalian ABC half transporter</synonym>
+		<synonym>MTABC3</synonym>
+		<synonym>PRP</synonym>
+		<synonym>UMAT</synonym>
+	</synonyms>
+</metadata>

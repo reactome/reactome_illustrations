@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-2187-2241">Veronica Shamovsky</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>F8</name>
+	<description>Coagulation factor VIII</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P00451</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Antihemophilic factor</synonym>
+		<synonym>AHF</synonym>
+		<synonym>F8C</synonym>
+	</synonyms>
+</metadata>

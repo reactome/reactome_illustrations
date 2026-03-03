@@ -1,0 +1,25 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Folic acid</name>
+	<description>An N-acyl-amino acid that is a form of the water-soluble vitamin B9. Its biologically active forms (tetrahydrofolate and others) are essential for nucleotide biosynthesis and homocysteine remethylation</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:27470</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>FOLA</synonym>
+		<synonym>Folate</synonym>
+		<synonym>N-pteroyl-L-glutamic acid</synonym>
+		<synonym>PGA</synonym>
+		<synonym>PteGlu</synonym>
+		<synonym>vitamin Bc</synonym>
+		<synonym>vitamin M</synonym>
+	</synonyms>
+</metadata>

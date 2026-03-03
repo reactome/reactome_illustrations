@@ -1,0 +1,24 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>LARP7</name>
+	<description>RNA-binding protein that specifically binds distinct small nuclear RNA (snRNAs) and regulates their processing and function</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>Q4G0J3</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>La-related protein 7</synonym>
+		<synonym>La ribonucleoprotein domain family member 7</synonym>
+		<synonym>hLARP7</synonym>
+		<synonym>P-TEFb-interaction protein for 7SK stability</synonym>
+		<synonym>PIP7S</synonym>
+		<synonym>HDCMA18P</synonym>
+	</synonyms>
+</metadata>

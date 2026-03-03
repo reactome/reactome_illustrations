@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Fasciola hepatica</name>
+	<description>Fasciola hepatica, also known as the common liver fluke or sheep liver fluke, is a parasitic trematode (fluke or flatworm, a type of helminth) of the class Trematoda, phylum Platyhelminthes.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT-T</db>
+			<id>6192</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>liver fluke</synonym>
+	</synonyms>
+</metadata>

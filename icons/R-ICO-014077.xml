@@ -1,0 +1,17 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>C5 convertase</name>
+	<description>C5 convertase is an enzyme belonging to a family of serine proteases that play key role in the innate immunity. It participates in the complement system ending with cell death. There are four different C5 convertases able to specifically convert the protein C5 to C5a and C5b fragments. Two of the convertases are physiological complement enzymes, associate to the cell-surface and mediate the classical pathway (C4b2b3b, or C4b2a3b depending on source) or the alternative pathway (C3bBbC3b) of complement system</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>COMPLEXPORTAL</db>
+			<id>CPX-5604</id>
+		</reference>
+	</references>
+	<skip>true</skip>
+</metadata>

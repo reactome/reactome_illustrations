@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Molybdate</name>
+	<description>A divalent inorganic anion obtained by removal of both protons from molybdic acid</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:36264</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>MoO4(2-)</synonym>
+	</synonyms>
+</metadata>

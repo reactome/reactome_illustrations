@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>cell_type</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Taenia saginata</name>
+	<description>Taenia saginata, commonly known as the beef tapeworm, is a zoonotic tapeworm belonging to the order Cyclophyllidea and genus Taenia.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT-T</db>
+			<id>6206</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Cysticercus bovis</synonym>
+	</synonyms>
+</metadata>

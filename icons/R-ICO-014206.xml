@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>11-cis-retinal</name>
+	<description>A retinal having 2E,4Z,6E,8E-double bond geometry</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16066</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>11-cis-retinene</synonym>
+		<synonym>11-cis-vitamin A aldehyde</synonym>
+	</synonyms>
+</metadata>

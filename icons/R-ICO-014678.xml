@@ -1,0 +1,19 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-0705-7048">Karen Rothfels</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>IVD</name>
+	<description>Isovaleryl-CoA dehydrogenase, mitochondrial.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>UNIPROT</db>
+			<id>P26440</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>Butyryl-CoA dehydrogenase</synonym>
+	</synonyms>
+</metadata>

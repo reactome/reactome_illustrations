@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Methyl group</name>
+    <description>A methyl group is an alkyl derived from methane, containing one carbon atom bonded to three hydrogen atoms</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:32875</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>CH3</synonym>
+    </synonyms>
+</metadata>

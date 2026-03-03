@@ -1,0 +1,23 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Cobamamide</name>
+	<description>A member of the class of cobalamins that is vitamin B12 in which the cyano group is replaced by a 5'-deoxyadenos-5'-yl moiety. It is one of the two metabolically active form of vitamin B12</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:18408</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AdoCbl</synonym>
+		<synonym>Vitamin B12 coenzyme</synonym>
+		<synonym>Dibencozide</synonym>
+		<synonym>Cobalamin coenzyme</synonym>
+		<synonym>Adenosylcobalamin</synonym>
+	</synonyms>
+</metadata>

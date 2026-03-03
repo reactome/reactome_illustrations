@@ -1,0 +1,10 @@
+<metadata>
+    <categories>
+        <category>cell_element</category>
+    </categories>
+    <person orcid="0000-0001-5193-0855" role="curator">Bruce May</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>gRNA</name>
+    <description>Guide RNAs, or gRNA, are the RNAs that guide the insertion or deletion of uridine residues into mitochondrial mRNAs in kinetoplastid protists in a process known as RNA editing</description>
+    <info>https://reactome.org/icon-info</info>
+</metadata>

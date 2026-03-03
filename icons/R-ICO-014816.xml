@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-3218-5631">Marija Orlic-Milacic</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>AEE788</name>
+	<description>AEE788 is a reversible inhibitor of EGFR, HER2 and VEGFR1-3 with antitumor and antiangiogenic activity. This compound has been evaluated in phase I clinical trial where inhibition of EGFR was reported.</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>IUPHAR</db>
+			<id>7643</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>AEE 788</synonym>
+		<synonym>NVP-AEE788</synonym>
+	</synonyms>
+</metadata>

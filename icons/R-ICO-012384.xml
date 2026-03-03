@@ -1,0 +1,19 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person orcid="0000-0002-3218-5631" role="curator">Marija Orlic-Milacic</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>Acetyl group</name>
+    <description>The acetyl group contains a methyl group single-bonded to a carbonyl</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+        <reference>
+            <db>CHEBI</db>
+            <id>CHEBI:40574</id>
+        </reference>
+    </references>
+    <synonyms>
+        <synonym>Ac</synonym>
+    </synonyms>
+</metadata>

@@ -1,0 +1,20 @@
+<metadata>
+	<categories>
+		<category>protein</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-7864-5971">Thawfeek Varusai</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>CBM complex</name>
+	<description>A protein complex comprising CARD11, BCL10 and MALT1; plays a role in signal transduction during NF-kappaB activation</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>GO</db>
+			<id>GO:0032449</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>CARMA1-BCL10-Malt1 complex</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

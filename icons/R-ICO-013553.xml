@@ -1,0 +1,16 @@
+<metadata>
+    <categories>
+        <category>compound</category>
+    </categories>
+    <person role="curator" orcid="0000-0002-5494-626X">Peter D'Eustachio</person>
+    <person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+    <name>PURINES</name>
+    <description>Purine is a heterocyclic aromatic organic compound that consists of a pyrimidine ring fused to an imidazole ring</description>
+    <info>https://reactome.org/icon-info</info>
+    <references>
+    	<reference>
+            <db>CHEBI</db>
+            <id>CHEBI:17258</id>
+        </reference>
+    </references>
+</metadata>

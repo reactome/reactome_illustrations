@@ -1,0 +1,14 @@
+<metadata>
+	<categories>
+		<category>therapeutic</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5766-1702">Marc Gillespie</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>INSTI</name>
+	<description>Integrase inhibitors are a class of antiretroviral drug designed to block the action of integrase, a viral enzyme that inserts the viral genome into the DNA of the host cell</description>
+	<info>https://reactome.org/icon-info</info>
+	<synonyms>
+		<synonym>Integrase Strand Transfer Inhibitors</synonym>
+	</synonyms>
+	<skip>true</skip>
+</metadata>

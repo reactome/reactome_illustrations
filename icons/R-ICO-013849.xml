@@ -1,0 +1,21 @@
+<metadata>
+	<categories>
+		<category>compound</category>
+	</categories>
+	<person role="curator" orcid="0000-0002-5039-5405">Bijay Jassal</person>
+	<person role="designer" url="https://graphsolutions.co.uk">Cristoffer Sevilla</person>
+	<name>Bilirubin</name>
+	<description>A member of the class of biladienes that is a linear tetrapyrrole with the dipyrrole units being of both exovinyl and endovinyl type. A product of heme degradation, it is produced in the reticuloendothelial system by the reduction of biliverdin and transported to the liver as a complex with serum albumin</description>
+	<info>https://reactome.org/icon-info</info>
+	<references>
+		<reference>
+			<db>CHEBI</db>
+			<id>CHEBI:16990</id>
+		</reference>
+	</references>
+	<synonyms>
+		<synonym>bilirubin(Z,Z)</synonym>
+		<synonym>bilirubin-IXα</synonym>
+		<synonym>1,10,19,22,23,24-hexahydro-2,7,13,17-tetramethyl-1,19-dioxo-3,18-divinylbiline-8,12-dipropionic acid</synonym>
+	</synonyms>
+</metadata>
