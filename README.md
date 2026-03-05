@@ -13,7 +13,7 @@ SVG icons and EHLD diagrams for [Reactome](https://reactome.org/) pathway diagra
 ## Prerequisites
 
 - Python 3 with `requests` (`pip install requests`)
-- Docker (for the [icon-validator](https://github.com/reactome/icon-validator))
+- Docker (for the [illustration-validator](https://github.com/reactome/illustration-validator))
 - A Figma personal access token
 
 ## Usage
@@ -39,7 +39,7 @@ python3 download_illustrations.py --skip-validation
 1. Connects to the Figma API and finds all components/frames on the "Export" page
 2. Exports icons (`R-ICO-*`) and EHLD diagrams (`R-HSA-*`) as SVGs
 3. Clears existing SVGs and saves the new ones (icon XML metadata files are preserved)
-4. Runs the icon-validator Docker container to validate:
+4. Runs the illustration-validator Docker container to validate:
    - **Icons**: XML metadata (categories, references, curator info)
    - **EHLDs**: SVG structure (BG, LOGO, REGION/OVERLAY groups)
 

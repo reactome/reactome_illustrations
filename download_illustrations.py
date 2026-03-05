@@ -3,7 +3,7 @@
 Download Reactome icons and EHLD diagrams from Figma and validate them.
 
 Downloads all R-ICO- icons and R-HSA- EHLD diagrams from their respective
-Figma files, saves them as SVGs, and runs the icon-validator to validate
+Figma files, saves them as SVGs, and runs the illustration-validator to validate
 icon XML metadata and EHLD SVG structure.
 
 Usage:
@@ -36,7 +36,7 @@ EHLD_DIR = os.path.join(SCRIPT_DIR, "ehld")
 REFERENCES_FILE = os.path.join(SCRIPT_DIR, "references.txt")
 CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "categories.txt")
 
-VALIDATOR_IMAGE = "public.ecr.aws/reactome/icon-validator:latest"
+VALIDATOR_IMAGE = "public.ecr.aws/reactome/illustration-validator:latest"
 
 ICON_BATCH_SIZE = 100
 EHLD_BATCH_SIZE = 50
@@ -227,7 +227,7 @@ def download_ehlds(token):
 # ── Validation ────────────────────────────────────────────────────────────────
 
 def validate(do_icons, do_ehlds):
-    """Run the icon-validator Docker container."""
+    """Run the illustration-validator Docker container."""
     print("\n" + "=" * 60)
     print("VALIDATING")
     print("=" * 60)
@@ -244,7 +244,7 @@ def validate(do_icons, do_ehlds):
     ]
 
     validator_args = [
-        "java", "-jar", "./target/icon-validator-jar-with-dependencies.jar",
+        "java", "-jar", "./target/illustration-validator-jar-with-dependencies.jar",
         "-r", "/app/references.txt",
         "-c", "/app/categories.txt",
         "-e", "false",
@@ -264,7 +264,7 @@ def validate(do_icons, do_ehlds):
 
     cmd += [VALIDATOR_IMAGE] + validator_args
 
-    print("Running icon-validator...")
+    print("Running illustration-validator...")
     result = subprocess.run(cmd, capture_output=True, text=True)
 
     # Print relevant output (skip per-file progress noise)
