@@ -33,8 +33,6 @@ EXPORT_PAGE_NAME = "Export"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ICONS_DIR = os.path.join(SCRIPT_DIR, "icons")
 EHLD_DIR = os.path.join(SCRIPT_DIR, "ehld")
-REFERENCES_FILE = os.path.join(SCRIPT_DIR, "references.txt")
-CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "categories.txt")
 
 VALIDATOR_IMAGE = "public.ecr.aws/reactome/illustration-validator:latest"
 
@@ -232,21 +230,12 @@ def validate(do_icons, do_ehlds):
     print("VALIDATING")
     print("=" * 60)
 
-    for f in [REFERENCES_FILE, CATEGORIES_FILE]:
-        if not os.path.exists(f):
-            print(f"Error: {f} not found. Cannot run validation.")
-            return False
-
     cmd = [
         "docker", "run", "--rm",
-        "-v", f"{REFERENCES_FILE}:/app/references.txt",
-        "-v", f"{CATEGORIES_FILE}:/app/categories.txt",
     ]
 
     validator_args = [
         "java", "-jar", "./target/illustration-validator-jar-with-dependencies.jar",
-        "-r", "/app/references.txt",
-        "-c", "/app/categories.txt",
         "-e", "false",
     ]
 

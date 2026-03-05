@@ -13,14 +13,10 @@ jobs:
       - name: Validate icons and EHLDs
         run: |
           docker run --rm \
-            -v ${{ github.workspace }}/references.txt:/app/references.txt \
-            -v ${{ github.workspace }}/categories.txt:/app/categories.txt \
             -v ${{ github.workspace }}/icons:/data/icons \
             -v ${{ github.workspace }}/ehld:/data/ehld \
             public.ecr.aws/reactome/illustration-validator:latest \
             java -jar ./target/illustration-validator-jar-with-dependencies.jar \
-            -r /app/references.txt \
-            -c /app/categories.txt \
             -e false \
             -d /data/icons \
             -s /data/ehld

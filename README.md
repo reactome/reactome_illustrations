@@ -7,8 +7,7 @@ SVG icons and EHLD diagrams for [Reactome](https://reactome.org/) pathway diagra
 - `icons/` - SVG icons and XML metadata files (R-ICO-XXXXXX.svg and .xml)
 - `ehld/` - EHLD diagram SVGs (R-HSA-XXXXXX.svg)
 - `download_illustrations.py` - Script to download icons and EHLDs from Figma and validate them
-- `references.txt` - Valid reference database names for the icon validator
-- `categories.txt` - Valid category names for the icon validator
+- `VERSION` - Current release version number
 
 ## Prerequisites
 
