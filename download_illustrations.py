@@ -195,16 +195,7 @@ def download_ehlds(token):
     page_id = get_export_page_id(token, EHLD_FILE_KEY)
     print(f"Found '{EXPORT_PAGE_NAME}' page (id: {page_id})")
 
-    # EHLDs are direct children of the Export page (frames, depth=1 is enough)
-    url = f"https://api.figma.com/v1/files/{EHLD_FILE_KEY}/nodes?ids={page_id}&depth=1"
-    resp = requests.get(url, headers=figma_headers(token))
-    resp.raise_for_status()
-    page_data = resp.json()["nodes"][page_id]["document"]
-    nodes = [
-        {"id": c["id"], "name": c["name"].strip()}
-        for c in page_data.get("children", [])
-        if c["name"].strip().startswith("R-HSA-")
-    ]
+    nodes = get_nodes_on_page(token, EHLD_FILE_KEY, page_id, "R-HSA-")
     print(f"Found {len(nodes)} EHLD diagrams")
     if not nodes:
         print("No EHLDs found!")

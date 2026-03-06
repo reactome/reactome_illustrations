@@ -494,7 +494,7 @@
 </g>
 <g id="Group_2">
 <path id="Vector_176" d="M648.281 165.243H647V137.398H648.281V165.243ZM647.073 165.17H648.209V137.471H647.073V165.17Z" fill="black"/>
-<path id="Vector_177" d="M648.281 122.864H647V118.06H648.281V122.864ZM647.073 122.791H648.209V118.133H647.073V122.791Z" fill="black"/>
+<path id="Vector_177" d="M648.281 122.864H647V118.061H648.281V122.864ZM647.073 122.791H648.209V118.133H647.073V122.791Z" fill="black"/>
 <path id="Vector_178" d="M648.281 103.526H647V98.7236H648.281V103.526ZM647.073 103.453H648.209V98.7963H647.073V103.453Z" fill="black"/>
 <path id="Vector_179" d="M648.281 84.1889H647V75H648.281V84.1889ZM647.073 84.1162H648.209V75.0727H647.073V84.1162Z" fill="black"/>
 </g>
@@ -2666,7 +2666,7 @@
 <stop stop-color="#54A0D3"/>
 <stop offset="1" stop-color="#1F3F53"/>
 </linearGradient>
-<linearGradient id="paint175_linear_1918_153888" x1="1156.01" y1="111.303" x2="1168.37" y2="123.663" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint175_linear_1918_153888" x1="1156.01" y1="111.302" x2="1168.37" y2="123.663" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.898174" stop-color="#0052AF"/>
 </linearGradient>
@@ -2674,7 +2674,7 @@
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.898174" stop-color="#0052AF"/>
 </linearGradient>
-<linearGradient id="paint177_linear_1918_153888" x1="1144.03" y1="111.303" x2="1131.67" y2="123.663" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint177_linear_1918_153888" x1="1144.03" y1="111.302" x2="1131.67" y2="123.663" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.898174" stop-color="#0052AF"/>
 </linearGradient>
