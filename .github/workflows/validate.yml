@@ -1,0 +1,22 @@
+name: Validate illustrations
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate icons and EHLDs
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}/icons:/data/icons \
+            -v ${{ github.workspace }}/ehld:/data/ehld \
+            public.ecr.aws/reactome/illustration-validator:latest \
+            java -jar ./target/illustration-validator-jar-with-dependencies.jar \
+            -e false \
+            -d /data/icons \
+            -s /data/ehld

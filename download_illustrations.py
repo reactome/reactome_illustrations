@@ -33,8 +33,6 @@ EXPORT_PAGE_NAME = "Export"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ICONS_DIR = os.path.join(SCRIPT_DIR, "icons")
 EHLD_DIR = os.path.join(SCRIPT_DIR, "ehld")
-REFERENCES_FILE = os.path.join(SCRIPT_DIR, "references.txt")
-CATEGORIES_FILE = os.path.join(SCRIPT_DIR, "categories.txt")
 
 VALIDATOR_IMAGE = "public.ecr.aws/reactome/illustration-validator:latest"
 
@@ -197,16 +195,7 @@ def download_ehlds(token):
     page_id = get_export_page_id(token, EHLD_FILE_KEY)
     print(f"Found '{EXPORT_PAGE_NAME}' page (id: {page_id})")
 
-    # EHLDs are direct children of the Export page (frames, depth=1 is enough)
-    url = f"https://api.figma.com/v1/files/{EHLD_FILE_KEY}/nodes?ids={page_id}&depth=1"
-    resp = requests.get(url, headers=figma_headers(token))
-    resp.raise_for_status()
-    page_data = resp.json()["nodes"][page_id]["document"]
-    nodes = [
-        {"id": c["id"], "name": c["name"].strip()}
-        for c in page_data.get("children", [])
-        if c["name"].strip().startswith("R-HSA-")
-    ]
+    nodes = get_nodes_on_page(token, EHLD_FILE_KEY, page_id, "R-HSA-")
     print(f"Found {len(nodes)} EHLD diagrams")
     if not nodes:
         print("No EHLDs found!")
@@ -232,21 +221,12 @@ def validate(do_icons, do_ehlds):
     print("VALIDATING")
     print("=" * 60)
 
-    for f in [REFERENCES_FILE, CATEGORIES_FILE]:
-        if not os.path.exists(f):
-            print(f"Error: {f} not found. Cannot run validation.")
-            return False
-
     cmd = [
         "docker", "run", "--rm",
-        "-v", f"{REFERENCES_FILE}:/app/references.txt",
-        "-v", f"{CATEGORIES_FILE}:/app/categories.txt",
     ]
 
     validator_args = [
         "java", "-jar", "./target/illustration-validator-jar-with-dependencies.jar",
-        "-r", "/app/references.txt",
-        "-c", "/app/categories.txt",
         "-e", "false",
     ]
 
