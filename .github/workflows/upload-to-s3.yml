@@ -1,0 +1,49 @@
+name: Upload illustrations to S3
+
+on:
+  pull_request:
+    branches: [main]
+    types: [closed]
+
+jobs:
+  upload:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check version is next release
+        run: |
+          REPO_VERSION=$(cat VERSION | tr -d '[:space:]')
+          PROD_VERSION=$(curl -s https://reactome.org/ContentService/data/database/version | tr -d '[:space:]')
+          EXPECTED_VERSION=$((PROD_VERSION + 1))
+
+          echo "Repo VERSION: $REPO_VERSION"
+          echo "Production version: $PROD_VERSION"
+          echo "Expected next version: $EXPECTED_VERSION"
+
+          if [ "$REPO_VERSION" != "$EXPECTED_VERSION" ]; then
+            echo "::error::VERSION ($REPO_VERSION) does not match expected next release ($EXPECTED_VERSION). Skipping upload."
+            exit 1
+          fi
+
+          echo "VERSION=$REPO_VERSION" >> $GITHUB_ENV
+
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE }}
+          aws-region: us-east-1
+
+      - name: Upload icons to S3
+        run: |
+          aws s3 sync icons/ "s3://${{ vars.S3_BUCKET }}/${{ env.VERSION }}/icons/svg/" \
+            --exclude "*.xml" \
+            --delete
+
+      - name: Upload EHLDs to S3
+        run: |
+          aws s3 sync ehld/ "s3://${{ vars.S3_BUCKET }}/${{ env.VERSION }}/ehld/" \
+            --delete
