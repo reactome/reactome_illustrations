@@ -46,4 +46,27 @@ python3 download_illustrations.py --skip-validation
 
 Each icon has a corresponding XML metadata file (`R-ICO-XXXXXX.xml`) containing categories, curator/designer info, descriptions, and database references. These are stored alongside the SVGs in the `icons/` directory.
 
-New XML metadata files must be created manually (or with a helper script) when new icons are added.
+To create new XML metadata files, use the **Icon XML Metadata Generator** (see below).
+
+## Icon XML Metadata Generator
+
+`icon-xml-generator.html` is a self-contained HTML tool for generating icon XML metadata files. Open it in a browser — no build tools or dependencies required.
+
+### Features
+
+- **Category selection** — loaded from the [illustration-validator](https://github.com/reactome/illustration-validator) `categories.txt`
+- **Curator search** — searches the Reactome Content Service for people by name, auto-fills ORCID
+- **Designer info** — pre-filled with defaults (Cristoffer Sevilla)
+- **Reference databases** — dropdown loaded from `references.txt`, with UniProt ID validation
+- **Synonyms** — add/remove as needed
+- **Live XML preview** — updates as you fill in the form
+- **Download** — saves the XML file with the correct filename
+
+### How to use
+
+1. Open `icon-xml-generator.html` in a browser
+2. Enter the icon identifier (e.g. `R-ICO-012345`)
+3. Select a category, search for a curator, and fill in the remaining fields
+4. Add references and synonyms as needed
+5. Click **Download XML** to save the file
+6. Move the downloaded `.xml` file into the `icons/` directory
