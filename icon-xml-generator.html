@@ -139,6 +139,16 @@
         line-height: 1;
     }
 
+    #designerSelect {
+    width: 100%;
+    padding: 0.5rem 0.7rem;
+    border: 1px solid #b2bec3;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-family: inherit;
+    background: #fff;
+}
+
     /* Repeatable rows */
     .repeatable-row {
         display: flex;
@@ -249,7 +259,7 @@
             <div class="form-group">
                 <label for="filename">Filename</label>
                 <div class="hint">e.g. R-ICO-012345</div>
-                <input type="text" id="filename" placeholder="R-ICO-XXXXXX">
+                <input type="text" id="filename" placeholder="R-ICO-XXXXXX | Press 'tab' to autofill 'R-ICO-'">
             </div>
 
             <!-- Categories -->
@@ -269,21 +279,31 @@
                     <div id="curatorResults" class="search-results"></div>
                 </div>
                 <div id="curatorSelected"></div>
+                <div id="manualCuratorSection" style="display:none; margin-top:0.5rem;">
+                    <div class="hint">Enter curator details manually</div>
+                    <div style="display:flex; gap:0.5rem; margin-top:0.3rem;">
+                        <input type="text" id="manualCuratorName" placeholder="Full name">
+                        <input type="text" id="manualCuratorOrcid" placeholder="ORCID">
+                    </div>
+                </div>
+                <div style="margin-top:0.4rem;">
+                    <label style="font-weight:normal; cursor:pointer;">
+                        <input type="checkbox" id="manualCuratorToggle" onchange="toggleManualCurator()">
+                        Enter curator manually
+                    </label>
+                </div>
             </div>
 
             <!-- Designer -->
             <div class="form-group">
                 <label>Designer</label>
-                <div style="display:flex;gap:0.5rem">
-                    <div style="flex:1">
-                        <div class="hint">Name</div>
-                        <input type="text" id="designerName" value="Cristoffer Sevilla">
-                    </div>
-                    <div style="flex:1">
-                        <div class="hint">URL</div>
-                        <input type="text" id="designerUrl" value="https://graphsolutions.co.uk">
-                    </div>
-                </div>
+                <select id="designerSelect" onchange="onDesignerSelect()">
+                    <option value="">-- Select a designer --</option>
+                    <option value="Cristoffer Sevilla|https://graphsolutions.co.uk">Cristoffer Sevilla, https://graphsolutions.co.uk</option>
+                    <option value="Nancy Li|0000-0002-2663-5245">Nancy Li, 0000-0002-2663-5245</option>
+                    <option value="Junaid Haque|0009-0002-7406-2389">Junaid Haque, 0009-0002-7406-2389</option>
+                    <!--<option value="NEW DESIGNER HERE|LINK/ORCID HERE">NEW DESIGNER HERE, LINK/ORCID HERE</option>-->        <!--ADD EXTRA DESIGNERS HERE(make sure to uncomment the actual code )--> 
+                </select>
             </div>
 
             <!-- Name -->
@@ -321,7 +341,7 @@
             <!-- Skip -->
             <div class="form-group skip-group">
                 <input type="checkbox" id="skipCheckbox">
-                <label for="skipCheckbox">Skip (exclude from library)</label>
+                <label for="skipCheckbox">Skip (exclude from library (Select if NOT in EHLD))</label>
             </div>
 
             <div class="actions">
@@ -333,7 +353,7 @@
     <!-- Preview panel -->
     <div class="panel">
         <h2>XML Preview</h2>
-        <div id="preview">Fill in the form and click "Preview XML" to see the generated output.</div>
+        <div id="preview">Fill in the form to see the generated output.</div>
     </div>
 </div>
 
@@ -341,6 +361,7 @@
 // --- State ---
 let categories = [];
 let referenceDbs = [];
+let selectedDesigner = null; // { name, link/orcid}
 let selectedCurator = null; // { name, orcid }
 let searchTimeout = null;
 
@@ -360,6 +381,15 @@ document.addEventListener("DOMContentLoaded", () => {
     const form = document.getElementById("iconForm");
     form.addEventListener("input", updatePreview);
     form.addEventListener("change", updatePreview);
+
+    const filenameInput = document.getElementById("filename"); //auto fill "R-ICO-" by hitting tab
+    filenameInput.addEventListener("keydown", (e) => {
+        if (e.key === "Tab" && filenameInput.value.trim() === "") {
+            e.preventDefault();
+            filenameInput.value = "R-ICO-";
+            updatePreview();
+        }
+    });
 });
 
 // --- Fetch categories ---
@@ -402,7 +432,15 @@ async function fetchReferenceDbs() {
     // Populate existing reference row dropdown
     document.querySelectorAll(".ref-db-select").forEach(sel => populateDbSelect(sel));
 }
-
+// --- Designer dropdown ---
+function onDesignerSelect() {
+    const select = document.getElementById("designerSelect");
+    const val = select.value;
+    if (!val) return;
+    const [name, url] = val.split("|");
+    selectedDesigner = { name, url };
+    updatePreview();
+}
 // --- Curator search ---
 function setupCuratorSearch() {
     const input = document.getElementById("curatorSearch");
@@ -480,6 +518,16 @@ function selectCurator(name, orcid) {
 function removeCurator() {
     selectedCurator = null;
     document.getElementById("curatorSelected").innerHTML = "";
+    updatePreview();
+}
+function toggleManualCurator() {
+    const manual = document.getElementById("manualCuratorToggle").checked;
+    document.getElementById("manualCuratorSection").style.display = manual ? "block" : "none";
+    document.getElementById("curatorSearch").disabled = manual;
+    if (manual) {
+        selectedCurator = null;
+        document.getElementById("curatorSelected").innerHTML = "";
+    }
     updatePreview();
 }
 
@@ -601,13 +649,20 @@ function generateXml() {
     }
 
     // Curator
-    if (selectedCurator) {
+    const manualToggle = document.getElementById("manualCuratorToggle").checked;
+    if (manualToggle) {
+        const mName = document.getElementById("manualCuratorName").value.trim();
+        const mOrcid = document.getElementById("manualCuratorOrcid").value.trim();
+        if (mName) {
+            xml += ind + '<person orcid="' + escapeXml(mOrcid) + '" role="curator">' + escapeXml(mName) + '</person>\n';
+        }
+    } else if (selectedCurator) {
         xml += ind + '<person orcid="' + escapeXml(selectedCurator.orcid) + '" role="curator">' + escapeXml(selectedCurator.name) + '</person>\n';
     }
 
     // Designer
-    const dName = document.getElementById("designerName").value.trim();
-    const dUrl = document.getElementById("designerUrl").value.trim();
+    const dName = selectedDesigner ? selectedDesigner.name : "";
+    const dUrl = selectedDesigner ? selectedDesigner.url : "";
     if (dName) {
         if (dUrl) {
             xml += ind + '<person role="designer" url="' + escapeXml(dUrl) + '">' + escapeXml(dName) + '</person>\n';
