@@ -289,7 +289,7 @@
                 <div style="margin-top:0.4rem;">
                     <label style="font-weight:normal; cursor:pointer;">
                         <input type="checkbox" id="manualCuratorToggle" onchange="toggleManualCurator()">
-                        Enter curator manually
+                        Enter curator details manually
                     </label>
                 </div>
             </div>
@@ -403,7 +403,7 @@ async function fetchCategories() {
         container.innerHTML = "";
         categories.forEach(cat => {
             const lbl = document.createElement("label");
-            lbl.innerHTML = `<input type="radio" name="category" value="${escapeHtml(cat)}"> ${escapeHtml(cat)}`;
+            lbl.innerHTML = `<input type="checkbox" value="${escapeHtml(cat)}"> ${escapeHtml(cat)}`;
             container.appendChild(lbl);
         });
     } catch (e) {
@@ -412,7 +412,7 @@ async function fetchCategories() {
         categories = ["arrow","cell_element","cell_type","compound","human_tissue","protein","receptor","transporter"];
         categories.forEach(cat => {
             const lbl = document.createElement("label");
-            lbl.innerHTML = `<input type="radio" name="category" value="${escapeHtml(cat)}"> ${escapeHtml(cat)}`;
+            lbl.innerHTML = `<input type="checkbox" value="${escapeHtml(cat)}"> ${escapeHtml(cat)}`;
             container.appendChild(lbl);
         });
     }
@@ -641,10 +641,12 @@ function generateXml() {
     let xml = '<metadata>\n';
 
     // Categories
-    const selectedCat = document.querySelector('#categoriesContainer input[type="radio"]:checked');
-    if (selectedCat) {
+    const selectedCats = [...document.querySelectorAll('#categoriesContainer input[type="checkbox"]:checked')];
+    if (selectedCats.length > 0) {
         xml += ind + '<categories>\n';
-        xml += ind + ind + '<category>' + escapeXml(selectedCat.value) + '</category>\n';
+        selectedCats.forEach(cat => {
+            xml += ind + ind + '<category>' + escapeXml(cat.value) + '</category>\n';
+        });
         xml += ind + '</categories>\n';
     }
 
@@ -735,8 +737,30 @@ function updatePreview() {
 }
 
 function downloadXml() {
+    // Validation
+    const filename = document.getElementById("filename").value.trim();
+    const selectedCat = document.querySelector('#categoriesContainer input[type="checkbox"]:checked');
+    const manualToggle = document.getElementById("manualCuratorToggle").checked;
+    const manualCuratorName = document.getElementById("manualCuratorName").value.trim();
+    const iconName = document.getElementById("iconName").value.trim();
+    const desc = document.getElementById("iconDesc").value.trim();
+    const designer = document.getElementById("designerSelect").value;
+
+    const missing = [];
+    if (!filename)                                          missing.push("Filename");
+    if (!selectedCat)                                       missing.push("Category");
+    if (!manualToggle && !selectedCurator)                  missing.push("Curator");
+    if (manualToggle && !manualCuratorName)                 missing.push("Curator name");
+    if (!designer)                                          missing.push("Designer");
+    if (!iconName)                                          missing.push("Icon name");
+    if (!desc)                                              missing.push("Description");
+
+    if (missing.length > 0) {
+        alert("Please fill in the following required fields:\n\n• " + missing.join("\n• "));
+        return;
+    }
+
     const xml = generateXml();
-    const filename = document.getElementById("filename").value.trim() || "R-ICO-000000";
     const blob = new Blob([xml + "\n"], { type: "application/xml" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
