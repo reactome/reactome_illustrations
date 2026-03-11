@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reactome Icon XML Metadata Generator</title>
+<style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        background: #f5f6fa;
+        color: #2d3436;
+        line-height: 1.5;
+        padding: 2rem;
+    }
+    h1 {
+        text-align: center;
+        margin-bottom: 0.25rem;
+        color: #2c3e50;
+    }
+    .subtitle {
+        text-align: center;
+        color: #636e72;
+        margin-bottom: 2rem;
+        font-size: 0.95rem;
+    }
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+        max-width: 1400px;
+        margin: 0 auto;
+    }
+    @media (max-width: 1000px) {
+        .container { grid-template-columns: 1fr; }
+    }
+    .panel {
+        background: #fff;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        padding: 1.5rem;
+    }
+    .panel h2 {
+        margin-bottom: 1rem;
+        font-size: 1.15rem;
+        color: #2c3e50;
+        border-bottom: 2px solid #dfe6e9;
+        padding-bottom: 0.5rem;
+    }
+    .form-group {
+        margin-bottom: 1.25rem;
+    }
+    label {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 0.3rem;
+        font-size: 0.9rem;
+    }
+    .hint {
+        font-size: 0.8rem;
+        color: #636e72;
+        margin-bottom: 0.3rem;
+    }
+    input[type="text"], textarea {
+        width: 100%;
+        padding: 0.5rem 0.7rem;
+        border: 1px solid #b2bec3;
+        border-radius: 4px;
+        font-size: 0.9rem;
+        font-family: inherit;
+    }
+    input[type="text"]:focus, textarea:focus {
+        outline: none;
+        border-color: #0984e3;
+        box-shadow: 0 0 0 2px rgba(9,132,227,0.15);
+    }
+    textarea { resize: vertical; min-height: 60px; }
+    .checkbox-group {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem 1.25rem;
+    }
+    .checkbox-group label {
+        display: flex;
+        align-items: center;
+        gap: 0.35rem;
+        font-weight: normal;
+        cursor: pointer;
+    }
+    .checkbox-group input[type="checkbox"] {
+        width: 16px;
+        height: 16px;
+        cursor: pointer;
+    }
+
+    /* Person search */
+    .search-wrapper { position: relative; }
+    .search-results {
+        position: absolute;
+        z-index: 10;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #fff;
+        border: 1px solid #b2bec3;
+        border-top: none;
+        border-radius: 0 0 4px 4px;
+        max-height: 200px;
+        overflow-y: auto;
+        display: none;
+    }
+    .search-results.visible { display: block; }
+    .search-result-item {
+        padding: 0.5rem 0.7rem;
+        cursor: pointer;
+        font-size: 0.9rem;
+        border-bottom: 1px solid #f1f2f6;
+    }
+    .search-result-item:hover { background: #dfe6e9; }
+    .search-result-item .orcid {
+        font-size: 0.8rem;
+        color: #636e72;
+    }
+    .selected-person {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        background: #dfe6e9;
+        padding: 0.3rem 0.6rem;
+        border-radius: 4px;
+        font-size: 0.9rem;
+        margin-top: 0.3rem;
+    }
+    .selected-person .remove {
+        cursor: pointer;
+        color: #d63031;
+        font-weight: bold;
+        font-size: 1rem;
+        line-height: 1;
+    }
+
+    #designerSelect {
+    width: 100%;
+    padding: 0.5rem 0.7rem;
+    border: 1px solid #b2bec3;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-family: inherit;
+    background: #fff;
+}
+
+    /* Repeatable rows */
+    .repeatable-row {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+        margin-bottom: 0.4rem;
+    }
+    .repeatable-row select, .repeatable-row input[type="text"] {
+        flex: 1;
+    }
+    .repeatable-row select {
+        padding: 0.5rem 0.7rem;
+        border: 1px solid #b2bec3;
+        border-radius: 4px;
+        font-size: 0.9rem;
+        font-family: inherit;
+        background: #fff;
+    }
+    .btn-sm {
+        padding: 0.35rem 0.6rem;
+        font-size: 0.85rem;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .validation-indicator {
+        font-size: 0.85rem;
+        min-width: 1.2rem;
+        text-align: center;
+    }
+    .ref-id-input.valid { border-color: #00b894; }
+    .ref-id-input.invalid { border-color: #d63031; }
+    .btn-remove { background: #fab1a0; color: #d63031; }
+    .btn-remove:hover { background: #ff7675; color: #fff; }
+    .btn-add {
+        background: #81ecec;
+        color: #00695c;
+        padding: 0.4rem 0.8rem;
+        font-size: 0.85rem;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 0.3rem;
+    }
+    .btn-add:hover { background: #00cec9; color: #fff; }
+
+    /* Actions */
+    .actions {
+        display: flex;
+        gap: 0.75rem;
+        margin-top: 1.5rem;
+    }
+    .btn {
+        padding: 0.6rem 1.4rem;
+        font-size: 0.95rem;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-weight: 600;
+    }
+    .btn-primary { background: #0984e3; color: #fff; }
+    .btn-primary:hover { background: #0770c2; }
+    .btn-success { background: #00b894; color: #fff; }
+    .btn-success:hover { background: #00a07d; }
+
+    /* Preview */
+    #preview {
+        background: #2d3436;
+        color: #dfe6e9;
+        padding: 1rem;
+        border-radius: 4px;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+        font-size: 0.85rem;
+        white-space: pre;
+        overflow-x: auto;
+        min-height: 200px;
+        tab-size: 4;
+    }
+
+    .loading {
+        font-style: italic;
+        color: #636e72;
+        font-size: 0.85rem;
+    }
+    .error {
+        color: #d63031;
+        font-size: 0.85rem;
+    }
+    .skip-group {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+    }
+    .skip-group label { margin-bottom: 0; }
+</style>
+</head>
+<body>
+
+<h1>Reactome Icon XML Metadata Generator</h1>
+<p class="subtitle">Generate XML metadata files for new Reactome illustration icons</p>
+
+<div class="container">
+    <!-- Form panel -->
+    <div class="panel">
+        <h2>Icon Metadata</h2>
+        <form id="iconForm">
+            <!-- Filename -->
+            <div class="form-group">
+                <label for="filename">Filename</label>
+                <div class="hint">e.g. R-ICO-012345</div>
+                <input type="text" id="filename" placeholder="R-ICO-XXXXXX | Press 'tab' to autofill 'R-ICO-'">
+            </div>
+
+            <!-- Categories -->
+            <div class="form-group">
+                <label>Categories</label>
+                <div id="categoriesContainer" class="checkbox-group">
+                    <span class="loading">Loading categories...</span>
+                </div>
+            </div>
+
+            <!-- Curator -->
+            <div class="form-group">
+                <label>Curator</label>
+                <div class="hint">Search by name to find curator + ORCID</div>
+                <div class="search-wrapper">
+                    <input type="text" id="curatorSearch" placeholder="Search for a person...">
+                    <div id="curatorResults" class="search-results"></div>
+                </div>
+                <div id="curatorSelected"></div>
+                <div id="manualCuratorSection" style="display:none; margin-top:0.5rem;">
+                    <div class="hint">Enter curator details manually</div>
+                    <div style="display:flex; gap:0.5rem; margin-top:0.3rem;">
+                        <input type="text" id="manualCuratorName" placeholder="Full name">
+                        <input type="text" id="manualCuratorOrcid" placeholder="ORCID">
+                    </div>
+                </div>
+                <div style="margin-top:0.4rem;">
+                    <label style="font-weight:normal; cursor:pointer;">
+                        <input type="checkbox" id="manualCuratorToggle" onchange="toggleManualCurator()">
+                        Enter curator details manually
+                    </label>
+                </div>
+            </div>
+
+            <!-- Designer -->
+            <div class="form-group">
+                <label>Designer</label>
+                <select id="designerSelect" onchange="onDesignerSelect()">
+                    <option value="">-- Select a designer --</option>
+                    <option value="Cristoffer Sevilla|https://graphsolutions.co.uk">Cristoffer Sevilla, https://graphsolutions.co.uk</option>
+                    <option value="Nancy Li|0000-0002-2663-5245">Nancy Li, 0000-0002-2663-5245</option>
+                    <option value="Junaid Haque|0009-0002-7406-2389">Junaid Haque, 0009-0002-7406-2389</option>
+                    <!--<option value="NEW DESIGNER HERE|LINK/ORCID HERE">NEW DESIGNER HERE, LINK/ORCID HERE</option>-->        <!--ADD EXTRA DESIGNERS HERE(make sure to uncomment the actual code )--> 
+                </select>
+            </div>
+
+            <!-- Name -->
+            <div class="form-group">
+                <label for="iconName">Name</label>
+                <input type="text" id="iconName" placeholder="Icon display name">
+            </div>
+
+            <!-- Description -->
+            <div class="form-group">
+                <label for="iconDesc">Description</label>
+                <textarea id="iconDesc" placeholder="Description of the icon"></textarea>
+            </div>
+
+            <!-- Info URL -->
+            <div class="form-group">
+                <label for="infoUrl">Info URL</label>
+                <input type="text" id="infoUrl" value="https://reactome.org/icon-info">
+            </div>
+
+            <!-- References -->
+            <div class="form-group">
+                <label>References</label>
+                <div id="referencesContainer"></div>
+                <button type="button" class="btn-add" id="addReference">+ Add Reference</button>
+            </div>
+
+            <!-- Synonyms -->
+            <div class="form-group">
+                <label>Synonyms</label>
+                <div id="synonymsContainer"></div>
+                <button type="button" class="btn-add" id="addSynonym">+ Add Synonym</button>
+            </div>
+
+            <!-- Skip -->
+            <div class="form-group skip-group">
+                <input type="checkbox" id="skipCheckbox">
+                <label for="skipCheckbox">Skip (exclude from library (Select if NOT in EHLD))</label>
+            </div>
+
+            <div class="actions">
+                <button type="button" class="btn btn-success" onclick="downloadXml()">Download XML</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Preview panel -->
+    <div class="panel">
+        <h2>XML Preview</h2>
+        <div id="preview">Fill in the form to see the generated output.</div>
+    </div>
+</div>
+
+<script>
+// --- State ---
+let categories = [];
+let referenceDbs = [];
+let selectedDesigner = null; // { name, link/orcid}
+let selectedCurator = null; // { name, orcid }
+let searchTimeout = null;
+
+// --- GitHub raw URLs ---
+const CATEGORIES_URL = "https://raw.githubusercontent.com/reactome/illustration-validator/main/categories.txt";
+const REFERENCES_URL = "https://raw.githubusercontent.com/reactome/illustration-validator/main/references.txt";
+const PERSON_SEARCH_URL = "https://reactome.org/ContentService/search/query";
+
+// --- Init ---
+document.addEventListener("DOMContentLoaded", () => {
+    fetchCategories();
+    fetchReferenceDbs();
+    setupCuratorSearch();
+    addReferenceRow();
+
+    // Live preview: update on any form change
+    const form = document.getElementById("iconForm");
+    form.addEventListener("input", updatePreview);
+    form.addEventListener("change", updatePreview);
+
+    const filenameInput = document.getElementById("filename"); //auto fill "R-ICO-" by hitting tab
+    filenameInput.addEventListener("keydown", (e) => {
+        if (e.key === "Tab" && filenameInput.value.trim() === "") {
+            e.preventDefault();
+            filenameInput.value = "R-ICO-";
+            updatePreview();
+        }
+    });
+});
+
+// --- Fetch categories ---
+async function fetchCategories() {
+    const container = document.getElementById("categoriesContainer");
+    try {
+        const resp = await fetch(CATEGORIES_URL);
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        const text = await resp.text();
+        categories = text.trim().split("\n").map(s => s.trim()).filter(Boolean);
+        container.innerHTML = "";
+        categories.forEach(cat => {
+            const lbl = document.createElement("label");
+            lbl.innerHTML = `<input type="checkbox" value="${escapeHtml(cat)}"> ${escapeHtml(cat)}`;
+            container.appendChild(lbl);
+        });
+    } catch (e) {
+        container.innerHTML = `<span class="error">Failed to load categories: ${escapeHtml(e.message)}</span>`;
+        // Provide fallback
+        categories = ["arrow","cell_element","cell_type","compound","human_tissue","protein","receptor","transporter"];
+        categories.forEach(cat => {
+            const lbl = document.createElement("label");
+            lbl.innerHTML = `<input type="checkbox" value="${escapeHtml(cat)}"> ${escapeHtml(cat)}`;
+            container.appendChild(lbl);
+        });
+    }
+}
+
+// --- Fetch reference databases ---
+async function fetchReferenceDbs() {
+    try {
+        const resp = await fetch(REFERENCES_URL);
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        const text = await resp.text();
+        referenceDbs = text.trim().split("\n").map(s => s.trim()).filter(Boolean);
+    } catch (e) {
+        // Fallback list
+        referenceDbs = ["UNIPROT","GO","CHEBI","ENSEMBL","CL","UBERON","INTERPRO","MESH","KEGG","PUBCHEM","PFAM","COMPLEXPORTAL","NCIT","DOID","NCBI","IUPHAR","FMA"];
+    }
+    // Populate existing reference row dropdown
+    document.querySelectorAll(".ref-db-select").forEach(sel => populateDbSelect(sel));
+}
+// --- Designer dropdown ---
+function onDesignerSelect() {
+    const select = document.getElementById("designerSelect");
+    const val = select.value;
+    if (!val) return;
+    const [name, url] = val.split("|");
+    selectedDesigner = { name, url };
+    updatePreview();
+}
+// --- Curator search ---
+function setupCuratorSearch() {
+    const input = document.getElementById("curatorSearch");
+    const results = document.getElementById("curatorResults");
+
+    input.addEventListener("input", () => {
+        clearTimeout(searchTimeout);
+        const query = input.value.trim();
+        if (query.length < 2) {
+            results.classList.remove("visible");
+            return;
+        }
+        searchTimeout = setTimeout(() => searchPersons(query), 300);
+    });
+
+    input.addEventListener("blur", () => {
+        // Delay to allow click on result
+        setTimeout(() => results.classList.remove("visible"), 200);
+    });
+    input.addEventListener("focus", () => {
+        if (results.children.length > 0) results.classList.add("visible");
+    });
+}
+
+async function searchPersons(query) {
+    const results = document.getElementById("curatorResults");
+    try {
+        const url = `${PERSON_SEARCH_URL}?query=${encodeURIComponent(query)}&types=Person&cluster=false`;
+        const resp = await fetch(url);
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        const data = await resp.json();
+
+        const entries = data.results
+            ? data.results.flatMap(group => group.entries || [])
+            : [];
+
+        results.innerHTML = "";
+        if (entries.length === 0) {
+            results.innerHTML = '<div class="search-result-item" style="color:#636e72">No results found</div>';
+            results.classList.add("visible");
+            return;
+        }
+
+        entries.forEach(entry => {
+            const name = stripHtml(entry.name || "");
+            const orcid = entry.orcidId || "";
+            const div = document.createElement("div");
+            div.className = "search-result-item";
+            div.innerHTML = `${escapeHtml(name)} <span class="orcid">${escapeHtml(orcid)}</span>`;
+            div.addEventListener("mousedown", (e) => {
+                e.preventDefault();
+                selectCurator(name, orcid);
+                results.classList.remove("visible");
+            });
+            results.appendChild(div);
+        });
+        results.classList.add("visible");
+    } catch (e) {
+        results.innerHTML = `<div class="search-result-item error">Search failed: ${escapeHtml(e.message)}</div>`;
+        results.classList.add("visible");
+    }
+}
+
+function selectCurator(name, orcid) {
+    selectedCurator = { name, orcid };
+    const container = document.getElementById("curatorSelected");
+    container.innerHTML = `<div class="selected-person">
+        ${escapeHtml(name)} <span class="orcid">${escapeHtml(orcid)}</span>
+        <span class="remove" onclick="removeCurator()">&times;</span>
+    </div>`;
+    document.getElementById("curatorSearch").value = "";
+    updatePreview();
+}
+
+function removeCurator() {
+    selectedCurator = null;
+    document.getElementById("curatorSelected").innerHTML = "";
+    updatePreview();
+}
+function toggleManualCurator() {
+    const manual = document.getElementById("manualCuratorToggle").checked;
+    document.getElementById("manualCuratorSection").style.display = manual ? "block" : "none";
+    document.getElementById("curatorSearch").disabled = manual;
+    if (manual) {
+        selectedCurator = null;
+        document.getElementById("curatorSelected").innerHTML = "";
+    }
+    updatePreview();
+}
+
+// --- UniProt validation ---
+const uniprotValidationTimers = new WeakMap();
+
+function setupUniprotValidation(select, input, indicator) {
+    function onChangeOrInput() {
+        const db = select.value;
+        const id = input.value.trim();
+        // Clear previous state
+        input.classList.remove("valid", "invalid");
+        indicator.textContent = "";
+        clearTimeout(uniprotValidationTimers.get(input));
+
+        if ((db === "UNIPROT" || db === "UNIPROT-T") && id.length > 0) {
+            indicator.textContent = "...";
+            indicator.style.color = "#636e72";
+            const timer = setTimeout(() => validateUniprot(id, input, indicator), 500);
+            uniprotValidationTimers.set(input, timer);
+        }
+    }
+    select.addEventListener("change", onChangeOrInput);
+    input.addEventListener("input", onChangeOrInput);
+}
+
+async function validateUniprot(id, input, indicator) {
+    try {
+        const resp = await fetch(`https://rest.uniprot.org/uniprotkb/${encodeURIComponent(id)}.json`, { method: "HEAD" });
+        if (resp.ok) {
+            input.classList.remove("invalid");
+            input.classList.add("valid");
+            indicator.textContent = "\u2713";
+            indicator.style.color = "#00b894";
+        } else {
+            input.classList.remove("valid");
+            input.classList.add("invalid");
+            indicator.textContent = "\u2717";
+            indicator.style.color = "#d63031";
+        }
+    } catch {
+        input.classList.remove("valid", "invalid");
+        indicator.textContent = "?";
+        indicator.style.color = "#636e72";
+    }
+}
+
+// --- Reference rows ---
+function addReferenceRow() {
+    const container = document.getElementById("referencesContainer");
+    const row = document.createElement("div");
+    row.className = "repeatable-row";
+    const select = document.createElement("select");
+    select.className = "ref-db-select";
+    populateDbSelect(select);
+    const input = document.createElement("input");
+    input.type = "text";
+    input.placeholder = "Identifier (e.g. P12345)";
+    input.className = "ref-id-input";
+    const indicator = document.createElement("span");
+    indicator.className = "validation-indicator";
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "btn-sm btn-remove";
+    btn.textContent = "\u00d7";
+    btn.onclick = () => { row.remove(); updatePreview(); };
+    setupUniprotValidation(select, input, indicator);
+    row.appendChild(select);
+    row.appendChild(input);
+    row.appendChild(indicator);
+    row.appendChild(btn);
+    container.appendChild(row);
+}
+
+function populateDbSelect(select) {
+    select.innerHTML = "";
+    referenceDbs.forEach(db => {
+        const opt = document.createElement("option");
+        opt.value = db;
+        opt.textContent = db;
+        select.appendChild(opt);
+    });
+}
+
+document.getElementById("addReference").addEventListener("click", addReferenceRow);
+
+// --- Synonym rows ---
+function addSynonymRow() {
+    const container = document.getElementById("synonymsContainer");
+    const row = document.createElement("div");
+    row.className = "repeatable-row";
+    const input = document.createElement("input");
+    input.type = "text";
+    input.placeholder = "Synonym";
+    input.className = "synonym-input";
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "btn-sm btn-remove";
+    btn.textContent = "\u00d7";
+    btn.onclick = () => { row.remove(); updatePreview(); };
+    row.appendChild(input);
+    row.appendChild(btn);
+    container.appendChild(row);
+}
+
+document.getElementById("addSynonym").addEventListener("click", addSynonymRow);
+
+// --- XML generation ---
+function generateXml() {
+    const ind = "    "; // 4-space indent (matches newer files)
+    let xml = '<metadata>\n';
+
+    // Categories
+    const selectedCats = [...document.querySelectorAll('#categoriesContainer input[type="checkbox"]:checked')];
+    if (selectedCats.length > 0) {
+        xml += ind + '<categories>\n';
+        selectedCats.forEach(cat => {
+            xml += ind + ind + '<category>' + escapeXml(cat.value) + '</category>\n';
+        });
+        xml += ind + '</categories>\n';
+    }
+
+    // Curator
+    const manualToggle = document.getElementById("manualCuratorToggle").checked;
+    if (manualToggle) {
+        const mName = document.getElementById("manualCuratorName").value.trim();
+        const mOrcid = document.getElementById("manualCuratorOrcid").value.trim();
+        if (mName) {
+            xml += ind + '<person orcid="' + escapeXml(mOrcid) + '" role="curator">' + escapeXml(mName) + '</person>\n';
+        }
+    } else if (selectedCurator) {
+        xml += ind + '<person orcid="' + escapeXml(selectedCurator.orcid) + '" role="curator">' + escapeXml(selectedCurator.name) + '</person>\n';
+    }
+
+    // Designer
+    const dName = selectedDesigner ? selectedDesigner.name : "";
+    const dUrl = selectedDesigner ? selectedDesigner.url : "";
+    if (dName) {
+        if (dUrl) {
+            xml += ind + '<person role="designer" url="' + escapeXml(dUrl) + '">' + escapeXml(dName) + '</person>\n';
+        } else {
+            xml += ind + '<person role="designer">' + escapeXml(dName) + '</person>\n';
+        }
+    }
+
+    // Name
+    const iconName = document.getElementById("iconName").value.trim();
+    if (iconName) {
+        xml += ind + '<name>' + escapeXml(iconName) + '</name>\n';
+    }
+
+    // Description
+    const desc = document.getElementById("iconDesc").value.trim();
+    if (desc) {
+        xml += ind + '<description>' + escapeXml(desc) + '</description>\n';
+    }
+
+    // Info URL
+    const infoUrl = document.getElementById("infoUrl").value.trim();
+    if (infoUrl) {
+        xml += ind + '<info>' + escapeXml(infoUrl) + '</info>\n';
+    }
+
+    // References
+    const refs = [];
+    document.querySelectorAll("#referencesContainer .repeatable-row").forEach(row => {
+        const db = row.querySelector(".ref-db-select").value;
+        const id = row.querySelector(".ref-id-input").value.trim();
+        if (id) refs.push({ db, id });
+    });
+    if (refs.length > 0) {
+        xml += ind + '<references>\n';
+        refs.forEach(ref => {
+            xml += ind + ind + '<reference>\n';
+            xml += ind + ind + ind + '<db>' + escapeXml(ref.db) + '</db>\n';
+            xml += ind + ind + ind + '<id>' + escapeXml(ref.id) + '</id>\n';
+            xml += ind + ind + '</reference>\n';
+        });
+        xml += ind + '</references>\n';
+    }
+
+    // Synonyms
+    const syns = [];
+    document.querySelectorAll("#synonymsContainer .synonym-input").forEach(input => {
+        const val = input.value.trim();
+        if (val) syns.push(val);
+    });
+    if (syns.length > 0) {
+        xml += ind + '<synonyms>\n';
+        syns.forEach(s => {
+            xml += ind + ind + '<synonym>' + escapeXml(s) + '</synonym>\n';
+        });
+        xml += ind + '</synonyms>\n';
+    }
+
+    // Skip
+    if (document.getElementById("skipCheckbox").checked) {
+        xml += ind + '<skip>true</skip>\n';
+    }
+
+    xml += '</metadata>';
+    return xml;
+}
+
+function updatePreview() {
+    document.getElementById("preview").textContent = generateXml();
+}
+
+function downloadXml() {
+    // Validation
+    const filename = document.getElementById("filename").value.trim();
+    const selectedCat = document.querySelector('#categoriesContainer input[type="checkbox"]:checked');
+    const manualToggle = document.getElementById("manualCuratorToggle").checked;
+    const manualCuratorName = document.getElementById("manualCuratorName").value.trim();
+    const iconName = document.getElementById("iconName").value.trim();
+    const desc = document.getElementById("iconDesc").value.trim();
+    const designer = document.getElementById("designerSelect").value;
+
+    const missing = [];
+    if (!filename)                                          missing.push("Filename");
+    if (!selectedCat)                                       missing.push("Category");
+    if (!manualToggle && !selectedCurator)                  missing.push("Curator");
+    if (manualToggle && !manualCuratorName)                 missing.push("Curator name");
+    if (!designer)                                          missing.push("Designer");
+    if (!iconName)                                          missing.push("Icon name");
+    if (!desc)                                              missing.push("Description");
+
+    if (missing.length > 0) {
+        alert("Please fill in the following required fields:\n\n• " + missing.join("\n• "));
+        return;
+    }
+
+    const xml = generateXml();
+    const blob = new Blob([xml + "\n"], { type: "application/xml" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = filename + ".xml";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+}
+
+// --- Utilities ---
+function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str;
+    return div.innerHTML;
+}
+
+function escapeXml(str) {
+    return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
+}
+
+function stripHtml(str) {
+    return str.replace(/<[^>]*>/g, "");
+}
+</script>
+
+</body>
+</html>
