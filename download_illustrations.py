@@ -12,6 +12,8 @@ Usage:
     python3 download_illustrations.py --icons      # icons only
     python3 download_illustrations.py --ehlds      # EHLDs only
     python3 download_illustrations.py --skip-validation  # download without validating
+    python3 download_illustrations.py --ehlds --only R-HSA-1234567 R-HSA-9876543        # download select EHLDs
+    python3 download_illustrations.py --icons --only-icons R-ICO-012345 R-ICO-012346    # download select Icons
 
 Environment variables:
     FIGMA_TOKEN  - Figma personal access token (required)
@@ -162,7 +164,7 @@ def clear_svgs(directory):
 
 # ── Download functions ────────────────────────────────────────────────────────
 
-def download_icons(token):
+def download_icons(token, only_ids=None):
     """Download all R-ICO- icons from Figma."""
     print("\n" + "=" * 60)
     print("DOWNLOADING ICONS")
@@ -176,6 +178,13 @@ def download_icons(token):
     if not nodes:
         print("No icons found!")
         return False
+    
+    if only_ids:
+        nodes = [n for n in nodes if n["name"] in only_ids]
+        print(f"Filtered to {len(nodes)} requested icons")
+        if not nodes:
+            print("None of the requested IDs were found in Figma!")
+            return False
 
     clear_svgs(ICONS_DIR)
 
@@ -186,7 +195,7 @@ def download_icons(token):
     return fail == 0
 
 
-def download_ehlds(token):
+def download_ehlds(token, only_ids=None):
     """Download all R-HSA- EHLD diagrams from Figma."""
     print("\n" + "=" * 60)
     print("DOWNLOADING EHLD DIAGRAMS")
@@ -200,6 +209,13 @@ def download_ehlds(token):
     if not nodes:
         print("No EHLDs found!")
         return False
+    
+    if only_ids:
+        nodes = [n for n in nodes if n["name"] in only_ids]
+        print(f"Filtered to {len(nodes)} requested EHLDs")
+        if not nodes:
+            print("None of the requested IDs were found in Figma!")
+            return False
 
     clear_svgs(EHLD_DIR)
 
@@ -274,6 +290,8 @@ def main():
     parser.add_argument("--icons", action="store_true", help="Download icons only")
     parser.add_argument("--ehlds", action="store_true", help="Download EHLDs only")
     parser.add_argument("--skip-validation", action="store_true", help="Skip validation step")
+    parser.add_argument("--only", nargs="+", metavar="ID", help="Only download specific EHLDs e.g. --only R-HSA-1234567 R-HSA-9876543")
+    parser.add_argument("--only-icons", nargs="+", metavar="ID", help="Only download specific icons e.g. --only-icons R-ICO-012345 R-ICO-012346")
     args = parser.parse_args()
 
     # If neither flag is set, do both
@@ -287,12 +305,12 @@ def main():
         sys.exit(1)
 
     if do_icons:
-        if not download_icons(token):
+        if not download_icons(token, only_ids=args.only_icons):
             print("\nIcon download had failures. Exiting.")
             sys.exit(1)
 
     if do_ehlds:
-        if not download_ehlds(token):
+        if not download_ehlds(token, only_ids=args.only):
             print("\nEHLD download had failures. Exiting.")
             sys.exit(1)
 
