@@ -186,7 +186,8 @@ def download_icons(token, only_ids=None):
             print("None of the requested IDs were found in Figma!")
             return False
 
-    clear_svgs(ICONS_DIR)
+    if not only_ids:
+        clear_svgs(ICONS_DIR)
 
     id_to_name = {n["id"]: n["name"] for n in nodes}
     urls = export_svgs(token, ICON_FILE_KEY, list(id_to_name.keys()), ICON_BATCH_SIZE)
@@ -217,7 +218,8 @@ def download_ehlds(token, only_ids=None):
             print("None of the requested IDs were found in Figma!")
             return False
 
-    clear_svgs(EHLD_DIR)
+    if not only_ids:
+        clear_svgs(EHLD_DIR)
 
     id_to_name = {n["id"]: n["name"] for n in nodes}
     urls = export_svgs(
