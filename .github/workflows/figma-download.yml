@@ -1,0 +1,114 @@
+name: Download illustrations from Figma
+
+on:
+  workflow_dispatch:
+    inputs:
+      download_type:
+        description: "What to download"
+        required: true
+        default: "everything"
+        type: choice
+        options:
+          - everything
+          - ehlds-only
+          - icons-only
+      specific_ehlds:
+        description: "Specific EHLDs to download (space separated, e.g. R-HSA-1234567 R-HSA-9876543). Leave blank for all."
+        required: false
+        default: ""
+      specific_icons:
+        description: "Specific icons to download (space separated, e.g. R-ICO-012345 R-ICO-012346). Leave blank for all."
+        required: false
+        default: ""
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 0
+
+      # If triggered from main, create a new branch
+      - name: Create new branch if on main
+        if: github.ref == 'refs/heads/main'
+        run: |
+          TIMESTAMP=$(date +'%Y-%m-%d-%H%M')
+          BRANCH="figma-download-${TIMESTAMP}"
+          git checkout -b "$BRANCH"
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+
+      # If triggered from an existing branch, stay on it
+      - name: Stay on current branch
+        if: github.ref != 'refs/heads/main'
+        run: |
+          BRANCH="${GITHUB_REF#refs/heads/}"
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      # Build the command based on inputs
+      - name: Download from Figma
+        env:
+          FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
+        run: |
+          CMD="python3 download_illustrations.py --skip-validation"
+
+          if [ "${{ inputs.download_type }}" = "ehlds-only" ]; then
+            CMD="$CMD --ehlds"
+            if [ -n "${{ inputs.specific_ehlds }}" ]; then
+              CMD="$CMD --only ${{ inputs.specific_ehlds }}"
+            fi
+          elif [ "${{ inputs.download_type }}" = "icons-only" ]; then
+            CMD="$CMD --icons"
+            if [ -n "${{ inputs.specific_icons }}" ]; then
+              CMD="$CMD --only-icons ${{ inputs.specific_icons }}"
+            fi
+          fi
+          # If everything, no extra flags needed
+
+          echo "Running: $CMD"
+          $CMD
+
+      - name: Commit downloaded files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add icons/ ehld/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Download illustrations from Figma (${{ inputs.download_type }}) $(date +'%Y-%m-%d %H:%M')"
+            git push origin "$BRANCH"
+          fi
+
+      - name: Validate illustrations
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}/icons:/data/icons \
+            -v ${{ github.workspace }}/ehld:/data/ehld \
+            public.ecr.aws/reactome/illustration-validator:latest \
+            java -jar ./target/illustration-validator-jar-with-dependencies.jar \
+            -e false \
+            -d /data/icons \
+            -s /data/ehld
+        continue-on-error: true
+
+      - name: Print branch info
+        run: |
+          echo "=============================="
+          echo "Branch: $BRANCH"
+          echo "Check validation results above"
+          echo "If validation passed, open a pull request to main"
+          echo "If validation failed, fix issues on the branch and re-run validation"
+          echo "=============================="
