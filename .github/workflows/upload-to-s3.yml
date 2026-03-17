@@ -46,3 +46,8 @@ jobs:
         run: |
           aws s3 sync ehld/ "s3://${{ vars.S3_BUCKET }}/${{ env.VERSION }}/ehld/" \
             --delete
+
+      - name: Upload Statics to S3
+        run: |
+          aws s3 sync statics/ "s3://${{ vars.S3_BUCKET }}/${{ env.VERSION }}/statics/" \
+            --delete
