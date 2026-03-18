@@ -149,7 +149,7 @@ To create new XML metadata files, use the **Icon XML Metadata Generator** (see b
 - **Download** — saves the XML file with the correct filename
 
 ### How to use
-1. Open `icon-xml-generator.html` in a browser
+1. Open `icon-xml-generator.html` in a browser, or use this link to access: ([icon-xml-generator](https://reactome.github.io/reactome_illustrations/icon-xml-generator))
 2. Enter the icon identifier (e.g. `R-ICO-012345`)
 3. Select a category, search for a curator, and fill in the remaining fields
 4. Add references and synonyms as needed
