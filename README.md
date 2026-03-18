@@ -7,6 +7,7 @@ SVG icons and EHLD diagrams for [Reactome](https://reactome.org/) pathway diagra
 - `statics/` - SVG static diagrams (R-HSA-XXXXXX.svg)
 - `download_illustrations.py` - Script to download icons and EHLDs from Figma and validate them
 - `VERSION` - Current release version number
+- `icon-xml-generator.html` - Use this link to access: ([icon-xml-generator](https://reactome.github.io/reactome_illustrations/icon-xml-generator))
 
 ## Prerequisites
 - Python 3 with `requests` (`pip install requests`)
