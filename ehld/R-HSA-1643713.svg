@@ -19,12 +19,12 @@
 </g>
 <g id="ARROWS">
 <g id="R-ICO-012343">
-<path id="Vector" d="M620.399 550.622C608.224 538.447 603.121 533.344 594.416 524.639C592.54 522.763 589.996 521.709 587.344 521.709L362.597 521.709C359.945 521.709 357.402 520.655 355.526 518.78L317.563 480.816" stroke="url(#paint3_linear_1918_981332)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_2" d="M625.352 544.257L626.766 556.985L614.038 555.571L625.352 544.257Z" fill="#BA1149"/>
+<path id="Vector" d="M620.407 550.622C608.232 538.447 603.129 533.344 594.423 524.639C592.548 522.763 590.003 521.709 587.351 521.709L362.605 521.709C359.953 521.709 357.41 520.655 355.534 518.78L317.571 480.816" stroke="url(#paint3_linear_1918_981332)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_2" d="M625.355 544.257L626.77 556.985L614.042 555.571L625.355 544.257Z" fill="#BA1149"/>
 </g>
 <g id="R-ICO-012343_2">
 <path id="Vector_3" d="M756.507 550.622C768.682 538.447 773.785 533.344 782.491 524.639C784.366 522.763 786.911 521.709 789.563 521.709L1014.31 521.709C1016.96 521.709 1019.5 520.655 1021.38 518.78L1059.34 480.816" stroke="url(#paint4_linear_1918_981332)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_4" d="M751.555 544.257L750.14 556.985L762.868 555.571L751.555 544.257Z" fill="#BA1149"/>
+<path id="Vector_4" d="M751.559 544.257L750.144 556.985L762.872 555.571L751.559 544.257Z" fill="#BA1149"/>
 </g>
 <path id="Vector_5" d="M859.614 592.057C859.614 577.354 849.089 567.966 833.804 567.966H543.108C527.823 567.966 517.297 577.354 517.297 592.057" stroke="#0052AF" stroke-width="5" stroke-miterlimit="10"/>
 </g>
@@ -152,7 +152,7 @@
 </g>
 </g>
 <g id="REGION-R-HSA-5637815">
-<path id="AREA_2" opacity="0.01" d="M486.291 557.966H906.145L906.145 -6.10352e-05H486.291L486.291 557.966Z" fill="white"/>
+<path id="AREA_2" opacity="0.01" d="M486.295 557.966H906.148L906.148 -6.10352e-05H486.295L486.295 557.966Z" fill="white"/>
 <g id="R-ICO-013586">
 <path id="Vector_41" d="M652 274C661.941 274 670 265.941 670 256C670 246.059 661.941 238 652 238C642.059 238 634 246.059 634 256C634 265.941 642.059 274 652 274Z" fill="url(#paint15_radial_1918_981332)"/>
 </g>
@@ -370,7 +370,7 @@
 <stop stop-color="#E3F2FC"/>
 <stop offset="1" stop-color="white" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="paint3_linear_1918_981332" x1="318.276" y1="481.267" x2="620.045" y2="550.976" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint3_linear_1918_981332" x1="318.284" y1="481.267" x2="620.053" y2="550.976" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FF9CBD"/>
 <stop offset="1" stop-color="#BA1149"/>
 </linearGradient>
