@@ -66,12 +66,12 @@
 </g>
 <g id="ARROWS">
 <g id="R-ICO-012348">
-<path id="Vector_48" d="M715.931 375.119C708.572 347.655 696.413 313.597 683.748 289.263" stroke="url(#paint4_linear_1918_176298)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_48" d="M715.935 375.12C708.576 347.656 696.417 313.597 683.751 289.263" stroke="url(#paint4_linear_1918_176298)" stroke-width="8" stroke-miterlimit="10"/>
 <path id="Vector_49" d="M723.402 372.083L718.263 383.812L707.948 376.224L723.402 372.083Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_2">
 <path id="Vector_50" d="M581.697 174.738C558.373 158.476 527.13 140.265 501.765 129.816" stroke="url(#paint5_linear_1918_176298)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_51" d="M585.453 167.603L589.081 179.885L576.302 180.728L585.453 167.603Z" fill="#0052AF"/>
+<path id="Vector_51" d="M585.449 167.603L589.077 179.884L576.298 180.727L585.449 167.603Z" fill="#0052AF"/>
 </g>
 </g>
 <g id="TEXT_DM">
@@ -365,7 +365,7 @@
 <stop stop-color="#A88D61"/>
 <stop offset="1" stop-color="#EFDAA0"/>
 </radialGradient>
-<linearGradient id="paint4_linear_1918_176298" x1="699.661" y1="316.327" x2="715.448" y2="375.248" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint4_linear_1918_176298" x1="699.665" y1="316.327" x2="715.452" y2="375.249" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>

@@ -121,7 +121,7 @@
 <path id="Vector_14" d="M673 530.5L665 540.5L657 530.5L673 530.5Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_2">
-<path id="Vector_15" d="M725.224 570.225C694.999 540 628.503 539.5 594.503 573.5" stroke="url(#paint11_linear_1918_188243)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_15" d="M725.22 570.225C694.995 540 628.499 539.5 594.499 573.5" stroke="url(#paint11_linear_1918_188243)" stroke-width="8" stroke-miterlimit="10"/>
 <path id="Vector_16" d="M730.172 563.86L731.586 576.588L718.858 575.174L730.172 563.86Z" fill="#0052AF"/>
 </g>
 </g>
@@ -478,7 +478,7 @@
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
-<linearGradient id="paint11_linear_1918_188243" x1="594.003" y1="573.5" x2="724.871" y2="570.576" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint11_linear_1918_188243" x1="593.999" y1="573.5" x2="724.867" y2="570.576" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>

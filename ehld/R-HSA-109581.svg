@@ -24,7 +24,7 @@
 </g>
 <g id="ARROWS">
 <g id="R-ICO-012348">
-<path id="Vector_3" d="M851.717 395.791C860.344 368.698 861.497 323.5 853.497 286.999" stroke="url(#paint4_linear_1918_141049)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_3" d="M851.721 395.791C860.347 368.698 861.501 323.5 853.501 286.999" stroke="url(#paint4_linear_1918_141049)" stroke-width="8" stroke-miterlimit="10"/>
 <path id="Vector_4" d="M859.648 397.266L848.992 404.367L844.403 392.412L859.648 397.266Z" fill="#0052AF"/>
 </g>
 </g>
@@ -178,7 +178,7 @@
 <g id="ARROWS_3">
 <g id="R-ICO-012348_3">
 <path id="Vector_75" d="M742.791 585.427C767.414 571.211 787.497 553.5 806.497 522" stroke="url(#paint47_linear_1918_141049)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_76" d="M747.656 591.855L734.996 589.927L739.656 577.999L747.656 591.855Z" fill="#0052AF"/>
+<path id="Vector_76" d="M747.656 591.856L734.996 589.928L739.656 578L747.656 591.856Z" fill="#0052AF"/>
 </g>
 </g>
 <g id="PATHWAY_LABEL_2">
@@ -218,7 +218,7 @@
 <g id="ARROWS_4">
 <g id="R-ICO-012348_4">
 <path id="Vector_77" d="M918.996 296C918.996 267.568 905.997 268.999 885.997 269" stroke="url(#paint51_linear_1918_141049)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_78" d="M926.996 295L918.996 305L910.996 295L926.996 295Z" fill="#0052AF"/>
+<path id="Vector_78" d="M926.996 294.999L918.996 304.999L910.996 294.999L926.996 294.999Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_5">
 <path id="Vector_79" d="M987.996 352.011C987.996 323.578 974.997 325.01 954.997 325.01" stroke="url(#paint52_linear_1918_141049)" stroke-width="8" stroke-miterlimit="10"/>
@@ -290,7 +290,7 @@
 <stop stop-color="#D86E66"/>
 <stop offset="1" stop-color="#A33029"/>
 </linearGradient>
-<linearGradient id="paint4_linear_1918_141049" x1="852.997" y1="287" x2="851.243" y2="395.641" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint4_linear_1918_141049" x1="853.001" y1="287" x2="851.247" y2="395.641" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>

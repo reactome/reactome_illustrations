@@ -68,7 +68,7 @@
 </g>
 <g id="R-ICO-012904">
 <mask id="mask3_1918_197250" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="269" y="425" width="286" height="331">
-<rect id="MASK_4" x="291.309" y="425.622" width="263.827" height="312.293" transform="rotate(4.05 291.309 425.622)" fill="url(#paint29_linear_1918_197250)"/>
+<rect id="MASK_4" x="291.305" y="425.622" width="263.827" height="312.293" transform="rotate(4.05 291.305 425.622)" fill="url(#paint29_linear_1918_197250)"/>
 </mask>
 <g mask="url(#mask3_1918_197250)">
 <g id="R-ICO-012904_2">
@@ -700,7 +700,7 @@
 </g>
 <g id="ARROWS_2">
 <g id="R-ICO-012348">
-<path id="Vector_108" d="M217.704 275.476C237.809 255.371 231.114 238.7 215.594 223.18" stroke="url(#paint136_linear_1918_197250)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_108" d="M217.708 275.476C237.813 255.371 231.118 238.7 215.598 223.18" stroke="url(#paint136_linear_1918_197250)" stroke-width="8" stroke-miterlimit="10"/>
 <path id="Vector_109" d="M224.07 280.426L211.342 281.84L212.757 269.113L224.07 280.426Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_2">
@@ -712,8 +712,8 @@
 <path id="Vector_113" d="M688.477 420.145L675.749 421.559L677.163 408.831L688.477 420.145Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_4">
-<path id="Vector_114" d="M869.141 140.137C889.247 120.032 882.551 103.361 867.032 87.8415" stroke="url(#paint139_linear_1918_197250)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_115" d="M875.504 145.087L862.776 146.502L864.19 133.774L875.504 145.087Z" fill="#0052AF"/>
+<path id="Vector_114" d="M869.145 140.137C889.251 120.032 882.555 103.361 867.036 87.8415" stroke="url(#paint139_linear_1918_197250)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_115" d="M875.508 145.087L862.78 146.502L864.194 133.774L875.508 145.087Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_5">
 <path id="Vector_116" d="M782.89 415.194C762.785 395.09 769.48 378.418 784.999 362.899" stroke="url(#paint140_linear_1918_197250)" stroke-width="8" stroke-miterlimit="10"/>
@@ -1083,7 +1083,7 @@
 <stop stop-color="#8F650B"/>
 <stop offset="0.9997" stop-color="#EDA813"/>
 </linearGradient>
-<linearGradient id="paint29_linear_1918_197250" x1="436.944" y1="362.551" x2="429.614" y2="551.172" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint29_linear_1918_197250" x1="436.94" y1="362.551" x2="429.61" y2="551.172" gradientUnits="userSpaceOnUse">
 <stop stop-opacity="0"/>
 <stop offset="1" stop-color="white"/>
 </linearGradient>
@@ -1687,7 +1687,7 @@
 <stop stop-color="#519C74"/>
 <stop offset="1" stop-color="#20402F"/>
 </linearGradient>
-<linearGradient id="paint136_linear_1918_197250" x1="216.649" y1="223.18" x2="217.35" y2="275.122" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint136_linear_1918_197250" x1="216.653" y1="223.18" x2="217.354" y2="275.122" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
@@ -1699,7 +1699,7 @@
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
-<linearGradient id="paint139_linear_1918_197250" x1="868.087" y1="87.8413" x2="868.788" y2="139.783" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint139_linear_1918_197250" x1="868.091" y1="87.8413" x2="868.792" y2="139.783" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
