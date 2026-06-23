@@ -1664,7 +1664,7 @@
 <stop stop-color="#FFC69F"/>
 <stop offset="1" stop-color="#FFC69F" stop-opacity="0"/>
 </radialGradient>
-<linearGradient id="paint1_linear_1918_152207" x1="nan" y1="nan" x2="nan" y2="nan" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear_1918_152207" x1="896.199" y1="632.617" x2="945" y2="633" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="1" stop-color="#0052AF"/>
 </linearGradient>
