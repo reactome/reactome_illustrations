@@ -377,8 +377,8 @@
 </g>
 <g id="ARROWS_3">
 <g id="R-ICO-012348_11">
-<path id="Vector_67" d="M1256.3 267.397L1268.24 255.454" stroke="url(#paint43_linear_1918_187297)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_68" d="M1262.24 272.335L1249.8 273.897L1251.36 261.458L1262.24 272.335Z" fill="#0052AF"/>
+<path id="Vector_67" d="M1256.29 267.397L1268.23 255.454" stroke="url(#paint43_linear_1918_187297)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_68" d="M1262.23 272.335L1249.79 273.897L1251.36 261.458L1262.23 272.335Z" fill="#0052AF"/>
 </g>
 </g>
 <g id="PATHWAY_LABEL_3">
@@ -787,7 +787,7 @@
 <stop stop-color="#FF7ABC"/>
 <stop offset="1" stop-color="#A90021"/>
 </linearGradient>
-<linearGradient id="paint43_linear_1918_187297" x1="1268.95" y1="256.161" x2="1257.35" y2="267.759" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint43_linear_1918_187297" x1="1268.94" y1="256.161" x2="1257.34" y2="267.759" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="1" stop-color="#0052AF"/>
 </linearGradient>

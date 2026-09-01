@@ -155,13 +155,13 @@
 </g>
 <g id="ARROWS_2">
 <g id="R-ICO-012348_3">
-<path id="Vector_24" d="M728.022 410.019C755.001 436.999 759.017 466.499 736.5 505.499" stroke="url(#paint7_linear_1918_175860)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_25" d="M728.022 410.02C755.001 437 759.017 466.5 736.5 505.5" stroke="url(#paint8_linear_1918_175860)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_26" d="M723.07 416.384L721.656 403.656L734.384 405.07L723.07 416.384Z" fill="#0052AF"/>
+<path id="Vector_24" d="M728.018 410.019C754.998 436.999 759.013 466.499 736.496 505.499" stroke="url(#paint7_linear_1918_175860)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_25" d="M728.018 410.02C754.998 437 759.013 466.5 736.496 505.5" stroke="url(#paint8_linear_1918_175860)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_26" d="M723.07 416.385L721.656 403.657L734.384 405.071L723.07 416.385Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_4">
 <path id="Vector_27" d="M690.089 532.058C662.625 539.416 627 521.999 616.5 490" stroke="url(#paint9_linear_1918_175860)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_28" d="M687.051 524.589L698.781 529.728L691.192 540.044L687.051 524.589Z" fill="#0052AF"/>
+<path id="Vector_28" d="M687.051 524.588L698.781 529.727L691.192 540.043L687.051 524.588Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_5">
 <path id="Vector_29" d="M616.427 435.672C624.5 421.689 629.5 414.5 640 406" stroke="url(#paint10_linear_1918_175860)" stroke-width="8" stroke-miterlimit="10"/>
@@ -382,11 +382,11 @@
 <stop stop-color="#0F6FE0"/>
 <stop offset="1" stop-color="#301B97"/>
 </linearGradient>
-<linearGradient id="paint7_linear_1918_175860" x1="737" y1="505.999" x2="728.375" y2="409.666" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint7_linear_1918_175860" x1="736.996" y1="505.999" x2="728.371" y2="409.666" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
-<linearGradient id="paint8_linear_1918_175860" x1="737" y1="506" x2="728.375" y2="409.667" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint8_linear_1918_175860" x1="736.996" y1="506" x2="728.371" y2="409.667" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>

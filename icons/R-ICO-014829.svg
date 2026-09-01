@@ -1,10 +1,10 @@
 <svg width="37" height="24" viewBox="0 0 37 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<mask id="path-1-outside-1_938_25062" maskUnits="userSpaceOnUse" x="8.37939" y="0" width="21" height="24" fill="black">
-<rect fill="white" x="8.37939" width="21" height="24"/>
-<path d="M8.37939 2H28.6203V22H8.37939V2Z"/>
+<mask id="path-1-outside-1_938_25062" maskUnits="userSpaceOnUse" x="8.37988" y="0" width="21" height="24" fill="black">
+<rect fill="white" x="8.37988" width="21" height="24"/>
+<path d="M8.37988 2H28.6208V22H8.37988V2Z"/>
 </mask>
-<path d="M8.37939 2H28.6203V22H8.37939V2Z" fill="#D627D2"/>
-<path d="M8.37939 2V4H28.6203V2V0H8.37939V2ZM28.6203 22V20H8.37939V22V24H28.6203V22Z" fill="#6D116D" mask="url(#path-1-outside-1_938_25062)"/>
+<path d="M8.37988 2H28.6208V22H8.37988V2Z" fill="#D627D2"/>
+<path d="M8.37988 2V4H28.6208V2V0H8.37988V2ZM28.6208 22V20H8.37988V22V24H28.6208V22Z" fill="#6D116D" mask="url(#path-1-outside-1_938_25062)"/>
 <mask id="mask0_938_25062" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="10" height="24">
 <rect width="10" height="24" transform="matrix(-1 8.74228e-08 8.74228e-08 1 10 0)" fill="white"/>
 </mask>
@@ -12,7 +12,7 @@
 <path d="M11 0.999999L11.0986 1.00488C11.3276 1.02757 11.5429 1.12883 11.707 1.29297C11.8946 1.4805 12 1.73478 12 2L12 22C12 22.5523 11.5523 23 11 23L8 23C7.73479 23 7.48051 22.8946 7.29297 22.707L1.29297 16.707C1.10543 16.5195 1 16.2652 1 16L1 8C1 7.73478 1.10543 7.48051 1.29297 7.29297L7.29297 1.29297L7.36621 1.22656C7.54417 1.08073 7.76791 0.999999 8 0.999999L11 0.999999Z" fill="#D627D2" stroke="#6D116D" stroke-width="2" stroke-miterlimit="3.99933" stroke-linejoin="round"/>
 </g>
 <mask id="mask1_938_25062" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="27" y="0" width="10" height="24">
-<rect x="27.1558" width="9.84445" height="24" fill="white"/>
+<rect x="27.1553" width="9.84445" height="24" fill="white"/>
 </mask>
 <g mask="url(#mask1_938_25062)">
 <path d="M26 0.999999L25.9014 1.00488C25.6724 1.02757 25.4571 1.12883 25.293 1.29297C25.1054 1.4805 25 1.73478 25 2L25 22C25 22.5523 25.4477 23 26 23L29 23C29.2652 23 29.5195 22.8946 29.707 22.707L35.707 16.707C35.8946 16.5195 36 16.2652 36 16L36 8C36 7.73478 35.8946 7.48051 35.707 7.29297L29.707 1.29297L29.6338 1.22656C29.4558 1.08073 29.2321 1 29 1L26 0.999999Z" fill="#D627D2" stroke="#6D116D" stroke-width="2" stroke-miterlimit="3.99933" stroke-linejoin="round"/>
