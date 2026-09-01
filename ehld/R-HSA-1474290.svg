@@ -32,7 +32,7 @@
 </g>
 <g id="ARROWS">
 <g id="R-ICO-012348">
-<path id="Vector_9" d="M957.18 527.076C1003.01 481.244 1024.72 462.849 1024.72 405.598" stroke="url(#paint5_linear_1918_174874)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_9" d="M957.184 527.076C1003.02 481.244 1024.72 462.849 1024.72 405.598" stroke="url(#paint5_linear_1918_174874)" stroke-width="8" stroke-miterlimit="10"/>
 <path id="Vector_10" d="M963.547 532.026L950.819 533.441L952.233 520.713L963.547 532.026Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012345">
@@ -336,8 +336,8 @@
 </g>
 <g id="ARROWS_3">
 <g id="R-ICO-012348_2">
-<path id="Vector_164" d="M758.41 608.339C786.843 608.339 796.995 608.339 819.41 608.34" stroke="url(#paint25_linear_1918_174874)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_165" d="M759.41 616.34L749.41 608.34L759.41 600.34L759.41 616.34Z" fill="#0052AF"/>
+<path id="Vector_164" d="M758.414 608.339C786.847 608.339 796.999 608.339 819.414 608.34" stroke="url(#paint25_linear_1918_174874)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_165" d="M759.414 616.34L749.414 608.34L759.414 600.34L759.414 616.34Z" fill="#0052AF"/>
 </g>
 </g>
 <g id="PATHWAY_LABEL_2">
@@ -382,7 +382,7 @@
 <stop offset="0.0005" stop-color="#4C6100"/>
 <stop offset="1" stop-color="#FF8600"/>
 </linearGradient>
-<linearGradient id="paint5_linear_1918_174874" x1="1025.22" y1="405.598" x2="956.826" y2="526.722" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint5_linear_1918_174874" x1="1025.23" y1="405.598" x2="956.83" y2="526.722" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
@@ -513,7 +513,7 @@
 <stop stop-color="#6CA438"/>
 <stop offset="1" stop-color="#356738"/>
 </linearGradient>
-<linearGradient id="paint25_linear_1918_174874" x1="819.41" y1="607.84" x2="758.41" y2="607.839" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint25_linear_1918_174874" x1="819.414" y1="607.84" x2="758.414" y2="607.839" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>

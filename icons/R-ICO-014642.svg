@@ -9,23 +9,23 @@
 <g opacity="0.7">
 <path d="M86.4959 48.7526C91.0697 47.3979 93.6211 42.3956 92.1946 37.5798C90.7681 32.764 85.904 29.9583 81.3302 31.313C76.7565 32.6678 74.2051 37.67 75.6315 42.4859C77.058 47.3017 81.9221 50.1074 86.4959 48.7526Z" fill="#CCD3E5" stroke="#496CB2" stroke-miterlimit="10"/>
 <path d="M84.5579 42.2093C85.6993 41.8712 86.336 40.6228 85.98 39.4209C85.624 38.2191 84.4101 37.5188 83.2687 37.8569C82.1272 38.195 81.4905 39.4434 81.8465 40.6453C82.2025 41.8472 83.4164 42.5474 84.5579 42.2093Z" fill="#496CB2"/>
-<path d="M88.9936 32.8475L83.9146 40.0383" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M91.1472 35.2491L83.9146 40.0387" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M92.4106 38.4533L83.9146 40.0386" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M92.5356 41.3158L83.9146 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M91.434 44.7757L83.9146 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M89.4839 47.1451L83.9146 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M86.6734 48.7062L83.9146 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M83.4442 49.0673L83.9146 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M80.5688 48.2967L83.9145 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M77.4643 45.9052L83.9146 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M76.0582 43.6539L83.9145 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M75.2735 40.5903L83.9145 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M75.4135 37.9721L83.9145 40.0387" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M76.72 34.7674L83.9145 40.0383" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M79.2332 32.2756L83.9146 40.0384" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M82.2097 31.1096L83.9145 40.0387" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
-<path d="M85.2486 31.1283L83.9146 40.0385" stroke="#496CB2" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M88.9936 32.8475L83.9146 40.0383" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M91.1472 35.2491L83.9146 40.0387" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M92.4106 38.4533L83.9146 40.0386" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M92.5356 41.3158L83.9146 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M91.434 44.7757L83.9146 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M89.4839 47.1451L83.9146 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M86.6734 48.7062L83.9146 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M83.4442 49.0673L83.9146 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M80.5688 48.2967L83.9145 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M77.4643 45.9052L83.9146 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M76.0582 43.6539L83.9145 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M75.2735 40.5903L83.9145 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M75.4135 37.9721L83.9145 40.0387" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M76.72 34.7674L83.9145 40.0383" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M79.2332 32.2756L83.9146 40.0384" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M82.2097 31.1096L83.9145 40.0387" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
+<path d="M85.2486 31.1283L83.9146 40.0385" stroke="#496CB2" stroke-width="0.504869" stroke-miterlimit="10"/>
 </g>
 <defs>
 <radialGradient id="paint0_radial_938_25177" cx="0" cy="0" r="1" gradientTransform="matrix(43.9944 -2.81139 3.9274 46.0365 51.1157 38.2682)" gradientUnits="userSpaceOnUse">

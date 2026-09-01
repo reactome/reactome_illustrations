@@ -109,12 +109,12 @@
 </g>
 <g id="ARROWS">
 <g id="R-ICO-012348">
-<path id="Vector_16" d="M623.089 294.487C543.732 315.751 532.493 435.584 631.909 458.61" stroke="url(#paint9_linear_1918_196289)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_17" d="M620.055 287.018L631.784 292.157L624.196 302.472L620.055 287.018Z" fill="#0052AF"/>
+<path id="Vector_16" d="M623.089 294.486C543.732 315.751 532.493 435.583 631.909 458.609" stroke="url(#paint9_linear_1918_196289)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_17" d="M620.051 287.017L631.781 292.156L624.192 302.471L620.051 287.017Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_2">
-<path id="Vector_18" d="M542.572 342.704C566.177 366.31 568.295 386.679 537.03 414.008" stroke="url(#paint10_linear_1918_196289)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_19" d="M537.621 349.069L536.207 336.341L548.935 337.756L537.621 349.069Z" fill="#0052AF"/>
+<path id="Vector_18" d="M542.572 342.705C566.177 366.311 568.295 386.68 537.03 414.009" stroke="url(#paint10_linear_1918_196289)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_19" d="M537.621 349.07L536.207 336.342L548.935 337.757L537.621 349.07Z" fill="#0052AF"/>
 </g>
 </g>
 <g id="PATHWAY_LABEL">
@@ -183,11 +183,11 @@
 <g id="ARROWS_2">
 <g id="R-ICO-012348_3">
 <path id="Vector_22" d="M739.048 457.653C818.405 436.388 829.644 316.556 730.227 293.53" stroke="url(#paint17_linear_1918_196289)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_23" d="M742.086 465.122L730.356 459.983L737.945 449.667L742.086 465.122Z" fill="#0052AF"/>
+<path id="Vector_23" d="M742.086 465.121L730.356 459.982L737.945 449.666L742.086 465.121Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_4">
-<path id="Vector_24" d="M819.568 409.437C795.964 385.831 793.845 365.462 825.111 338.133" stroke="url(#paint18_linear_1918_196289)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_25" d="M824.52 403.072L825.934 415.8L813.206 414.386L824.52 403.072Z" fill="#0052AF"/>
+<path id="Vector_24" d="M819.565 409.435C795.96 385.829 793.841 365.46 825.107 338.131" stroke="url(#paint18_linear_1918_196289)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_25" d="M824.516 403.07L825.93 415.798L813.202 414.384L824.516 403.07Z" fill="#0052AF"/>
 </g>
 </g>
 <g id="PATHWAY_LABEL_2">
@@ -239,11 +239,11 @@
 <stop stop-color="#BF728E"/>
 <stop offset="1" stop-color="#7C2621"/>
 </linearGradient>
-<linearGradient id="paint9_linear_1918_196289" x1="632.187" y1="457.475" x2="623.218" y2="294.973" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint9_linear_1918_196289" x1="632.187" y1="457.474" x2="623.218" y2="294.972" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
-<linearGradient id="paint10_linear_1918_196289" x1="537.483" y1="414.42" x2="542.926" y2="342.362" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint10_linear_1918_196289" x1="537.483" y1="414.421" x2="542.926" y2="342.363" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
@@ -280,7 +280,7 @@
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
-<linearGradient id="paint18_linear_1918_196289" x1="824.658" y1="337.722" x2="819.214" y2="409.78" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint18_linear_1918_196289" x1="824.654" y1="337.72" x2="819.211" y2="409.778" gradientUnits="userSpaceOnUse">
 <stop stop-color="#9CDAFF"/>
 <stop offset="0.9502" stop-color="#0052AF"/>
 </linearGradient>
