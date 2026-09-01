@@ -15,15 +15,15 @@
 <path d="M14.1739 97.6597H2.00526C0.897756 97.6597 0 96.7619 0 95.6544V92.9389C0 91.8314 0.897756 90.9336 2.00526 90.9336H14.1739C15.2814 90.9336 16.1792 91.8314 16.1792 92.9389V95.6544C16.1792 96.7618 15.2814 97.6597 14.1739 97.6597Z" fill="url(#paint13_linear_938_24347)"/>
 <path d="M14.1739 97.6597H2.00526C0.897756 97.6597 0 96.7619 0 95.6544V92.9389C0 91.8314 0.897756 90.9336 2.00526 90.9336H14.1739C15.2814 90.9336 16.1792 91.8314 16.1792 92.9389V95.6544C16.1792 96.7618 15.2814 97.6597 14.1739 97.6597Z" fill="url(#paint14_linear_938_24347)"/>
 <path d="M14.1739 77.4815H2.00526C0.897756 77.4815 0 76.5838 0 75.4763V2.00526C0 0.897756 0.897756 0 2.00526 0H14.1739C15.2814 0 16.1792 0.897756 16.1792 2.00526V75.4763C16.1792 76.5838 15.2814 77.4815 14.1739 77.4815Z" fill="url(#paint15_linear_938_24347)"/>
-<path d="M0 7.74812H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
-<path d="M0 15.4962H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
-<path d="M0 23.2445H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
-<path d="M0 30.9926H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
-<path d="M0 38.7407H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
-<path d="M0 46.489H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
-<path d="M0 54.2371H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
-<path d="M0 61.9853H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
-<path d="M0 69.7334H16.1792" stroke="#92A1FF" stroke-miterlimit="10"/>
+<path d="M0 7.74812H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
+<path d="M0 15.4962H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
+<path d="M0 23.2445H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
+<path d="M0 30.9926H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
+<path d="M0 38.7407H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
+<path d="M0 46.489H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
+<path d="M0 54.2371H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
+<path d="M0 61.9853H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
+<path d="M0 69.7334H16.1792" stroke="#92A1FF" stroke-width="1.00263" stroke-miterlimit="10"/>
 <path d="M14.1739 77.4815H2.00526C0.897756 77.4815 0 76.5838 0 75.4763V2.00526C0 0.897756 0.897756 0 2.00526 0H14.1739C15.2814 0 16.1792 0.897756 16.1792 2.00526V75.4763C16.1792 76.5838 15.2814 77.4815 14.1739 77.4815Z" fill="url(#paint16_linear_938_24347)"/>
 <defs>
 <linearGradient id="paint0_linear_938_24347" x1="0" y1="185.801" x2="16.1792" y2="185.801" gradientUnits="userSpaceOnUse">
