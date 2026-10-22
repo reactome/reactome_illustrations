@@ -114,20 +114,20 @@
 </g>
 <g id="ARROWS">
 <g id="R-ICO-012340">
-<path id="Vector_28" d="M1027.47 605.318C1081.97 605.318 1082.62 602.482 1101.78 583.318" stroke="url(#paint11_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_29" d="M1027.47 605.318C1081.97 605.318 1082.62 608.154 1101.78 627.318" stroke="url(#paint12_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_28" d="M1027.47 605.318C1081.97 605.318 1082.62 602.482 1101.78 583.318" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint11_linear_1918_1202738)"/>
+<path id="Vector_29" d="M1027.47 605.318C1081.97 605.318 1082.62 608.154 1101.78 627.318" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint12_linear_1918_1202738)"/>
 <path id="Vector_30" d="M1028.17 597.627L1018.27 605.319L1028.17 613.01V597.627Z" fill="#0052AF"/>
 <g id="Group">
-<path id="Vector_31" d="M1069.5 612.818L1054.5 597.818" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
-<path id="Vector_32" d="M1069.5 597.818L1054.5 612.818" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
+<path id="Vector_31" d="M1069.5 612.818L1054.5 597.818" stroke-width="5" stroke-miterlimit="10" stroke="#AA294B"/>
+<path id="Vector_32" d="M1069.5 597.818L1054.5 612.818" stroke-width="5" stroke-miterlimit="10" stroke="#AA294B"/>
 </g>
 </g>
 <g id="R-ICO-012343">
-<path id="Vector_33" d="M1110.78 484.631V530.645" stroke="url(#paint13_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_33" d="M1110.78 484.631V530.645" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint13_linear_1918_1202738)"/>
 <path id="Vector_34" d="M1103.09 485.337L1110.78 475.438L1118.47 485.337H1103.09Z" fill="#BA1149"/>
 </g>
 <g id="R-ICO-012343_2">
-<path id="Vector_35" d="M1110.78 394.75V445.437" stroke="url(#paint14_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_35" d="M1110.78 394.75V445.437" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint14_linear_1918_1202738)"/>
 <path id="Vector_36" d="M1103.09 395.457L1110.78 385.557L1118.47 395.457H1103.09Z" fill="#BA1149"/>
 </g>
 </g>
@@ -331,45 +331,45 @@
 </g>
 <g id="ARROWS_2">
 <g id="R-ICO-012340_2">
-<path id="Vector_58" d="M534.302 460.438H305.578" stroke="url(#paint53_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_59" d="M350.762 430.199C350.762 451.774 357.103 460.437 380.762 460.437H534.302" stroke="url(#paint54_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_60" d="M446.365 435.199C446.365 452.746 451.675 460.437 471.365 460.437H534.302" stroke="url(#paint55_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_58" d="M534.302 460.438H305.578" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint53_linear_1918_1202738)"/>
+<path id="Vector_59" d="M350.762 430.199C350.762 451.774 357.103 460.437 380.762 460.437H534.302" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint54_linear_1918_1202738)"/>
+<path id="Vector_60" d="M446.365 435.199C446.365 452.746 451.675 460.437 471.365 460.437H534.302" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint55_linear_1918_1202738)"/>
 <path id="Vector_61" d="M533.596 452.746L543.496 460.437L533.596 468.128V452.746Z" fill="#0052AF"/>
 <g id="Group_8">
-<path id="Vector_62" d="M488.795 467.938L503.795 452.938" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
-<path id="Vector_63" d="M488.795 452.938L503.795 467.938" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
+<path id="Vector_62" d="M488.795 467.938L503.795 452.938" stroke-width="5" stroke-miterlimit="10" stroke="#AA294B"/>
+<path id="Vector_63" d="M488.795 452.938L503.795 467.938" stroke-width="5" stroke-miterlimit="10" stroke="#AA294B"/>
 </g>
 </g>
 <g id="R-ICO-012348">
-<path id="Vector_64" d="M682.732 460.438H629.182" stroke="url(#paint56_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_65" d="M682.733 460.437C663.298 460.437 653.633 452.483 653.633 431.057" stroke="url(#paint57_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_64" d="M682.732 460.438H629.182" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint56_linear_1918_1202738)"/>
+<path id="Vector_65" d="M682.733 460.437C663.298 460.437 653.633 452.483 653.633 431.057" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint57_linear_1918_1202738)"/>
 <path id="Vector_66" d="M682.025 452.746L691.925 460.437L682.025 468.128V452.746Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_2">
-<path id="Vector_67" d="M796.474 460.438H747.924" stroke="url(#paint58_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_67" d="M796.474 460.438H747.924" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint58_linear_1918_1202738)"/>
 <path id="Vector_68" d="M795.768 452.747L805.668 460.438L795.768 468.129V452.747Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012343_3">
-<path id="Vector_69" d="M1149.48 214.317L1083.34 148.179C1081.47 146.303 1078.92 145.25 1076.27 145.25H905.713" stroke="url(#paint59_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_69" d="M1149.48 214.317L1083.34 148.179C1081.47 146.303 1078.92 145.25 1076.27 145.25H905.713" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint59_linear_1918_1202738)"/>
 <path id="Vector_70" d="M1154.42 208.379L1155.98 220.818L1143.54 219.256L1154.42 208.379Z" fill="#BA1149"/>
 </g>
 <g id="R-ICO-012343_4">
-<path id="Vector_71" d="M751.131 145.271H554.119" stroke="url(#paint60_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_71" d="M751.131 145.271H554.119" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint60_linear_1918_1202738)"/>
 <path id="Vector_72" d="M750.424 137.58L760.324 145.271L750.424 152.962V137.58Z" fill="#BA1149"/>
 </g>
 <g id="R-ICO-012343_5">
-<path id="Vector_73" d="M486.041 145.271H289.029" stroke="url(#paint61_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_73" d="M486.041 145.271H289.029" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint61_linear_1918_1202738)"/>
 <path id="Vector_74" d="M485.334 137.58L495.234 145.271L485.334 152.962V137.58Z" fill="#BA1149"/>
 </g>
 <g id="R-ICO-012343_6">
-<path id="Vector_75" d="M261.678 169.464C261.678 234.443 279.219 234.449 307.36 234.449" stroke="url(#paint62_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_76" d="M261.678 169.464C261.678 234.443 244.137 234.449 215.996 234.449" stroke="url(#paint63_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_77" d="M261.678 169.464V290.382" stroke="url(#paint64_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_75" d="M261.678 169.464C261.678 234.443 279.219 234.449 307.36 234.449" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint62_linear_1918_1202738)"/>
+<path id="Vector_76" d="M261.678 169.464C261.678 234.443 244.137 234.449 215.996 234.449" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint63_linear_1918_1202738)"/>
+<path id="Vector_77" d="M261.678 169.464V290.382" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint64_linear_1918_1202738)"/>
 <path id="Vector_78" d="M253.986 170.171L261.677 160.271L269.368 170.171H253.986Z" fill="#BA1149"/>
 </g>
 <g id="R-ICO-012343_7">
-<path id="Vector_79" d="M350.762 278.642C350.762 343.621 368.303 343.393 396.444 343.393" stroke="url(#paint65_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
-<path id="Vector_80" d="M350.762 278.642V400.2" stroke="url(#paint66_linear_1918_1202738)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_79" d="M350.762 278.642C350.762 343.621 368.303 343.393 396.444 343.393" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint65_linear_1918_1202738)"/>
+<path id="Vector_80" d="M350.762 278.642V400.2" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint66_linear_1918_1202738)"/>
 <path id="Vector_81" d="M343.07 279.348L350.761 269.448L358.453 279.348H343.07Z" fill="#BA1149"/>
 </g>
 </g>
