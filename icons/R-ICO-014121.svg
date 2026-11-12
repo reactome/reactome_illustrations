@@ -1,5 +1,9 @@
 <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M40.0005 2.51335C60.7036 2.51361 77.4867 19.2973 77.4867 40.0005C77.4864 60.7034 60.7034 77.4864 40.0005 77.4867C19.2973 77.4867 2.51361 60.7036 2.51335 40.0005C2.51335 19.2972 19.2972 2.51335 40.0005 2.51335Z" fill="url(#paint0_radial_938_25641)" stroke="#D19B26" stroke-width="5" stroke-miterlimit="10"/>
+<path d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z" fill="url(#paint0_radial_938_25641)"/>
+<mask id="stroke0_938_25641" fill="white">
+<path d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z"/>
+</mask>
+<path d="M80 40C80 62.0914 62.0914 80 40 80C17.9086 80 0 62.0914 0 40C0 17.9086 17.9086 0 40 0C62.0914 0 80 17.9086 80 40Z" stroke-width="10.0534" stroke-miterlimit="10" stroke="#D19B26" mask="url(#stroke0_938_25641)"/>
 <defs>
 <radialGradient id="paint0_radial_938_25641" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(40 40) scale(40)">
 <stop stop-color="#D64000"/>
