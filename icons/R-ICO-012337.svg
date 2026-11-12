@@ -5,8 +5,8 @@
 <path d="M60 6.15849H40.8787C37.8659 6.15849 34.1891 6.58741 29.7627 9.76734C25.1853 13.0566 21.3827 13.5 18.2668 13.5H0V5.5001H0.657174V12.8415H18.2669C21.2785 12.8415 24.9537 12.4126 29.3801 9.23236C33.9577 5.94339 37.7616 5.5 40.8788 5.5H60V6.15849Z" fill="url(#paint3_linear_938_25880)"/>
 <path d="M60 1.50009L70 9.50009L60 17.5001V1.50009Z" fill="#0052AF"/>
 <g clip-path="url(#clip0_938_25880)">
-<path d="M22.0713 17L37.0713 2" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
-<path d="M22.0713 2L37.0713 17" stroke="#AA294B" stroke-width="5" stroke-miterlimit="10"/>
+<path d="M22.0713 17L37.0713 2" stroke-width="5" stroke-miterlimit="10" stroke="#AA294B"/>
+<path d="M22.0713 2L37.0713 17" stroke-width="5" stroke-miterlimit="10" stroke="#AA294B"/>
 </g>
 <defs>
 <linearGradient id="paint0_linear_938_25880" x1="27.3097" y1="9.49994" x2="58.4374" y2="9.49994" gradientUnits="userSpaceOnUse">

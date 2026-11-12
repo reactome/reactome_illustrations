@@ -1,10 +1,19 @@
-<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M34.0001 2.02372C51.66 2.02375 65.9764 16.3401 65.9764 34.0001C65.9764 51.66 51.66 65.9764 34.0001 65.9764C16.3401 65.9764 2.02375 51.66 2.02372 34.0001C2.02372 16.34 16.34 2.02372 34.0001 2.02372Z" fill="#72C6CC" stroke="#0F82BC" stroke-width="4" stroke-miterlimit="10"/>
-<path d="M34.0001 13.155C43.3825 13.155 51.6651 13.9341 57.5841 16.9327C60.517 18.4185 62.8488 20.44 64.4556 23.1758C66.0651 25.9162 66.9882 29.4427 66.9882 33.9999C66.9882 52.2187 52.2188 66.988 34.0001 66.9881C15.7812 66.9881 1.01186 52.2186 1.01186 33.9999C1.01187 29.4427 1.93491 25.9162 3.54447 23.1758C5.15129 20.44 7.48306 18.4185 10.416 16.9327C16.335 13.9342 24.6176 13.155 34.0001 13.155Z" fill="url(#paint0_radial_938_24573)" stroke="#0F82BC" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M34 68C52.7777 68 68 52.7777 68 34C68 15.2223 52.7777 0 34 0C15.2223 0 0 15.2223 0 34C0 52.7777 15.2223 68 34 68Z" fill="#72C6CC"/>
+<mask id="stroke0_938_24573" fill="white">
+<path d="M34 68C52.7777 68 68 52.7777 68 34C68 15.2223 52.7777 0 34 0C15.2223 0 0 15.2223 0 34C0 52.7777 15.2223 68 34 68Z"/>
+</mask>
+<path d="M68 34C68 52.7777 52.7777 68 34 68C15.2223 68 0 52.7777 0 34C0 15.2223 15.2223 0 34 0C52.7777 0 68 15.2223 68 34Z" stroke-width="8.09487" stroke-miterlimit="10" stroke="#0F82BC" mask="url(#stroke0_938_24573)"/>
+<use xlink:href="#stroke1_938_24573" fill="url(#paint0_radial_938_24573)"/>
+<mask id="stroke2_938_24573" fill="white">
+<use xlink:href="#stroke1_938_24573"/>
+</mask>
+<path d="M67.9999 34C67.9999 52.7777 52.7776 68 33.9999 68C15.2222 68 0 52.7776 0 34C0 15.2224 15.2223 12.1431 34 12.1431C52.7777 12.1431 67.9999 15.2223 67.9999 34Z" stroke-width="4.04744" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#0F82BC" mask="url(#stroke2_938_24573)"/>
 <defs>
 <radialGradient id="paint0_radial_938_24573" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.78866 27.1581) scale(67.9685 67.9685)">
 <stop stop-color="#A88D61"/>
 <stop offset="1" stop-color="#EFDAA0"/>
 </radialGradient>
+<path id="stroke1_938_24573" d="M67.9999 34C67.9999 52.7777 52.7776 68 33.9999 68C15.2222 68 0 52.7776 0 34C0 15.2224 15.2223 12.1431 34 12.1431C52.7777 12.1431 67.9999 15.2223 67.9999 34Z"/>
 </defs>
 </svg>

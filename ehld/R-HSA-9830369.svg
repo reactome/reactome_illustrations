@@ -48,9 +48,9 @@
 </g>
 </g>
 <g id="Group">
-<path id="DUCT" d="M184.469 225.756C188.744 239.293 203.914 289.261 162.582 331.248" stroke="#CCA433" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="DUCT_2" d="M180.469 227.756C181.148 229.905 182.072 233.063 182.964 237.005" stroke="#CCA433" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="CORD_3" d="M183.953 241.839C186.878 257.762 188.089 282.406 175.355 305.889" stroke="#BA552D" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="DUCT" d="M184.469 225.756C188.744 239.293 203.914 289.261 162.582 331.248" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#CCA433"/>
+<path id="DUCT_2" d="M180.469 227.756C181.148 229.905 182.072 233.063 182.964 237.005" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#CCA433"/>
+<path id="CORD_3" d="M183.953 241.839C186.878 257.762 188.089 282.406 175.355 305.889" stroke-width="5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" stroke="#BA552D"/>
 </g>
 <path id="ZOOM 2BG" d="M904.366 703.539C957.661 703.539 1000.86 660.335 1000.86 607.04C1000.86 553.745 957.661 510.541 904.366 510.541C851.071 510.541 807.867 553.745 807.867 607.04C807.867 660.335 851.071 703.539 904.366 703.539Z" fill="#EBF9FF"/>
 <g id="ZOOM">
@@ -59,10 +59,10 @@
 </g>
 <path id="ZOOM 3 BG" d="M189.564 661.504C258.658 661.504 314.671 605.491 314.671 536.397C314.671 467.302 258.658 411.29 189.564 411.29C120.469 411.29 64.457 467.302 64.457 536.397C64.457 605.491 120.469 661.504 189.564 661.504Z" fill="#EBF9FF"/>
 <path id="ZOOM BG" d="M474.729 272.125C491.667 185.31 460.464 106.165 405.035 95.3503C349.606 84.5355 290.94 146.146 274.002 232.961C257.063 319.777 288.266 398.921 343.695 409.736C399.125 420.551 457.79 358.94 474.729 272.125Z" fill="#EBF9FF"/>
-<path id="ZOOM OUTLINE" d="M473.971 272.773C490.909 185.957 459.706 106.813 404.277 95.9978C348.848 85.183 290.183 146.794 273.244 233.609C256.306 320.424 287.508 399.569 342.938 410.384C398.367 421.198 457.032 359.588 473.971 272.773Z" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="small ZOOM OUTLINE" d="M202.8 283.789C209.499 249.458 202.774 219.255 187.78 216.33C172.787 213.404 155.202 238.864 148.503 273.195C141.805 307.526 148.53 337.729 163.523 340.654C178.517 343.58 196.102 318.12 202.8 283.789Z" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="Vector_9" d="M176.855 218.791L345.816 109.919" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="Vector_10" d="M161.336 340.025L330.349 406.616" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
+<path id="ZOOM OUTLINE" d="M404.277 95.9978C459.706 106.813 490.909 185.957 473.971 272.773C457.032 359.588 398.367 421.198 342.938 410.384C287.508 399.569 256.306 320.424 273.244 233.609C290.183 146.794 348.848 85.183 404.277 95.9978Z" stroke-width="3.00002" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="small ZOOM OUTLINE" d="M187.78 216.33C202.774 219.255 209.499 249.458 202.8 283.789C196.102 318.12 178.517 343.58 163.523 340.654C148.53 337.729 141.805 307.526 148.503 273.195C155.202 238.864 172.787 213.404 187.78 216.33Z" stroke-width="3.00002" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="Vector_9" d="M176.855 218.791L345.816 109.919" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="Vector_10" d="M161.336 340.025L330.349 406.616" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
 </g>
 </g>
 <g id="TEXT_DM">
@@ -178,7 +178,7 @@
 </g>
 <g id="ARROWS">
 <g id="R-ICO-012348">
-<path id="Vector_62" d="M548.367 106.643C510.98 80.5228 454.002 80.5228 408.23 109.69" stroke="url(#paint38_linear_1918_469072)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_62" d="M548.367 106.643C510.98 80.5228 454.002 80.5228 408.23 109.69" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint38_linear_1918_469072)"/>
 <path id="Vector_63" d="M551.527 99.8457L555.261 111.813L542.742 112.473L551.527 99.8457Z" fill="#0052AF"/>
 </g>
 </g>
@@ -260,11 +260,11 @@
 </g>
 </g>
 <path id="CLOACA_4" d="M728.346 436.806C735.822 444.798 734.621 458.069 725.663 466.449C716.705 474.829 703.383 475.143 695.907 467.151C688.431 459.159 689.632 445.888 698.59 437.508C707.548 429.128 720.87 428.814 728.346 436.806Z" fill="url(#paint59_radial_1918_469072)"/>
-<path id="Vector_103" d="M853.315 339.554C850.403 346.715 847.195 353.533 843.711 360.044" stroke="#D6633E" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_103" d="M853.315 339.554C850.403 346.715 847.195 353.533 843.711 360.044" stroke-width="10" stroke-miterlimit="10" stroke-linecap="round" stroke="#D6633E"/>
 </g>
 <g id="ARROWS_2">
 <g id="R-ICO-012348_2">
-<path id="Vector_104" d="M1004.37 126.643C966.98 100.523 910.002 100.523 864.23 129.69" stroke="url(#paint60_linear_1918_469072)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_104" d="M1004.37 126.643C966.98 100.523 910.002 100.523 864.23 129.69" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint60_linear_1918_469072)"/>
 <path id="Vector_105" d="M1007.53 119.846L1011.26 131.813L998.742 132.473L1007.53 119.846Z" fill="#0052AF"/>
 </g>
 </g>
@@ -332,11 +332,11 @@
 </g>
 <g id="ARROWS_3">
 <g id="R-ICO-012348_3">
-<path id="Vector_128" d="M467.379 698.677C504.765 724.797 561.744 724.797 607.515 695.63" stroke="url(#paint87_linear_1918_469072)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_128" d="M467.379 698.677C504.765 724.797 561.744 724.797 607.515 695.63" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint87_linear_1918_469072)"/>
 <path id="Vector_129" d="M464.219 705.474L460.484 693.507L473.003 692.847L464.219 705.474Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_4">
-<path id="Vector_130" d="M718.379 552.072C755.765 525.951 812.744 525.952 858.515 555.119" stroke="url(#paint88_linear_1918_469072)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_130" d="M718.379 552.072C755.765 525.951 812.744 525.952 858.515 555.119" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint88_linear_1918_469072)"/>
 <path id="Vector_131" d="M715.219 545.274L711.484 557.242L724.003 557.902L715.219 545.274Z" fill="#0052AF"/>
 </g>
 </g>
@@ -356,103 +356,103 @@
 <g id="ZOOM GRADIENT BACKGROUND_2" filter="url(#filter1_d_1918_469072)">
 <path d="M228.002 415.971C248.628 424.436 511.497 547.921 511.497 547.921C530.122 556.289 537.571 575.66 535.248 592.262C532.733 610.236 517.701 624.683 499.926 626.473C499.904 626.002 224.601 660.063 193.044 661.903C161.487 663.743 132.39 652.399 106.411 630.861C65.1057 596.616 56.699 533.146 68.9732 499.79C81.2475 466.435 103.813 433.751 144.293 418.196C174.819 406.466 207.377 407.506 228.002 415.971Z" fill="url(#paint89_radial_1918_469072)" shape-rendering="crispEdges"/>
 </g>
-<path id="small_x5F_ZOOM_x5F_OUTLINE_3_" d="M494.286 626.342C516.643 626.342 534.766 608.218 534.766 585.861C534.766 563.504 516.643 545.38 494.286 545.38C471.929 545.38 453.805 563.504 453.805 585.861C453.805 608.218 471.929 626.342 494.286 626.342Z" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="Vector_132" d="M498.86 626.092L203.32 660.774" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="Vector_133" d="M511.265 549.11L239.578 421.666" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="big_x5F_ZOOM_x5F_OUTLINE_3_" d="M189.564 661.502C258.658 661.502 314.671 605.489 314.671 536.395C314.671 467.3 258.658 411.288 189.564 411.288C120.469 411.288 64.457 467.3 64.457 536.395C64.457 605.489 120.469 661.502 189.564 661.502Z" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
+<path id="small_x5F_ZOOM_x5F_OUTLINE_3_" d="M534.766 585.861C534.766 608.218 516.643 626.342 494.286 626.342C471.929 626.342 453.805 608.218 453.805 585.861C453.805 563.504 471.929 545.38 494.286 545.38C516.643 545.38 534.766 563.504 534.766 585.861Z" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="Vector_132" d="M498.86 626.092L203.32 660.774" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="Vector_133" d="M511.265 549.11L239.578 421.666" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="big_x5F_ZOOM_x5F_OUTLINE_3_" d="M314.671 536.395C314.671 605.489 258.658 661.502 189.564 661.502C120.469 661.502 64.457 605.489 64.457 536.395C64.457 467.3 120.469 411.288 189.564 411.288C258.658 411.288 314.671 467.3 314.671 536.395Z" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
 </g>
 <g id="ZOOM 2">
 <g id="ZOOM GRADIENT BACKGROUND_3" filter="url(#filter2_d_1918_469072)">
 <path d="M888.055 511.125L1130.67 492.395C1153.66 489.823 1167.09 519.229 1152.8 534.426L952.818 691.394C893.337 723.081 832.418 690.271 813.063 640.997C798.679 598.701 810.665 530.872 888.055 511.125Z" fill="url(#paint90_radial_1918_469072)" shape-rendering="crispEdges"/>
 </g>
-<path id="small_x5F_ZOOM_x5F_OUTLINE_1_" d="M1133.64 542.306C1147.2 542.306 1158.18 531.32 1158.18 517.767C1158.18 504.214 1147.2 493.228 1133.64 493.228C1120.09 493.228 1109.11 504.214 1109.11 517.767C1109.11 531.32 1120.09 542.306 1133.64 542.306Z" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="Vector_134" d="M1148.13 537.575L962.277 684.248" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="Vector_135" d="M1133.02 493.236L899.121 510.684" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
-<path id="big_x5F_ZOOM_x5F_OUTLINE_2_" d="M904.37 703.539C957.665 703.539 1000.87 660.335 1000.87 607.04C1000.87 553.745 957.665 510.541 904.37 510.541C851.075 510.541 807.871 553.745 807.871 607.04C807.871 660.335 851.075 703.539 904.37 703.539Z" stroke="#5FBEFF" stroke-width="3" stroke-miterlimit="10"/>
+<path id="small_x5F_ZOOM_x5F_OUTLINE_1_" d="M1158.18 517.767C1158.18 531.32 1147.2 542.306 1133.64 542.306C1120.09 542.306 1109.11 531.32 1109.11 517.767C1109.11 504.214 1120.09 493.228 1133.64 493.228C1147.2 493.228 1158.18 504.214 1158.18 517.767Z" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="Vector_134" d="M1148.13 537.575L962.277 684.248" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="Vector_135" d="M1133.02 493.236L899.121 510.684" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
+<path id="big_x5F_ZOOM_x5F_OUTLINE_2_" d="M1000.87 607.04C1000.87 660.335 957.665 703.539 904.37 703.539C851.075 703.539 807.871 660.335 807.871 607.04C807.871 553.745 851.075 510.541 904.37 510.541C957.665 510.541 1000.87 553.745 1000.87 607.04Z" stroke-width="3" stroke-miterlimit="10" stroke="#5FBEFF"/>
 </g>
 <g id="ARROWS_4">
 <g id="R-ICO-012345">
 <path id="Vector_136" d="M1032.38 206.916L1042.28 214.607L1032.38 222.298V206.916Z" fill="#0052AF"/>
-<path id="Vector_137" d="M1033.03 214.607H972.77" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_137" d="M1033.03 214.607H972.77" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_2">
 <path id="Vector_138" d="M992.533 332.743L994.095 345.182L981.656 343.62L992.533 332.743Z" fill="#0052AF"/>
-<path id="Vector_139" d="M987.554 338.641L963.945 315.032" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_139" d="M987.554 338.641L963.945 315.032" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_3">
 <path id="Vector_140" d="M797.533 364.743L799.095 377.182L786.656 375.62L797.533 364.743Z" fill="#0052AF"/>
-<path id="Vector_141" d="M792.554 370.641L749.945 328.032" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_141" d="M792.554 370.641L749.945 328.032" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_4">
 <path id="Vector_142" d="M656.999 698.493L655.438 686.055L667.876 687.617L656.999 698.493Z" fill="#0052AF"/>
-<path id="Vector_143" d="M661.977 692.596L674.585 705.204" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_143" d="M661.977 692.596L674.585 705.204" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_5">
 <path id="Vector_144" d="M357.533 144.743L359.095 157.182L346.656 155.62L357.533 144.743Z" fill="#0052AF"/>
-<path id="Vector_145" d="M352.554 150.641L309.945 108.032" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_145" d="M352.554 150.641L309.945 108.032" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_6">
 <path id="Vector_146" d="M355.375 177.915L365.275 185.606L355.375 193.297V177.915Z" fill="#0052AF"/>
-<path id="Vector_147" d="M356.025 185.607H275.909C273.257 185.607 270.713 184.553 268.838 182.678L245.043 158.883" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_147" d="M356.025 185.607H275.909C273.257 185.607 270.713 184.553 268.838 182.678L245.043 158.883" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_7">
 <path id="Vector_148" d="M440.943 179.916L431.043 187.607L440.943 195.298V179.916Z" fill="#0052AF"/>
-<path id="Vector_149" d="M440.293 187.607H474.409C477.061 187.607 479.605 186.554 481.48 184.678L507.274 158.884" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_149" d="M440.293 187.607H474.409C477.061 187.607 479.605 186.554 481.48 184.678L507.274 158.884" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_8">
 <path id="Vector_150" d="M374.656 225.594L387.095 224.032L385.533 236.471L374.656 225.594Z" fill="#0052AF"/>
-<path id="Vector_151" d="M380.554 230.573L367.945 243.182" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_151" d="M380.554 230.573L367.945 243.182" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_9">
 <path id="Vector_152" d="M821.507 410.471L819.945 398.032L832.384 399.594L821.507 410.471Z" fill="#0052AF"/>
-<path id="Vector_153" d="M826.484 404.573L839.093 417.182" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_153" d="M826.484 404.573L839.093 417.182" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_10">
 <path id="Vector_154" d="M370.754 687.617L383.193 686.055L381.631 698.493L370.754 687.617Z" fill="#0052AF"/>
-<path id="Vector_155" d="M376.652 692.596L364.043 705.205" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_155" d="M376.652 692.596L364.043 705.205" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_11">
 <path id="Vector_156" d="M495.054 417.461L487.363 427.361L479.672 417.461H495.054Z" fill="#0052AF"/>
-<path id="Vector_157" d="M487.363 418.111V377.853" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_157" d="M487.363 418.111V377.853" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_12">
 <path id="Vector_158" d="M662.298 207.549L649.859 209.111L651.421 196.672L662.298 207.549Z" fill="#0052AF"/>
-<path id="Vector_159" d="M656.398 202.57L684.865 174.104" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_159" d="M656.398 202.57L684.865 174.104" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_13">
 <path id="Vector_160" d="M585.767 272.137L587.329 284.575L574.891 283.014L585.767 272.137Z" fill="#0052AF"/>
-<path id="Vector_161" d="M580.79 278.034L559.395 256.639" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_161" d="M580.79 278.034L559.395 256.639" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_14">
 <path id="Vector_162" d="M179.463 490.934L181.025 503.372L168.586 501.81L179.463 490.934Z" fill="#0052AF"/>
-<path id="Vector_163" d="M174.485 496.831L167.09 489.436" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_163" d="M174.485 496.831L167.09 489.436" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_15">
 <path id="Vector_164" d="M103.529 550.81L91.0898 552.372L92.6517 539.934L103.529 550.81Z" fill="#0052AF"/>
-<path id="Vector_165" d="M97.6289 545.831L105.025 538.436" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_165" d="M97.6289 545.831L105.025 538.436" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_16">
 <path id="Vector_166" d="M175.586 611.997L188.025 610.436L186.463 622.874L175.586 611.997Z" fill="#0052AF"/>
-<path id="Vector_167" d="M181.485 616.977L174.09 624.372" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_167" d="M181.485 616.977L174.09 624.372" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_17">
 <path id="Vector_168" d="M261.509 451.298L251.609 443.607L261.509 435.916V451.298Z" fill="#0052AF"/>
-<path id="Vector_169" d="M260.859 443.607H321.117" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_169" d="M260.859 443.607H321.117" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012345_18">
 <path id="Vector_170" d="M979.658 582.873L967.219 584.435L968.781 571.996L979.658 582.873Z" fill="#0052AF"/>
-<path id="Vector_171" d="M973.758 577.894L1007.37 544.285" stroke="#0052AF" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_171" d="M973.758 577.894L1007.37 544.285" stroke-width="8" stroke-miterlimit="10" stroke="#0052AF"/>
 </g>
 <g id="R-ICO-012348_5">
-<path id="Vector_172" d="M784.367 116.643C746.98 90.5228 690.002 90.5228 644.23 119.69" stroke="url(#paint91_linear_1918_469072)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_172" d="M784.367 116.643C746.98 90.5228 690.002 90.5228 644.23 119.69" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint91_linear_1918_469072)"/>
 <path id="Vector_173" d="M787.527 109.846L791.261 121.813L778.742 122.473L787.527 109.846Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_6">
-<path id="Vector_174" d="M1160.11 426.929C1145.26 383.807 1099.19 350.27 1045.02 346.91" stroke="url(#paint92_linear_1918_469072)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_174" d="M1160.11 426.929C1145.26 383.807 1099.19 350.27 1045.02 346.91" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint92_linear_1918_469072)"/>
 <path id="Vector_175" d="M1166.66 423.293L1162.64 435.166L1152.13 428.331L1166.66 423.293Z" fill="#0052AF"/>
 </g>
 <g id="R-ICO-012348_7">
-<path id="Vector_176" d="M275.379 554.072C312.765 527.951 439.744 527.952 485.515 557.119" stroke="url(#paint93_linear_1918_469072)" stroke-width="8" stroke-miterlimit="10"/>
+<path id="Vector_176" d="M275.379 554.072C312.765 527.951 439.744 527.952 485.515 557.119" stroke-width="8" stroke-miterlimit="10" stroke="url(#paint93_linear_1918_469072)"/>
 <path id="Vector_177" d="M272.219 547.274L268.484 559.242L281.003 559.902L272.219 547.274Z" fill="#0052AF"/>
 </g>
 </g>
